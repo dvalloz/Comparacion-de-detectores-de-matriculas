@@ -68,4 +68,4 @@ El conjunto de pruebas incluye imágenes con diferentes resoluciones, iluminacio
 1. **Clonar el repositorio:**
    ```bash
    git clone https://github.com/dvalloz/Comparacion-de-detectores-de-matriculas.git
-   cd license-plate-detection-comparison
+   cd Comparacion-de-detectores-de-matriculas
