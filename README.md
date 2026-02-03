@@ -85,160 +85,139 @@ for i in coches:
 
 
     
-![png](output_4_0.png)
+![png](notebook_files/output_4_0.png)
     
 
 
 
     
-![png](output_4_1.png)
+![png](notebook_files/output_4_1.png)
     
 
 
 
     
-![png](output_4_2.png)
+![png](notebook_files/output_4_2.png)
     
 
 
 
     
-![png](output_4_3.png)
+![png](notebook_files/output_4_3.png)
     
 
 
 
     
-![png](output_4_4.png)
+![png](notebook_files/output_4_4.png)
     
 
 
 
     
-![png](output_4_5.png)
+![png](notebook_files/output_4_5.png)
     
 
 
 
     
-![png](output_4_6.png)
+![png](notebook_files/output_4_6.png)
     
 
 
 
     
-![png](output_4_7.png)
+![png](notebook_files/output_4_7.png)
     
 
 
 
     
-![png](output_4_8.png)
+![png](notebook_files/output_4_8.png)
     
 
 
 
     
-![png](output_4_9.png)
+![png](notebook_files/output_4_9.png)
     
 
 
 
     
-![png](output_4_10.png)
+![png](notebook_files/output_4_10.png)
     
 
 
 
     
-![png](output_4_11.png)
+![png](notebook_files/output_4_11.png)
     
 
 
 
     
-![png](output_4_12.png)
+![png](notebook_files/output_4_12.png)
     
 
 
 
     
-![png](output_4_13.png)
+![png](notebook_files/output_4_13.png)
     
 
 
 
     
-![png](output_4_14.png)
+![png](notebook_files/output_4_14.png)
     
 
 
 
     
-![png](output_4_15.png)
+![png](notebook_files/output_4_15.png)
     
 
 
 
     
-![png](output_4_16.png)
+![png](notebook_files/output_4_16.png)
     
 
 
 
     
-![png](output_4_17.png)
+![png](notebook_files/output_4_17.png)
     
 
 
 
     
-![png](output_4_18.png)
+![png](notebook_files/output_4_18.png)
     
 
 
 
     
-![png](output_4_19.png)
+![png](notebook_files/output_4_19.png)
     
 
 
 
     
-![png](output_4_20.png)
+![png](notebook_files/output_4_20.png)
     
 
 
 
     
-![png](output_4_21.png)
+![png](notebook_files/output_4_21.png)
     
 
 
 
     
-![png](output_4_22.png)
-    
-
-
-    No se pudo detectar la matrícula.
-    
-
-
-    
-![png](output_4_24.png)
-    
-
-
-
-    
-![png](output_4_25.png)
-    
-
-
-
-    
-![png](output_4_26.png)
+![png](notebook_files/output_4_22.png)
     
 
 
@@ -247,31 +226,52 @@ for i in coches:
 
 
     
-![png](output_4_28.png)
+![png](notebook_files/output_4_24.png)
     
 
 
 
     
-![png](output_4_29.png)
+![png](notebook_files/output_4_25.png)
     
 
 
 
     
-![png](output_4_30.png)
+![png](notebook_files/output_4_26.png)
+    
+
+
+    No se pudo detectar la matrícula.
+    
+
+
+    
+![png](notebook_files/output_4_28.png)
     
 
 
 
     
-![png](output_4_31.png)
+![png](notebook_files/output_4_29.png)
     
 
 
 
     
-![png](output_4_32.png)
+![png](notebook_files/output_4_30.png)
+    
+
+
+
+    
+![png](notebook_files/output_4_31.png)
+    
+
+
+
+    
+![png](notebook_files/output_4_32.png)
     
 
 
@@ -471,7 +471,7 @@ print("Proceso completo. Resultados guardados en:", archivo_salida)
 
 
     
-![png](output_6_1.png)
+![png](notebook_files/output_6_1.png)
     
 
 
@@ -480,7 +480,7 @@ print("Proceso completo. Resultados guardados en:", archivo_salida)
 
 
     
-![png](output_6_3.png)
+![png](notebook_files/output_6_3.png)
     
 
 
@@ -489,7 +489,7 @@ print("Proceso completo. Resultados guardados en:", archivo_salida)
 
 
     
-![png](output_6_5.png)
+![png](notebook_files/output_6_5.png)
     
 
 
@@ -498,7 +498,7 @@ print("Proceso completo. Resultados guardados en:", archivo_salida)
 
 
     
-![png](output_6_7.png)
+![png](notebook_files/output_6_7.png)
     
 
 
@@ -507,7 +507,7 @@ print("Proceso completo. Resultados guardados en:", archivo_salida)
 
 
     
-![png](output_6_9.png)
+![png](notebook_files/output_6_9.png)
     
 
 
@@ -516,7 +516,7 @@ print("Proceso completo. Resultados guardados en:", archivo_salida)
 
 
     
-![png](output_6_11.png)
+![png](notebook_files/output_6_11.png)
     
 
 
@@ -525,7 +525,7 @@ print("Proceso completo. Resultados guardados en:", archivo_salida)
 
 
     
-![png](output_6_13.png)
+![png](notebook_files/output_6_13.png)
     
 
 
@@ -534,7 +534,7 @@ print("Proceso completo. Resultados guardados en:", archivo_salida)
 
 
     
-![png](output_6_15.png)
+![png](notebook_files/output_6_15.png)
     
 
 
@@ -543,7 +543,7 @@ print("Proceso completo. Resultados guardados en:", archivo_salida)
 
 
     
-![png](output_6_17.png)
+![png](notebook_files/output_6_17.png)
     
 
 
@@ -552,7 +552,7 @@ print("Proceso completo. Resultados guardados en:", archivo_salida)
 
 
     
-![png](output_6_19.png)
+![png](notebook_files/output_6_19.png)
     
 
 
@@ -561,7 +561,7 @@ print("Proceso completo. Resultados guardados en:", archivo_salida)
 
 
     
-![png](output_6_21.png)
+![png](notebook_files/output_6_21.png)
     
 
 
@@ -570,7 +570,7 @@ print("Proceso completo. Resultados guardados en:", archivo_salida)
 
 
     
-![png](output_6_23.png)
+![png](notebook_files/output_6_23.png)
     
 
 
@@ -579,7 +579,7 @@ print("Proceso completo. Resultados guardados en:", archivo_salida)
 
 
     
-![png](output_6_25.png)
+![png](notebook_files/output_6_25.png)
     
 
 
@@ -588,7 +588,7 @@ print("Proceso completo. Resultados guardados en:", archivo_salida)
 
 
     
-![png](output_6_27.png)
+![png](notebook_files/output_6_27.png)
     
 
 
@@ -597,7 +597,7 @@ print("Proceso completo. Resultados guardados en:", archivo_salida)
 
 
     
-![png](output_6_29.png)
+![png](notebook_files/output_6_29.png)
     
 
 
@@ -606,7 +606,7 @@ print("Proceso completo. Resultados guardados en:", archivo_salida)
 
 
     
-![png](output_6_31.png)
+![png](notebook_files/output_6_31.png)
     
 
 
@@ -615,16 +615,10 @@ print("Proceso completo. Resultados guardados en:", archivo_salida)
 
 
     
-![png](output_6_33.png)
+
+
+ 
     
-
-
-    matricula4 → ['7011CDZ']
-    
-
-
-    
-![png](output_6_35.png)
     
 
 
@@ -649,131 +643,7 @@ Una vez terminado el proceso, guardamos la imagen resultante en la carpeta de sa
 
 ```python
 !pip install easyocr
-```
-
-    Collecting easyocr
-      Downloading easyocr-1.7.2-py3-none-any.whl.metadata (10 kB)
-    Requirement already satisfied: torch in /usr/local/lib/python3.11/dist-packages (from easyocr) (2.6.0+cu124)
-    Requirement already satisfied: torchvision>=0.5 in /usr/local/lib/python3.11/dist-packages (from easyocr) (0.21.0+cu124)
-    Requirement already satisfied: opencv-python-headless in /usr/local/lib/python3.11/dist-packages (from easyocr) (4.11.0.86)
-    Requirement already satisfied: scipy in /usr/local/lib/python3.11/dist-packages (from easyocr) (1.15.3)
-    Requirement already satisfied: numpy in /usr/local/lib/python3.11/dist-packages (from easyocr) (2.0.2)
-    Requirement already satisfied: Pillow in /usr/local/lib/python3.11/dist-packages (from easyocr) (11.2.1)
-    Requirement already satisfied: scikit-image in /usr/local/lib/python3.11/dist-packages (from easyocr) (0.25.2)
-    Collecting python-bidi (from easyocr)
-      Downloading python_bidi-0.6.6-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl.metadata (4.9 kB)
-    Requirement already satisfied: PyYAML in /usr/local/lib/python3.11/dist-packages (from easyocr) (6.0.2)
-    Requirement already satisfied: Shapely in /usr/local/lib/python3.11/dist-packages (from easyocr) (2.1.1)
-    Collecting pyclipper (from easyocr)
-      Downloading pyclipper-1.3.0.post6-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl.metadata (9.0 kB)
-    Collecting ninja (from easyocr)
-      Downloading ninja-1.11.1.4-py3-none-manylinux_2_12_x86_64.manylinux2010_x86_64.whl.metadata (5.0 kB)
-    Requirement already satisfied: filelock in /usr/local/lib/python3.11/dist-packages (from torch->easyocr) (3.18.0)
-    Requirement already satisfied: typing-extensions>=4.10.0 in /usr/local/lib/python3.11/dist-packages (from torch->easyocr) (4.13.2)
-    Requirement already satisfied: networkx in /usr/local/lib/python3.11/dist-packages (from torch->easyocr) (3.5)
-    Requirement already satisfied: jinja2 in /usr/local/lib/python3.11/dist-packages (from torch->easyocr) (3.1.6)
-    Requirement already satisfied: fsspec in /usr/local/lib/python3.11/dist-packages (from torch->easyocr) (2025.3.2)
-    Collecting nvidia-cuda-nvrtc-cu12==12.4.127 (from torch->easyocr)
-      Downloading nvidia_cuda_nvrtc_cu12-12.4.127-py3-none-manylinux2014_x86_64.whl.metadata (1.5 kB)
-    Collecting nvidia-cuda-runtime-cu12==12.4.127 (from torch->easyocr)
-      Downloading nvidia_cuda_runtime_cu12-12.4.127-py3-none-manylinux2014_x86_64.whl.metadata (1.5 kB)
-    Collecting nvidia-cuda-cupti-cu12==12.4.127 (from torch->easyocr)
-      Downloading nvidia_cuda_cupti_cu12-12.4.127-py3-none-manylinux2014_x86_64.whl.metadata (1.6 kB)
-    Collecting nvidia-cudnn-cu12==9.1.0.70 (from torch->easyocr)
-      Downloading nvidia_cudnn_cu12-9.1.0.70-py3-none-manylinux2014_x86_64.whl.metadata (1.6 kB)
-    Collecting nvidia-cublas-cu12==12.4.5.8 (from torch->easyocr)
-      Downloading nvidia_cublas_cu12-12.4.5.8-py3-none-manylinux2014_x86_64.whl.metadata (1.5 kB)
-    Collecting nvidia-cufft-cu12==11.2.1.3 (from torch->easyocr)
-      Downloading nvidia_cufft_cu12-11.2.1.3-py3-none-manylinux2014_x86_64.whl.metadata (1.5 kB)
-    Collecting nvidia-curand-cu12==10.3.5.147 (from torch->easyocr)
-      Downloading nvidia_curand_cu12-10.3.5.147-py3-none-manylinux2014_x86_64.whl.metadata (1.5 kB)
-    Collecting nvidia-cusolver-cu12==11.6.1.9 (from torch->easyocr)
-      Downloading nvidia_cusolver_cu12-11.6.1.9-py3-none-manylinux2014_x86_64.whl.metadata (1.6 kB)
-    Collecting nvidia-cusparse-cu12==12.3.1.170 (from torch->easyocr)
-      Downloading nvidia_cusparse_cu12-12.3.1.170-py3-none-manylinux2014_x86_64.whl.metadata (1.6 kB)
-    Requirement already satisfied: nvidia-cusparselt-cu12==0.6.2 in /usr/local/lib/python3.11/dist-packages (from torch->easyocr) (0.6.2)
-    Requirement already satisfied: nvidia-nccl-cu12==2.21.5 in /usr/local/lib/python3.11/dist-packages (from torch->easyocr) (2.21.5)
-    Requirement already satisfied: nvidia-nvtx-cu12==12.4.127 in /usr/local/lib/python3.11/dist-packages (from torch->easyocr) (12.4.127)
-    Collecting nvidia-nvjitlink-cu12==12.4.127 (from torch->easyocr)
-      Downloading nvidia_nvjitlink_cu12-12.4.127-py3-none-manylinux2014_x86_64.whl.metadata (1.5 kB)
-    Requirement already satisfied: triton==3.2.0 in /usr/local/lib/python3.11/dist-packages (from torch->easyocr) (3.2.0)
-    Requirement already satisfied: sympy==1.13.1 in /usr/local/lib/python3.11/dist-packages (from torch->easyocr) (1.13.1)
-    Requirement already satisfied: mpmath<1.4,>=1.1.0 in /usr/local/lib/python3.11/dist-packages (from sympy==1.13.1->torch->easyocr) (1.3.0)
-    Requirement already satisfied: imageio!=2.35.0,>=2.33 in /usr/local/lib/python3.11/dist-packages (from scikit-image->easyocr) (2.37.0)
-    Requirement already satisfied: tifffile>=2022.8.12 in /usr/local/lib/python3.11/dist-packages (from scikit-image->easyocr) (2025.5.26)
-    Requirement already satisfied: packaging>=21 in /usr/local/lib/python3.11/dist-packages (from scikit-image->easyocr) (24.2)
-    Requirement already satisfied: lazy-loader>=0.4 in /usr/local/lib/python3.11/dist-packages (from scikit-image->easyocr) (0.4)
-    Requirement already satisfied: MarkupSafe>=2.0 in /usr/local/lib/python3.11/dist-packages (from jinja2->torch->easyocr) (3.0.2)
-    Downloading easyocr-1.7.2-py3-none-any.whl (2.9 MB)
-    [2K   [90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m2.9/2.9 MB[0m [31m17.1 MB/s[0m eta [36m0:00:00[0m
-    [?25hDownloading nvidia_cublas_cu12-12.4.5.8-py3-none-manylinux2014_x86_64.whl (363.4 MB)
-    [2K   [90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m363.4/363.4 MB[0m [31m4.1 MB/s[0m eta [36m0:00:00[0m
-    [?25hDownloading nvidia_cuda_cupti_cu12-12.4.127-py3-none-manylinux2014_x86_64.whl (13.8 MB)
-    [2K   [90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m13.8/13.8 MB[0m [31m31.4 MB/s[0m eta [36m0:00:00[0m
-    [?25hDownloading nvidia_cuda_nvrtc_cu12-12.4.127-py3-none-manylinux2014_x86_64.whl (24.6 MB)
-    [2K   [90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m24.6/24.6 MB[0m [31m40.1 MB/s[0m eta [36m0:00:00[0m
-    [?25hDownloading nvidia_cuda_runtime_cu12-12.4.127-py3-none-manylinux2014_x86_64.whl (883 kB)
-    [2K   [90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m883.7/883.7 kB[0m [31m29.6 MB/s[0m eta [36m0:00:00[0m
-    [?25hDownloading nvidia_cudnn_cu12-9.1.0.70-py3-none-manylinux2014_x86_64.whl (664.8 MB)
-    [2K   [90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m664.8/664.8 MB[0m [31m2.6 MB/s[0m eta [36m0:00:00[0m
-    [?25hDownloading nvidia_cufft_cu12-11.2.1.3-py3-none-manylinux2014_x86_64.whl (211.5 MB)
-    [2K   [90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m211.5/211.5 MB[0m [31m6.6 MB/s[0m eta [36m0:00:00[0m
-    [?25hDownloading nvidia_curand_cu12-10.3.5.147-py3-none-manylinux2014_x86_64.whl (56.3 MB)
-    [2K   [90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m56.3/56.3 MB[0m [31m12.8 MB/s[0m eta [36m0:00:00[0m
-    [?25hDownloading nvidia_cusolver_cu12-11.6.1.9-py3-none-manylinux2014_x86_64.whl (127.9 MB)
-    [2K   [90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m127.9/127.9 MB[0m [31m7.3 MB/s[0m eta [36m0:00:00[0m
-    [?25hDownloading nvidia_cusparse_cu12-12.3.1.170-py3-none-manylinux2014_x86_64.whl (207.5 MB)
-    [2K   [90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m207.5/207.5 MB[0m [31m5.8 MB/s[0m eta [36m0:00:00[0m
-    [?25hDownloading nvidia_nvjitlink_cu12-12.4.127-py3-none-manylinux2014_x86_64.whl (21.1 MB)
-    [2K   [90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m21.1/21.1 MB[0m [31m95.4 MB/s[0m eta [36m0:00:00[0m
-    [?25hDownloading ninja-1.11.1.4-py3-none-manylinux_2_12_x86_64.manylinux2010_x86_64.whl (422 kB)
-    [2K   [90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m422.8/422.8 kB[0m [31m30.8 MB/s[0m eta [36m0:00:00[0m
-    [?25hDownloading pyclipper-1.3.0.post6-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl (969 kB)
-    [2K   [90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m969.6/969.6 kB[0m [31m57.4 MB/s[0m eta [36m0:00:00[0m
-    [?25hDownloading python_bidi-0.6.6-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl (292 kB)
-    [2K   [90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m292.9/292.9 kB[0m [31m25.9 MB/s[0m eta [36m0:00:00[0m
-    [?25hInstalling collected packages: python-bidi, pyclipper, nvidia-nvjitlink-cu12, nvidia-curand-cu12, nvidia-cufft-cu12, nvidia-cuda-runtime-cu12, nvidia-cuda-nvrtc-cu12, nvidia-cuda-cupti-cu12, nvidia-cublas-cu12, ninja, nvidia-cusparse-cu12, nvidia-cudnn-cu12, nvidia-cusolver-cu12, easyocr
-      Attempting uninstall: nvidia-nvjitlink-cu12
-        Found existing installation: nvidia-nvjitlink-cu12 12.5.82
-        Uninstalling nvidia-nvjitlink-cu12-12.5.82:
-          Successfully uninstalled nvidia-nvjitlink-cu12-12.5.82
-      Attempting uninstall: nvidia-curand-cu12
-        Found existing installation: nvidia-curand-cu12 10.3.6.82
-        Uninstalling nvidia-curand-cu12-10.3.6.82:
-          Successfully uninstalled nvidia-curand-cu12-10.3.6.82
-      Attempting uninstall: nvidia-cufft-cu12
-        Found existing installation: nvidia-cufft-cu12 11.2.3.61
-        Uninstalling nvidia-cufft-cu12-11.2.3.61:
-          Successfully uninstalled nvidia-cufft-cu12-11.2.3.61
-      Attempting uninstall: nvidia-cuda-runtime-cu12
-        Found existing installation: nvidia-cuda-runtime-cu12 12.5.82
-        Uninstalling nvidia-cuda-runtime-cu12-12.5.82:
-          Successfully uninstalled nvidia-cuda-runtime-cu12-12.5.82
-      Attempting uninstall: nvidia-cuda-nvrtc-cu12
-        Found existing installation: nvidia-cuda-nvrtc-cu12 12.5.82
-        Uninstalling nvidia-cuda-nvrtc-cu12-12.5.82:
-          Successfully uninstalled nvidia-cuda-nvrtc-cu12-12.5.82
-      Attempting uninstall: nvidia-cuda-cupti-cu12
-        Found existing installation: nvidia-cuda-cupti-cu12 12.5.82
-        Uninstalling nvidia-cuda-cupti-cu12-12.5.82:
-          Successfully uninstalled nvidia-cuda-cupti-cu12-12.5.82
-      Attempting uninstall: nvidia-cublas-cu12
-        Found existing installation: nvidia-cublas-cu12 12.5.3.2
-        Uninstalling nvidia-cublas-cu12-12.5.3.2:
-          Successfully uninstalled nvidia-cublas-cu12-12.5.3.2
-      Attempting uninstall: nvidia-cusparse-cu12
-        Found existing installation: nvidia-cusparse-cu12 12.5.1.3
-        Uninstalling nvidia-cusparse-cu12-12.5.1.3:
-          Successfully uninstalled nvidia-cusparse-cu12-12.5.1.3
-      Attempting uninstall: nvidia-cudnn-cu12
-        Found existing installation: nvidia-cudnn-cu12 9.3.0.75
-        Uninstalling nvidia-cudnn-cu12-9.3.0.75:
-          Successfully uninstalled nvidia-cudnn-cu12-9.3.0.75
-      Attempting uninstall: nvidia-cusolver-cu12
-        Found existing installation: nvidia-cusolver-cu12 11.6.3.83
-        Uninstalling nvidia-cusolver-cu12-11.6.3.83:
-          Successfully uninstalled nvidia-cusolver-cu12-11.6.3.83
-    Successfully installed easyocr-1.7.2 ninja-1.11.1.4 nvidia-cublas-cu12-12.4.5.8 nvidia-cuda-cupti-cu12-12.4.127 nvidia-cuda-nvrtc-cu12-12.4.127 nvidia-cuda-runtime-cu12-12.4.127 nvidia-cudnn-cu12-9.1.0.70 nvidia-cufft-cu12-11.2.1.3 nvidia-curand-cu12-10.3.5.147 nvidia-cusolver-cu12-11.6.1.9 nvidia-cusparse-cu12-12.3.1.170 nvidia-nvjitlink-cu12-12.4.127 pyclipper-1.3.0.post6 python-bidi-0.6.6
+`
     
 
 
@@ -802,8 +672,8 @@ Se instalan las librerias: `kaggle`, para descargar el dataset; `ultrelytics`, p
 
 ```
 
-    [?25l   [90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m0.0/1.0 MB[0m [31m?[0m eta [36m-:--:--[0m[2K   [90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m1.0/1.0 MB[0m [31m36.9 MB/s[0m eta [36m0:00:00[0m
-    [?25h
+
+
 
 # **Autenticación en Kaggle**
 
@@ -2496,7 +2366,7 @@ IPyImage(filename='/content/runs/detect/train/results.png', width=800)
 
 
     
-![png](output_42_0.png)
+![png](notebook_files/output_42_0.png)
     
 
 
@@ -2861,7 +2731,1722 @@ for img_file in image_files:
     WARNING:easyocr.easyocr:Downloading recognition model, please wait. This may take several minutes depending upon your network connection.
     
 
-    Progress: |--------------------------------------------------| 0.0% CompleteProgress: |--------------------------------------------------| 0.1% CompleteProgress: |--------------------------------------------------| 0.1% CompleteProgress: |--------------------------------------------------| 0.2% CompleteProgress: |--------------------------------------------------| 0.2% CompleteProgress: |--------------------------------------------------| 0.3% CompleteProgress: |--------------------------------------------------| 0.4% CompleteProgress: |--------------------------------------------------| 0.4% CompleteProgress: |--------------------------------------------------| 0.5% CompleteProgress: |--------------------------------------------------| 0.5% CompleteProgress: |--------------------------------------------------| 0.6% CompleteProgress: |--------------------------------------------------| 0.6% CompleteProgress: |--------------------------------------------------| 0.7% CompleteProgress: |--------------------------------------------------| 0.8% CompleteProgress: |--------------------------------------------------| 0.8% CompleteProgress: |--------------------------------------------------| 0.9% CompleteProgress: |--------------------------------------------------| 0.9% CompleteProgress: |--------------------------------------------------| 1.0% CompleteProgress: |--------------------------------------------------| 1.1% CompleteProgress: |--------------------------------------------------| 1.1% CompleteProgress: |--------------------------------------------------| 1.2% CompleteProgress: |--------------------------------------------------| 1.2% CompleteProgress: |--------------------------------------------------| 1.3% CompleteProgress: |--------------------------------------------------| 1.3% CompleteProgress: |--------------------------------------------------| 1.4% CompleteProgress: |--------------------------------------------------| 1.5% CompleteProgress: |--------------------------------------------------| 1.5% CompleteProgress: |--------------------------------------------------| 1.6% CompleteProgress: |--------------------------------------------------| 1.6% CompleteProgress: |--------------------------------------------------| 1.7% CompleteProgress: |--------------------------------------------------| 1.8% CompleteProgress: |--------------------------------------------------| 1.8% CompleteProgress: |--------------------------------------------------| 1.9% CompleteProgress: |--------------------------------------------------| 1.9% CompleteProgress: |--------------------------------------------------| 2.0% CompleteProgress: |█-------------------------------------------------| 2.0% CompleteProgress: |█-------------------------------------------------| 2.1% CompleteProgress: |█-------------------------------------------------| 2.2% CompleteProgress: |█-------------------------------------------------| 2.2% CompleteProgress: |█-------------------------------------------------| 2.3% CompleteProgress: |█-------------------------------------------------| 2.3% CompleteProgress: |█-------------------------------------------------| 2.4% CompleteProgress: |█-------------------------------------------------| 2.5% CompleteProgress: |█-------------------------------------------------| 2.5% CompleteProgress: |█-------------------------------------------------| 2.6% CompleteProgress: |█-------------------------------------------------| 2.6% CompleteProgress: |█-------------------------------------------------| 2.7% CompleteProgress: |█-------------------------------------------------| 2.7% CompleteProgress: |█-------------------------------------------------| 2.8% CompleteProgress: |█-------------------------------------------------| 2.9% CompleteProgress: |█-------------------------------------------------| 2.9% CompleteProgress: |█-------------------------------------------------| 3.0% CompleteProgress: |█-------------------------------------------------| 3.0% CompleteProgress: |█-------------------------------------------------| 3.1% CompleteProgress: |█-------------------------------------------------| 3.2% CompleteProgress: |█-------------------------------------------------| 3.2% CompleteProgress: |█-------------------------------------------------| 3.3% CompleteProgress: |█-------------------------------------------------| 3.3% CompleteProgress: |█-------------------------------------------------| 3.4% CompleteProgress: |█-------------------------------------------------| 3.4% CompleteProgress: |█-------------------------------------------------| 3.5% CompleteProgress: |█-------------------------------------------------| 3.6% CompleteProgress: |█-------------------------------------------------| 3.6% CompleteProgress: |█-------------------------------------------------| 3.7% CompleteProgress: |█-------------------------------------------------| 3.7% CompleteProgress: |█-------------------------------------------------| 3.8% CompleteProgress: |█-------------------------------------------------| 3.9% CompleteProgress: |█-------------------------------------------------| 3.9% CompleteProgress: |█-------------------------------------------------| 4.0% CompleteProgress: |██------------------------------------------------| 4.0% CompleteProgress: |██------------------------------------------------| 4.1% CompleteProgress: |██------------------------------------------------| 4.1% CompleteProgress: |██------------------------------------------------| 4.2% CompleteProgress: |██------------------------------------------------| 4.3% CompleteProgress: |██------------------------------------------------| 4.3% CompleteProgress: |██------------------------------------------------| 4.4% CompleteProgress: |██------------------------------------------------| 4.4% CompleteProgress: |██------------------------------------------------| 4.5% CompleteProgress: |██------------------------------------------------| 4.6% CompleteProgress: |██------------------------------------------------| 4.6% CompleteProgress: |██------------------------------------------------| 4.7% CompleteProgress: |██------------------------------------------------| 4.7% CompleteProgress: |██------------------------------------------------| 4.8% CompleteProgress: |██------------------------------------------------| 4.8% CompleteProgress: |██------------------------------------------------| 4.9% CompleteProgress: |██------------------------------------------------| 5.0% CompleteProgress: |██------------------------------------------------| 5.0% CompleteProgress: |██------------------------------------------------| 5.1% CompleteProgress: |██------------------------------------------------| 5.1% CompleteProgress: |██------------------------------------------------| 5.2% CompleteProgress: |██------------------------------------------------| 5.3% CompleteProgress: |██------------------------------------------------| 5.3% CompleteProgress: |██------------------------------------------------| 5.4% CompleteProgress: |██------------------------------------------------| 5.4% CompleteProgress: |██------------------------------------------------| 5.5% CompleteProgress: |██------------------------------------------------| 5.5% CompleteProgress: |██------------------------------------------------| 5.6% CompleteProgress: |██------------------------------------------------| 5.7% CompleteProgress: |██------------------------------------------------| 5.7% CompleteProgress: |██------------------------------------------------| 5.8% CompleteProgress: |██------------------------------------------------| 5.8% CompleteProgress: |██------------------------------------------------| 5.9% CompleteProgress: |██------------------------------------------------| 6.0% CompleteProgress: |███-----------------------------------------------| 6.0% CompleteProgress: |███-----------------------------------------------| 6.1% CompleteProgress: |███-----------------------------------------------| 6.1% CompleteProgress: |███-----------------------------------------------| 6.2% CompleteProgress: |███-----------------------------------------------| 6.2% CompleteProgress: |███-----------------------------------------------| 6.3% CompleteProgress: |███-----------------------------------------------| 6.4% CompleteProgress: |███-----------------------------------------------| 6.4% CompleteProgress: |███-----------------------------------------------| 6.5% CompleteProgress: |███-----------------------------------------------| 6.5% CompleteProgress: |███-----------------------------------------------| 6.6% CompleteProgress: |███-----------------------------------------------| 6.7% CompleteProgress: |███-----------------------------------------------| 6.7% CompleteProgress: |███-----------------------------------------------| 6.8% CompleteProgress: |███-----------------------------------------------| 6.8% CompleteProgress: |███-----------------------------------------------| 6.9% CompleteProgress: |███-----------------------------------------------| 6.9% CompleteProgress: |███-----------------------------------------------| 7.0% CompleteProgress: |███-----------------------------------------------| 7.1% CompleteProgress: |███-----------------------------------------------| 7.1% CompleteProgress: |███-----------------------------------------------| 7.2% CompleteProgress: |███-----------------------------------------------| 7.2% CompleteProgress: |███-----------------------------------------------| 7.3% CompleteProgress: |███-----------------------------------------------| 7.4% CompleteProgress: |███-----------------------------------------------| 7.4% CompleteProgress: |███-----------------------------------------------| 7.5% CompleteProgress: |███-----------------------------------------------| 7.5% CompleteProgress: |███-----------------------------------------------| 7.6% CompleteProgress: |███-----------------------------------------------| 7.6% CompleteProgress: |███-----------------------------------------------| 7.7% CompleteProgress: |███-----------------------------------------------| 7.8% CompleteProgress: |███-----------------------------------------------| 7.8% CompleteProgress: |███-----------------------------------------------| 7.9% CompleteProgress: |███-----------------------------------------------| 7.9% CompleteProgress: |███-----------------------------------------------| 8.0% CompleteProgress: |████----------------------------------------------| 8.1% CompleteProgress: |████----------------------------------------------| 8.1% CompleteProgress: |████----------------------------------------------| 8.2% CompleteProgress: |████----------------------------------------------| 8.2% CompleteProgress: |████----------------------------------------------| 8.3% CompleteProgress: |████----------------------------------------------| 8.3% CompleteProgress: |████----------------------------------------------| 8.4% CompleteProgress: |████----------------------------------------------| 8.5% CompleteProgress: |████----------------------------------------------| 8.5% CompleteProgress: |████----------------------------------------------| 8.6% CompleteProgress: |████----------------------------------------------| 8.6% CompleteProgress: |████----------------------------------------------| 8.7% CompleteProgress: |████----------------------------------------------| 8.8% CompleteProgress: |████----------------------------------------------| 8.8% CompleteProgress: |████----------------------------------------------| 8.9% CompleteProgress: |████----------------------------------------------| 8.9% CompleteProgress: |████----------------------------------------------| 9.0% CompleteProgress: |████----------------------------------------------| 9.0% CompleteProgress: |████----------------------------------------------| 9.1% CompleteProgress: |████----------------------------------------------| 9.2% CompleteProgress: |████----------------------------------------------| 9.2% CompleteProgress: |████----------------------------------------------| 9.3% CompleteProgress: |████----------------------------------------------| 9.3% CompleteProgress: |████----------------------------------------------| 9.4% CompleteProgress: |████----------------------------------------------| 9.5% CompleteProgress: |████----------------------------------------------| 9.5% CompleteProgress: |████----------------------------------------------| 9.6% CompleteProgress: |████----------------------------------------------| 9.6% CompleteProgress: |████----------------------------------------------| 9.7% CompleteProgress: |████----------------------------------------------| 9.7% CompleteProgress: |████----------------------------------------------| 9.8% CompleteProgress: |████----------------------------------------------| 9.9% CompleteProgress: |████----------------------------------------------| 9.9% CompleteProgress: |████----------------------------------------------| 10.0% CompleteProgress: |█████---------------------------------------------| 10.0% CompleteProgress: |█████---------------------------------------------| 10.1% CompleteProgress: |█████---------------------------------------------| 10.2% CompleteProgress: |█████---------------------------------------------| 10.2% CompleteProgress: |█████---------------------------------------------| 10.3% CompleteProgress: |█████---------------------------------------------| 10.3% CompleteProgress: |█████---------------------------------------------| 10.4% CompleteProgress: |█████---------------------------------------------| 10.4% CompleteProgress: |█████---------------------------------------------| 10.5% CompleteProgress: |█████---------------------------------------------| 10.6% CompleteProgress: |█████---------------------------------------------| 10.6% CompleteProgress: |█████---------------------------------------------| 10.7% CompleteProgress: |█████---------------------------------------------| 10.7% CompleteProgress: |█████---------------------------------------------| 10.8% CompleteProgress: |█████---------------------------------------------| 10.9% CompleteProgress: |█████---------------------------------------------| 10.9% CompleteProgress: |█████---------------------------------------------| 11.0% CompleteProgress: |█████---------------------------------------------| 11.0% CompleteProgress: |█████---------------------------------------------| 11.1% CompleteProgress: |█████---------------------------------------------| 11.1% CompleteProgress: |█████---------------------------------------------| 11.2% CompleteProgress: |█████---------------------------------------------| 11.3% CompleteProgress: |█████---------------------------------------------| 11.3% CompleteProgress: |█████---------------------------------------------| 11.4% CompleteProgress: |█████---------------------------------------------| 11.4% CompleteProgress: |█████---------------------------------------------| 11.5% CompleteProgress: |█████---------------------------------------------| 11.6% CompleteProgress: |█████---------------------------------------------| 11.6% CompleteProgress: |█████---------------------------------------------| 11.7% CompleteProgress: |█████---------------------------------------------| 11.7% CompleteProgress: |█████---------------------------------------------| 11.8% CompleteProgress: |█████---------------------------------------------| 11.8% CompleteProgress: |█████---------------------------------------------| 11.9% CompleteProgress: |█████---------------------------------------------| 12.0% CompleteProgress: |██████--------------------------------------------| 12.0% CompleteProgress: |██████--------------------------------------------| 12.1% CompleteProgress: |██████--------------------------------------------| 12.1% CompleteProgress: |██████--------------------------------------------| 12.2% CompleteProgress: |██████--------------------------------------------| 12.3% CompleteProgress: |██████--------------------------------------------| 12.3% CompleteProgress: |██████--------------------------------------------| 12.4% CompleteProgress: |██████--------------------------------------------| 12.4% CompleteProgress: |██████--------------------------------------------| 12.5% CompleteProgress: |██████--------------------------------------------| 12.5% CompleteProgress: |██████--------------------------------------------| 12.6% CompleteProgress: |██████--------------------------------------------| 12.7% CompleteProgress: |██████--------------------------------------------| 12.7% CompleteProgress: |██████--------------------------------------------| 12.8% CompleteProgress: |██████--------------------------------------------| 12.8% CompleteProgress: |██████--------------------------------------------| 12.9% CompleteProgress: |██████--------------------------------------------| 13.0% CompleteProgress: |██████--------------------------------------------| 13.0% CompleteProgress: |██████--------------------------------------------| 13.1% CompleteProgress: |██████--------------------------------------------| 13.1% CompleteProgress: |██████--------------------------------------------| 13.2% CompleteProgress: |██████--------------------------------------------| 13.2% CompleteProgress: |██████--------------------------------------------| 13.3% CompleteProgress: |██████--------------------------------------------| 13.4% CompleteProgress: |██████--------------------------------------------| 13.4% CompleteProgress: |██████--------------------------------------------| 13.5% CompleteProgress: |██████--------------------------------------------| 13.5% CompleteProgress: |██████--------------------------------------------| 13.6% CompleteProgress: |██████--------------------------------------------| 13.7% CompleteProgress: |██████--------------------------------------------| 13.7% CompleteProgress: |██████--------------------------------------------| 13.8% CompleteProgress: |██████--------------------------------------------| 13.8% CompleteProgress: |██████--------------------------------------------| 13.9% CompleteProgress: |██████--------------------------------------------| 13.9% CompleteProgress: |███████-------------------------------------------| 14.0% CompleteProgress: |███████-------------------------------------------| 14.1% CompleteProgress: |███████-------------------------------------------| 14.1% CompleteProgress: |███████-------------------------------------------| 14.2% CompleteProgress: |███████-------------------------------------------| 14.2% CompleteProgress: |███████-------------------------------------------| 14.3% CompleteProgress: |███████-------------------------------------------| 14.4% CompleteProgress: |███████-------------------------------------------| 14.4% CompleteProgress: |███████-------------------------------------------| 14.5% CompleteProgress: |███████-------------------------------------------| 14.5% CompleteProgress: |███████-------------------------------------------| 14.6% CompleteProgress: |███████-------------------------------------------| 14.6% CompleteProgress: |███████-------------------------------------------| 14.7% CompleteProgress: |███████-------------------------------------------| 14.8% CompleteProgress: |███████-------------------------------------------| 14.8% CompleteProgress: |███████-------------------------------------------| 14.9% CompleteProgress: |███████-------------------------------------------| 14.9% CompleteProgress: |███████-------------------------------------------| 15.0% CompleteProgress: |███████-------------------------------------------| 15.1% CompleteProgress: |███████-------------------------------------------| 15.1% CompleteProgress: |███████-------------------------------------------| 15.2% CompleteProgress: |███████-------------------------------------------| 15.2% CompleteProgress: |███████-------------------------------------------| 15.3% CompleteProgress: |███████-------------------------------------------| 15.3% CompleteProgress: |███████-------------------------------------------| 15.4% CompleteProgress: |███████-------------------------------------------| 15.5% CompleteProgress: |███████-------------------------------------------| 15.5% CompleteProgress: |███████-------------------------------------------| 15.6% CompleteProgress: |███████-------------------------------------------| 15.6% CompleteProgress: |███████-------------------------------------------| 15.7% CompleteProgress: |███████-------------------------------------------| 15.8% CompleteProgress: |███████-------------------------------------------| 15.8% CompleteProgress: |███████-------------------------------------------| 15.9% CompleteProgress: |███████-------------------------------------------| 15.9% CompleteProgress: |███████-------------------------------------------| 16.0% CompleteProgress: |████████------------------------------------------| 16.0% CompleteProgress: |████████------------------------------------------| 16.1% CompleteProgress: |████████------------------------------------------| 16.2% CompleteProgress: |████████------------------------------------------| 16.2% CompleteProgress: |████████------------------------------------------| 16.3% CompleteProgress: |████████------------------------------------------| 16.3% CompleteProgress: |████████------------------------------------------| 16.4% CompleteProgress: |████████------------------------------------------| 16.5% CompleteProgress: |████████------------------------------------------| 16.5% CompleteProgress: |████████------------------------------------------| 16.6% CompleteProgress: |████████------------------------------------------| 16.6% CompleteProgress: |████████------------------------------------------| 16.7% CompleteProgress: |████████------------------------------------------| 16.7% CompleteProgress: |████████------------------------------------------| 16.8% CompleteProgress: |████████------------------------------------------| 16.9% CompleteProgress: |████████------------------------------------------| 16.9% CompleteProgress: |████████------------------------------------------| 17.0% CompleteProgress: |████████------------------------------------------| 17.0% CompleteProgress: |████████------------------------------------------| 17.1% CompleteProgress: |████████------------------------------------------| 17.2% CompleteProgress: |████████------------------------------------------| 17.2% CompleteProgress: |████████------------------------------------------| 17.3% CompleteProgress: |████████------------------------------------------| 17.3% CompleteProgress: |████████------------------------------------------| 17.4% CompleteProgress: |████████------------------------------------------| 17.4% CompleteProgress: |████████------------------------------------------| 17.5% CompleteProgress: |████████------------------------------------------| 17.6% CompleteProgress: |████████------------------------------------------| 17.6% CompleteProgress: |████████------------------------------------------| 17.7% CompleteProgress: |████████------------------------------------------| 17.7% CompleteProgress: |████████------------------------------------------| 17.8% CompleteProgress: |████████------------------------------------------| 17.9% CompleteProgress: |████████------------------------------------------| 17.9% CompleteProgress: |████████------------------------------------------| 18.0% CompleteProgress: |█████████-----------------------------------------| 18.0% CompleteProgress: |█████████-----------------------------------------| 18.1% CompleteProgress: |█████████-----------------------------------------| 18.1% CompleteProgress: |█████████-----------------------------------------| 18.2% CompleteProgress: |█████████-----------------------------------------| 18.3% CompleteProgress: |█████████-----------------------------------------| 18.3% CompleteProgress: |█████████-----------------------------------------| 18.4% CompleteProgress: |█████████-----------------------------------------| 18.4% CompleteProgress: |█████████-----------------------------------------| 18.5% CompleteProgress: |█████████-----------------------------------------| 18.6% CompleteProgress: |█████████-----------------------------------------| 18.6% CompleteProgress: |█████████-----------------------------------------| 18.7% CompleteProgress: |█████████-----------------------------------------| 18.7% CompleteProgress: |█████████-----------------------------------------| 18.8% CompleteProgress: |█████████-----------------------------------------| 18.8% CompleteProgress: |█████████-----------------------------------------| 18.9% CompleteProgress: |█████████-----------------------------------------| 19.0% CompleteProgress: |█████████-----------------------------------------| 19.0% CompleteProgress: |█████████-----------------------------------------| 19.1% CompleteProgress: |█████████-----------------------------------------| 19.1% CompleteProgress: |█████████-----------------------------------------| 19.2% CompleteProgress: |█████████-----------------------------------------| 19.3% CompleteProgress: |█████████-----------------------------------------| 19.3% CompleteProgress: |█████████-----------------------------------------| 19.4% CompleteProgress: |█████████-----------------------------------------| 19.4% CompleteProgress: |█████████-----------------------------------------| 19.5% CompleteProgress: |█████████-----------------------------------------| 19.5% CompleteProgress: |█████████-----------------------------------------| 19.6% CompleteProgress: |█████████-----------------------------------------| 19.7% CompleteProgress: |█████████-----------------------------------------| 19.7% CompleteProgress: |█████████-----------------------------------------| 19.8% CompleteProgress: |█████████-----------------------------------------| 19.8% CompleteProgress: |█████████-----------------------------------------| 19.9% CompleteProgress: |█████████-----------------------------------------| 20.0% CompleteProgress: |██████████----------------------------------------| 20.0% CompleteProgress: |██████████----------------------------------------| 20.1% CompleteProgress: |██████████----------------------------------------| 20.1% CompleteProgress: |██████████----------------------------------------| 20.2% CompleteProgress: |██████████----------------------------------------| 20.2% CompleteProgress: |██████████----------------------------------------| 20.3% CompleteProgress: |██████████----------------------------------------| 20.4% CompleteProgress: |██████████----------------------------------------| 20.4% CompleteProgress: |██████████----------------------------------------| 20.5% CompleteProgress: |██████████----------------------------------------| 20.5% CompleteProgress: |██████████----------------------------------------| 20.6% CompleteProgress: |██████████----------------------------------------| 20.7% CompleteProgress: |██████████----------------------------------------| 20.7% CompleteProgress: |██████████----------------------------------------| 20.8% CompleteProgress: |██████████----------------------------------------| 20.8% CompleteProgress: |██████████----------------------------------------| 20.9% CompleteProgress: |██████████----------------------------------------| 20.9% CompleteProgress: |██████████----------------------------------------| 21.0% CompleteProgress: |██████████----------------------------------------| 21.1% CompleteProgress: |██████████----------------------------------------| 21.1% CompleteProgress: |██████████----------------------------------------| 21.2% CompleteProgress: |██████████----------------------------------------| 21.2% CompleteProgress: |██████████----------------------------------------| 21.3% CompleteProgress: |██████████----------------------------------------| 21.4% CompleteProgress: |██████████----------------------------------------| 21.4% CompleteProgress: |██████████----------------------------------------| 21.5% CompleteProgress: |██████████----------------------------------------| 21.5% CompleteProgress: |██████████----------------------------------------| 21.6% CompleteProgress: |██████████----------------------------------------| 21.6% CompleteProgress: |██████████----------------------------------------| 21.7% CompleteProgress: |██████████----------------------------------------| 21.8% CompleteProgress: |██████████----------------------------------------| 21.8% CompleteProgress: |██████████----------------------------------------| 21.9% CompleteProgress: |██████████----------------------------------------| 21.9% CompleteProgress: |██████████----------------------------------------| 22.0% CompleteProgress: |███████████---------------------------------------| 22.1% CompleteProgress: |███████████---------------------------------------| 22.1% CompleteProgress: |███████████---------------------------------------| 22.2% CompleteProgress: |███████████---------------------------------------| 22.2% CompleteProgress: |███████████---------------------------------------| 22.3% CompleteProgress: |███████████---------------------------------------| 22.3% CompleteProgress: |███████████---------------------------------------| 22.4% CompleteProgress: |███████████---------------------------------------| 22.5% CompleteProgress: |███████████---------------------------------------| 22.5% CompleteProgress: |███████████---------------------------------------| 22.6% CompleteProgress: |███████████---------------------------------------| 22.6% CompleteProgress: |███████████---------------------------------------| 22.7% CompleteProgress: |███████████---------------------------------------| 22.8% CompleteProgress: |███████████---------------------------------------| 22.8% CompleteProgress: |███████████---------------------------------------| 22.9% CompleteProgress: |███████████---------------------------------------| 22.9% CompleteProgress: |███████████---------------------------------------| 23.0% CompleteProgress: |███████████---------------------------------------| 23.0% CompleteProgress: |███████████---------------------------------------| 23.1% CompleteProgress: |███████████---------------------------------------| 23.2% CompleteProgress: |███████████---------------------------------------| 23.2% CompleteProgress: |███████████---------------------------------------| 23.3% CompleteProgress: |███████████---------------------------------------| 23.3% CompleteProgress: |███████████---------------------------------------| 23.4% CompleteProgress: |███████████---------------------------------------| 23.5% CompleteProgress: |███████████---------------------------------------| 23.5% CompleteProgress: |███████████---------------------------------------| 23.6% CompleteProgress: |███████████---------------------------------------| 23.6% CompleteProgress: |███████████---------------------------------------| 23.7% CompleteProgress: |███████████---------------------------------------| 23.7% CompleteProgress: |███████████---------------------------------------| 23.8% CompleteProgress: |███████████---------------------------------------| 23.9% CompleteProgress: |███████████---------------------------------------| 23.9% CompleteProgress: |███████████---------------------------------------| 24.0% CompleteProgress: |████████████--------------------------------------| 24.0% CompleteProgress: |████████████--------------------------------------| 24.1% CompleteProgress: |████████████--------------------------------------| 24.2% CompleteProgress: |████████████--------------------------------------| 24.2% CompleteProgress: |████████████--------------------------------------| 24.3% CompleteProgress: |████████████--------------------------------------| 24.3% CompleteProgress: |████████████--------------------------------------| 24.4% CompleteProgress: |████████████--------------------------------------| 24.4% CompleteProgress: |████████████--------------------------------------| 24.5% CompleteProgress: |████████████--------------------------------------| 24.6% CompleteProgress: |████████████--------------------------------------| 24.6% CompleteProgress: |████████████--------------------------------------| 24.7% CompleteProgress: |████████████--------------------------------------| 24.7% CompleteProgress: |████████████--------------------------------------| 24.8% CompleteProgress: |████████████--------------------------------------| 24.9% CompleteProgress: |████████████--------------------------------------| 24.9% CompleteProgress: |████████████--------------------------------------| 25.0% CompleteProgress: |████████████--------------------------------------| 25.0% CompleteProgress: |████████████--------------------------------------| 25.1% CompleteProgress: |████████████--------------------------------------| 25.1% CompleteProgress: |████████████--------------------------------------| 25.2% CompleteProgress: |████████████--------------------------------------| 25.3% CompleteProgress: |████████████--------------------------------------| 25.3% CompleteProgress: |████████████--------------------------------------| 25.4% CompleteProgress: |████████████--------------------------------------| 25.4% CompleteProgress: |████████████--------------------------------------| 25.5% CompleteProgress: |████████████--------------------------------------| 25.6% CompleteProgress: |████████████--------------------------------------| 25.6% CompleteProgress: |████████████--------------------------------------| 25.7% CompleteProgress: |████████████--------------------------------------| 25.7% CompleteProgress: |████████████--------------------------------------| 25.8% CompleteProgress: |████████████--------------------------------------| 25.8% CompleteProgress: |████████████--------------------------------------| 25.9% CompleteProgress: |████████████--------------------------------------| 26.0% CompleteProgress: |█████████████-------------------------------------| 26.0% CompleteProgress: |█████████████-------------------------------------| 26.1% CompleteProgress: |█████████████-------------------------------------| 26.1% CompleteProgress: |█████████████-------------------------------------| 26.2% CompleteProgress: |█████████████-------------------------------------| 26.3% CompleteProgress: |█████████████-------------------------------------| 26.3% CompleteProgress: |█████████████-------------------------------------| 26.4% CompleteProgress: |█████████████-------------------------------------| 26.4% CompleteProgress: |█████████████-------------------------------------| 26.5% CompleteProgress: |█████████████-------------------------------------| 26.5% CompleteProgress: |█████████████-------------------------------------| 26.6% CompleteProgress: |█████████████-------------------------------------| 26.7% CompleteProgress: |█████████████-------------------------------------| 26.7% CompleteProgress: |█████████████-------------------------------------| 26.8% CompleteProgress: |█████████████-------------------------------------| 26.8% CompleteProgress: |█████████████-------------------------------------| 26.9% CompleteProgress: |█████████████-------------------------------------| 27.0% CompleteProgress: |█████████████-------------------------------------| 27.0% CompleteProgress: |█████████████-------------------------------------| 27.1% CompleteProgress: |█████████████-------------------------------------| 27.1% CompleteProgress: |█████████████-------------------------------------| 27.2% CompleteProgress: |█████████████-------------------------------------| 27.2% CompleteProgress: |█████████████-------------------------------------| 27.3% CompleteProgress: |█████████████-------------------------------------| 27.4% CompleteProgress: |█████████████-------------------------------------| 27.4% CompleteProgress: |█████████████-------------------------------------| 27.5% CompleteProgress: |█████████████-------------------------------------| 27.5% CompleteProgress: |█████████████-------------------------------------| 27.6% CompleteProgress: |█████████████-------------------------------------| 27.7% CompleteProgress: |█████████████-------------------------------------| 27.7% CompleteProgress: |█████████████-------------------------------------| 27.8% CompleteProgress: |█████████████-------------------------------------| 27.8% CompleteProgress: |█████████████-------------------------------------| 27.9% CompleteProgress: |█████████████-------------------------------------| 27.9% CompleteProgress: |██████████████------------------------------------| 28.0% CompleteProgress: |██████████████------------------------------------| 28.1% CompleteProgress: |██████████████------------------------------------| 28.1% CompleteProgress: |██████████████------------------------------------| 28.2% CompleteProgress: |██████████████------------------------------------| 28.2% CompleteProgress: |██████████████------------------------------------| 28.3% CompleteProgress: |██████████████------------------------------------| 28.4% CompleteProgress: |██████████████------------------------------------| 28.4% CompleteProgress: |██████████████------------------------------------| 28.5% CompleteProgress: |██████████████------------------------------------| 28.5% CompleteProgress: |██████████████------------------------------------| 28.6% CompleteProgress: |██████████████------------------------------------| 28.6% CompleteProgress: |██████████████------------------------------------| 28.7% CompleteProgress: |██████████████------------------------------------| 28.8% CompleteProgress: |██████████████------------------------------------| 28.8% CompleteProgress: |██████████████------------------------------------| 28.9% CompleteProgress: |██████████████------------------------------------| 28.9% CompleteProgress: |██████████████------------------------------------| 29.0% CompleteProgress: |██████████████------------------------------------| 29.1% CompleteProgress: |██████████████------------------------------------| 29.1% CompleteProgress: |██████████████------------------------------------| 29.2% CompleteProgress: |██████████████------------------------------------| 29.2% CompleteProgress: |██████████████------------------------------------| 29.3% CompleteProgress: |██████████████------------------------------------| 29.3% CompleteProgress: |██████████████------------------------------------| 29.4% CompleteProgress: |██████████████------------------------------------| 29.5% CompleteProgress: |██████████████------------------------------------| 29.5% CompleteProgress: |██████████████------------------------------------| 29.6% CompleteProgress: |██████████████------------------------------------| 29.6% CompleteProgress: |██████████████------------------------------------| 29.7% CompleteProgress: |██████████████------------------------------------| 29.8% CompleteProgress: |██████████████------------------------------------| 29.8% CompleteProgress: |██████████████------------------------------------| 29.9% CompleteProgress: |██████████████------------------------------------| 29.9% CompleteProgress: |██████████████------------------------------------| 30.0% CompleteProgress: |███████████████-----------------------------------| 30.0% CompleteProgress: |███████████████-----------------------------------| 30.1% CompleteProgress: |███████████████-----------------------------------| 30.2% CompleteProgress: |███████████████-----------------------------------| 30.2% CompleteProgress: |███████████████-----------------------------------| 30.3% CompleteProgress: |███████████████-----------------------------------| 30.3% CompleteProgress: |███████████████-----------------------------------| 30.4% CompleteProgress: |███████████████-----------------------------------| 30.5% CompleteProgress: |███████████████-----------------------------------| 30.5% CompleteProgress: |███████████████-----------------------------------| 30.6% CompleteProgress: |███████████████-----------------------------------| 30.6% CompleteProgress: |███████████████-----------------------------------| 30.7% CompleteProgress: |███████████████-----------------------------------| 30.7% CompleteProgress: |███████████████-----------------------------------| 30.8% CompleteProgress: |███████████████-----------------------------------| 30.9% CompleteProgress: |███████████████-----------------------------------| 30.9% CompleteProgress: |███████████████-----------------------------------| 31.0% CompleteProgress: |███████████████-----------------------------------| 31.0% CompleteProgress: |███████████████-----------------------------------| 31.1% CompleteProgress: |███████████████-----------------------------------| 31.2% CompleteProgress: |███████████████-----------------------------------| 31.2% CompleteProgress: |███████████████-----------------------------------| 31.3% CompleteProgress: |███████████████-----------------------------------| 31.3% CompleteProgress: |███████████████-----------------------------------| 31.4% CompleteProgress: |███████████████-----------------------------------| 31.4% CompleteProgress: |███████████████-----------------------------------| 31.5% CompleteProgress: |███████████████-----------------------------------| 31.6% CompleteProgress: |███████████████-----------------------------------| 31.6% CompleteProgress: |███████████████-----------------------------------| 31.7% CompleteProgress: |███████████████-----------------------------------| 31.7% CompleteProgress: |███████████████-----------------------------------| 31.8% CompleteProgress: |███████████████-----------------------------------| 31.9% CompleteProgress: |███████████████-----------------------------------| 31.9% CompleteProgress: |███████████████-----------------------------------| 32.0% CompleteProgress: |████████████████----------------------------------| 32.0% CompleteProgress: |████████████████----------------------------------| 32.1% CompleteProgress: |████████████████----------------------------------| 32.1% CompleteProgress: |████████████████----------------------------------| 32.2% CompleteProgress: |████████████████----------------------------------| 32.3% CompleteProgress: |████████████████----------------------------------| 32.3% CompleteProgress: |████████████████----------------------------------| 32.4% CompleteProgress: |████████████████----------------------------------| 32.4% CompleteProgress: |████████████████----------------------------------| 32.5% CompleteProgress: |████████████████----------------------------------| 32.6% CompleteProgress: |████████████████----------------------------------| 32.6% CompleteProgress: |████████████████----------------------------------| 32.7% CompleteProgress: |████████████████----------------------------------| 32.7% CompleteProgress: |████████████████----------------------------------| 32.8% CompleteProgress: |████████████████----------------------------------| 32.8% CompleteProgress: |████████████████----------------------------------| 32.9% CompleteProgress: |████████████████----------------------------------| 33.0% CompleteProgress: |████████████████----------------------------------| 33.0% CompleteProgress: |████████████████----------------------------------| 33.1% CompleteProgress: |████████████████----------------------------------| 33.1% CompleteProgress: |████████████████----------------------------------| 33.2% CompleteProgress: |████████████████----------------------------------| 33.3% CompleteProgress: |████████████████----------------------------------| 33.3% CompleteProgress: |████████████████----------------------------------| 33.4% CompleteProgress: |████████████████----------------------------------| 33.4% CompleteProgress: |████████████████----------------------------------| 33.5% CompleteProgress: |████████████████----------------------------------| 33.5% CompleteProgress: |████████████████----------------------------------| 33.6% CompleteProgress: |████████████████----------------------------------| 33.7% CompleteProgress: |████████████████----------------------------------| 33.7% CompleteProgress: |████████████████----------------------------------| 33.8% CompleteProgress: |████████████████----------------------------------| 33.8% CompleteProgress: |████████████████----------------------------------| 33.9% CompleteProgress: |████████████████----------------------------------| 34.0% CompleteProgress: |█████████████████---------------------------------| 34.0% CompleteProgress: |█████████████████---------------------------------| 34.1% CompleteProgress: |█████████████████---------------------------------| 34.1% CompleteProgress: |█████████████████---------------------------------| 34.2% CompleteProgress: |█████████████████---------------------------------| 34.2% CompleteProgress: |█████████████████---------------------------------| 34.3% CompleteProgress: |█████████████████---------------------------------| 34.4% CompleteProgress: |█████████████████---------------------------------| 34.4% CompleteProgress: |█████████████████---------------------------------| 34.5% CompleteProgress: |█████████████████---------------------------------| 34.5% CompleteProgress: |█████████████████---------------------------------| 34.6% CompleteProgress: |█████████████████---------------------------------| 34.7% CompleteProgress: |█████████████████---------------------------------| 34.7% CompleteProgress: |█████████████████---------------------------------| 34.8% CompleteProgress: |█████████████████---------------------------------| 34.8% CompleteProgress: |█████████████████---------------------------------| 34.9% CompleteProgress: |█████████████████---------------------------------| 34.9% CompleteProgress: |█████████████████---------------------------------| 35.0% CompleteProgress: |█████████████████---------------------------------| 35.1% CompleteProgress: |█████████████████---------------------------------| 35.1% CompleteProgress: |█████████████████---------------------------------| 35.2% CompleteProgress: |█████████████████---------------------------------| 35.2% CompleteProgress: |█████████████████---------------------------------| 35.3% CompleteProgress: |█████████████████---------------------------------| 35.4% CompleteProgress: |█████████████████---------------------------------| 35.4% CompleteProgress: |█████████████████---------------------------------| 35.5% CompleteProgress: |█████████████████---------------------------------| 35.5% CompleteProgress: |█████████████████---------------------------------| 35.6% CompleteProgress: |█████████████████---------------------------------| 35.6% CompleteProgress: |█████████████████---------------------------------| 35.7% CompleteProgress: |█████████████████---------------------------------| 35.8% CompleteProgress: |█████████████████---------------------------------| 35.8% CompleteProgress: |█████████████████---------------------------------| 35.9% CompleteProgress: |█████████████████---------------------------------| 35.9% CompleteProgress: |█████████████████---------------------------------| 36.0% CompleteProgress: |██████████████████--------------------------------| 36.1% CompleteProgress: |██████████████████--------------------------------| 36.1% CompleteProgress: |██████████████████--------------------------------| 36.2% CompleteProgress: |██████████████████--------------------------------| 36.2% CompleteProgress: |██████████████████--------------------------------| 36.3% CompleteProgress: |██████████████████--------------------------------| 36.3% CompleteProgress: |██████████████████--------------------------------| 36.4% CompleteProgress: |██████████████████--------------------------------| 36.5% CompleteProgress: |██████████████████--------------------------------| 36.5% CompleteProgress: |██████████████████--------------------------------| 36.6% CompleteProgress: |██████████████████--------------------------------| 36.6% CompleteProgress: |██████████████████--------------------------------| 36.7% CompleteProgress: |██████████████████--------------------------------| 36.8% CompleteProgress: |██████████████████--------------------------------| 36.8% CompleteProgress: |██████████████████--------------------------------| 36.9% CompleteProgress: |██████████████████--------------------------------| 36.9% CompleteProgress: |██████████████████--------------------------------| 37.0% CompleteProgress: |██████████████████--------------------------------| 37.0% CompleteProgress: |██████████████████--------------------------------| 37.1% CompleteProgress: |██████████████████--------------------------------| 37.2% CompleteProgress: |██████████████████--------------------------------| 37.2% CompleteProgress: |██████████████████--------------------------------| 37.3% CompleteProgress: |██████████████████--------------------------------| 37.3% CompleteProgress: |██████████████████--------------------------------| 37.4% CompleteProgress: |██████████████████--------------------------------| 37.5% CompleteProgress: |██████████████████--------------------------------| 37.5% CompleteProgress: |██████████████████--------------------------------| 37.6% CompleteProgress: |██████████████████--------------------------------| 37.6% CompleteProgress: |██████████████████--------------------------------| 37.7% CompleteProgress: |██████████████████--------------------------------| 37.7% CompleteProgress: |██████████████████--------------------------------| 37.8% CompleteProgress: |██████████████████--------------------------------| 37.9% CompleteProgress: |██████████████████--------------------------------| 37.9% CompleteProgress: |██████████████████--------------------------------| 38.0% CompleteProgress: |███████████████████-------------------------------| 38.0% CompleteProgress: |███████████████████-------------------------------| 38.1% CompleteProgress: |███████████████████-------------------------------| 38.2% CompleteProgress: |███████████████████-------------------------------| 38.2% CompleteProgress: |███████████████████-------------------------------| 38.3% CompleteProgress: |███████████████████-------------------------------| 38.3% CompleteProgress: |███████████████████-------------------------------| 38.4% CompleteProgress: |███████████████████-------------------------------| 38.4% CompleteProgress: |███████████████████-------------------------------| 38.5% CompleteProgress: |███████████████████-------------------------------| 38.6% CompleteProgress: |███████████████████-------------------------------| 38.6% CompleteProgress: |███████████████████-------------------------------| 38.7% CompleteProgress: |███████████████████-------------------------------| 38.7% CompleteProgress: |███████████████████-------------------------------| 38.8% CompleteProgress: |███████████████████-------------------------------| 38.9% CompleteProgress: |███████████████████-------------------------------| 38.9% CompleteProgress: |███████████████████-------------------------------| 39.0% CompleteProgress: |███████████████████-------------------------------| 39.0% CompleteProgress: |███████████████████-------------------------------| 39.1% CompleteProgress: |███████████████████-------------------------------| 39.1% CompleteProgress: |███████████████████-------------------------------| 39.2% CompleteProgress: |███████████████████-------------------------------| 39.3% CompleteProgress: |███████████████████-------------------------------| 39.3% CompleteProgress: |███████████████████-------------------------------| 39.4% CompleteProgress: |███████████████████-------------------------------| 39.4% CompleteProgress: |███████████████████-------------------------------| 39.5% CompleteProgress: |███████████████████-------------------------------| 39.6% CompleteProgress: |███████████████████-------------------------------| 39.6% CompleteProgress: |███████████████████-------------------------------| 39.7% CompleteProgress: |███████████████████-------------------------------| 39.7% CompleteProgress: |███████████████████-------------------------------| 39.8% CompleteProgress: |███████████████████-------------------------------| 39.8% CompleteProgress: |███████████████████-------------------------------| 39.9% CompleteProgress: |███████████████████-------------------------------| 40.0% CompleteProgress: |████████████████████------------------------------| 40.0% CompleteProgress: |████████████████████------------------------------| 40.1% CompleteProgress: |████████████████████------------------------------| 40.1% CompleteProgress: |████████████████████------------------------------| 40.2% CompleteProgress: |████████████████████------------------------------| 40.3% CompleteProgress: |████████████████████------------------------------| 40.3% CompleteProgress: |████████████████████------------------------------| 40.4% CompleteProgress: |████████████████████------------------------------| 40.4% CompleteProgress: |████████████████████------------------------------| 40.5% CompleteProgress: |████████████████████------------------------------| 40.5% CompleteProgress: |████████████████████------------------------------| 40.6% CompleteProgress: |████████████████████------------------------------| 40.7% CompleteProgress: |████████████████████------------------------------| 40.7% CompleteProgress: |████████████████████------------------------------| 40.8% CompleteProgress: |████████████████████------------------------------| 40.8% CompleteProgress: |████████████████████------------------------------| 40.9% CompleteProgress: |████████████████████------------------------------| 41.0% CompleteProgress: |████████████████████------------------------------| 41.0% CompleteProgress: |████████████████████------------------------------| 41.1% CompleteProgress: |████████████████████------------------------------| 41.1% CompleteProgress: |████████████████████------------------------------| 41.2% CompleteProgress: |████████████████████------------------------------| 41.2% CompleteProgress: |████████████████████------------------------------| 41.3% CompleteProgress: |████████████████████------------------------------| 41.4% CompleteProgress: |████████████████████------------------------------| 41.4% CompleteProgress: |████████████████████------------------------------| 41.5% CompleteProgress: |████████████████████------------------------------| 41.5% CompleteProgress: |████████████████████------------------------------| 41.6% CompleteProgress: |████████████████████------------------------------| 41.7% CompleteProgress: |████████████████████------------------------------| 41.7% CompleteProgress: |████████████████████------------------------------| 41.8% CompleteProgress: |████████████████████------------------------------| 41.8% CompleteProgress: |████████████████████------------------------------| 41.9% CompleteProgress: |████████████████████------------------------------| 41.9% CompleteProgress: |█████████████████████-----------------------------| 42.0% CompleteProgress: |█████████████████████-----------------------------| 42.1% CompleteProgress: |█████████████████████-----------------------------| 42.1% CompleteProgress: |█████████████████████-----------------------------| 42.2% CompleteProgress: |█████████████████████-----------------------------| 42.2% CompleteProgress: |█████████████████████-----------------------------| 42.3% CompleteProgress: |█████████████████████-----------------------------| 42.4% CompleteProgress: |█████████████████████-----------------------------| 42.4% CompleteProgress: |█████████████████████-----------------------------| 42.5% CompleteProgress: |█████████████████████-----------------------------| 42.5% CompleteProgress: |█████████████████████-----------------------------| 42.6% CompleteProgress: |█████████████████████-----------------------------| 42.6% CompleteProgress: |█████████████████████-----------------------------| 42.7% CompleteProgress: |█████████████████████-----------------------------| 42.8% CompleteProgress: |█████████████████████-----------------------------| 42.8% CompleteProgress: |█████████████████████-----------------------------| 42.9% CompleteProgress: |█████████████████████-----------------------------| 42.9% CompleteProgress: |█████████████████████-----------------------------| 43.0% CompleteProgress: |█████████████████████-----------------------------| 43.1% CompleteProgress: |█████████████████████-----------------------------| 43.1% CompleteProgress: |█████████████████████-----------------------------| 43.2% CompleteProgress: |█████████████████████-----------------------------| 43.2% CompleteProgress: |█████████████████████-----------------------------| 43.3% CompleteProgress: |█████████████████████-----------------------------| 43.3% CompleteProgress: |█████████████████████-----------------------------| 43.4% CompleteProgress: |█████████████████████-----------------------------| 43.5% CompleteProgress: |█████████████████████-----------------------------| 43.5% CompleteProgress: |█████████████████████-----------------------------| 43.6% CompleteProgress: |█████████████████████-----------------------------| 43.6% CompleteProgress: |█████████████████████-----------------------------| 43.7% CompleteProgress: |█████████████████████-----------------------------| 43.8% CompleteProgress: |█████████████████████-----------------------------| 43.8% CompleteProgress: |█████████████████████-----------------------------| 43.9% CompleteProgress: |█████████████████████-----------------------------| 43.9% CompleteProgress: |█████████████████████-----------------------------| 44.0% CompleteProgress: |██████████████████████----------------------------| 44.0% CompleteProgress: |██████████████████████----------------------------| 44.1% CompleteProgress: |██████████████████████----------------------------| 44.2% CompleteProgress: |██████████████████████----------------------------| 44.2% CompleteProgress: |██████████████████████----------------------------| 44.3% CompleteProgress: |██████████████████████----------------------------| 44.3% CompleteProgress: |██████████████████████----------------------------| 44.4% CompleteProgress: |██████████████████████----------------------------| 44.5% CompleteProgress: |██████████████████████----------------------------| 44.5% CompleteProgress: |██████████████████████----------------------------| 44.6% CompleteProgress: |██████████████████████----------------------------| 44.6% CompleteProgress: |██████████████████████----------------------------| 44.7% CompleteProgress: |██████████████████████----------------------------| 44.7% CompleteProgress: |██████████████████████----------------------------| 44.8% CompleteProgress: |██████████████████████----------------------------| 44.9% CompleteProgress: |██████████████████████----------------------------| 44.9% CompleteProgress: |██████████████████████----------------------------| 45.0% CompleteProgress: |██████████████████████----------------------------| 45.0% CompleteProgress: |██████████████████████----------------------------| 45.1% CompleteProgress: |██████████████████████----------------------------| 45.2% CompleteProgress: |██████████████████████----------------------------| 45.2% CompleteProgress: |██████████████████████----------------------------| 45.3% CompleteProgress: |██████████████████████----------------------------| 45.3% CompleteProgress: |██████████████████████----------------------------| 45.4% CompleteProgress: |██████████████████████----------------------------| 45.4% CompleteProgress: |██████████████████████----------------------------| 45.5% CompleteProgress: |██████████████████████----------------------------| 45.6% CompleteProgress: |██████████████████████----------------------------| 45.6% CompleteProgress: |██████████████████████----------------------------| 45.7% CompleteProgress: |██████████████████████----------------------------| 45.7% CompleteProgress: |██████████████████████----------------------------| 45.8% CompleteProgress: |██████████████████████----------------------------| 45.9% CompleteProgress: |██████████████████████----------------------------| 45.9% CompleteProgress: |██████████████████████----------------------------| 46.0% CompleteProgress: |███████████████████████---------------------------| 46.0% CompleteProgress: |███████████████████████---------------------------| 46.1% CompleteProgress: |███████████████████████---------------------------| 46.1% CompleteProgress: |███████████████████████---------------------------| 46.2% CompleteProgress: |███████████████████████---------------------------| 46.3% CompleteProgress: |███████████████████████---------------------------| 46.3% CompleteProgress: |███████████████████████---------------------------| 46.4% CompleteProgress: |███████████████████████---------------------------| 46.4% CompleteProgress: |███████████████████████---------------------------| 46.5% CompleteProgress: |███████████████████████---------------------------| 46.6% CompleteProgress: |███████████████████████---------------------------| 46.6% CompleteProgress: |███████████████████████---------------------------| 46.7% CompleteProgress: |███████████████████████---------------------------| 46.7% CompleteProgress: |███████████████████████---------------------------| 46.8% CompleteProgress: |███████████████████████---------------------------| 46.8% CompleteProgress: |███████████████████████---------------------------| 46.9% CompleteProgress: |███████████████████████---------------------------| 47.0% CompleteProgress: |███████████████████████---------------------------| 47.0% CompleteProgress: |███████████████████████---------------------------| 47.1% CompleteProgress: |███████████████████████---------------------------| 47.1% CompleteProgress: |███████████████████████---------------------------| 47.2% CompleteProgress: |███████████████████████---------------------------| 47.3% CompleteProgress: |███████████████████████---------------------------| 47.3% CompleteProgress: |███████████████████████---------------------------| 47.4% CompleteProgress: |███████████████████████---------------------------| 47.4% CompleteProgress: |███████████████████████---------------------------| 47.5% CompleteProgress: |███████████████████████---------------------------| 47.6% CompleteProgress: |███████████████████████---------------------------| 47.6% CompleteProgress: |███████████████████████---------------------------| 47.7% CompleteProgress: |███████████████████████---------------------------| 47.7% CompleteProgress: |███████████████████████---------------------------| 47.8% CompleteProgress: |███████████████████████---------------------------| 47.8% CompleteProgress: |███████████████████████---------------------------| 47.9% CompleteProgress: |███████████████████████---------------------------| 48.0% CompleteProgress: |████████████████████████--------------------------| 48.0% CompleteProgress: |████████████████████████--------------------------| 48.1% CompleteProgress: |████████████████████████--------------------------| 48.1% CompleteProgress: |████████████████████████--------------------------| 48.2% CompleteProgress: |████████████████████████--------------------------| 48.3% CompleteProgress: |████████████████████████--------------------------| 48.3% CompleteProgress: |████████████████████████--------------------------| 48.4% CompleteProgress: |████████████████████████--------------------------| 48.4% CompleteProgress: |████████████████████████--------------------------| 48.5% CompleteProgress: |████████████████████████--------------------------| 48.5% CompleteProgress: |████████████████████████--------------------------| 48.6% CompleteProgress: |████████████████████████--------------------------| 48.7% CompleteProgress: |████████████████████████--------------------------| 48.7% CompleteProgress: |████████████████████████--------------------------| 48.8% CompleteProgress: |████████████████████████--------------------------| 48.8% CompleteProgress: |████████████████████████--------------------------| 48.9% CompleteProgress: |████████████████████████--------------------------| 49.0% CompleteProgress: |████████████████████████--------------------------| 49.0% CompleteProgress: |████████████████████████--------------------------| 49.1% CompleteProgress: |████████████████████████--------------------------| 49.1% CompleteProgress: |████████████████████████--------------------------| 49.2% CompleteProgress: |████████████████████████--------------------------| 49.2% CompleteProgress: |████████████████████████--------------------------| 49.3% CompleteProgress: |████████████████████████--------------------------| 49.4% CompleteProgress: |████████████████████████--------------------------| 49.4% CompleteProgress: |████████████████████████--------------------------| 49.5% CompleteProgress: |████████████████████████--------------------------| 49.5% CompleteProgress: |████████████████████████--------------------------| 49.6% CompleteProgress: |████████████████████████--------------------------| 49.7% CompleteProgress: |████████████████████████--------------------------| 49.7% CompleteProgress: |████████████████████████--------------------------| 49.8% CompleteProgress: |████████████████████████--------------------------| 49.8% CompleteProgress: |████████████████████████--------------------------| 49.9% CompleteProgress: |████████████████████████--------------------------| 49.9% CompleteProgress: |█████████████████████████-------------------------| 50.0% CompleteProgress: |█████████████████████████-------------------------| 50.1% CompleteProgress: |█████████████████████████-------------------------| 50.1% CompleteProgress: |█████████████████████████-------------------------| 50.2% CompleteProgress: |█████████████████████████-------------------------| 50.2% CompleteProgress: |█████████████████████████-------------------------| 50.3% CompleteProgress: |█████████████████████████-------------------------| 50.4% CompleteProgress: |█████████████████████████-------------------------| 50.4% CompleteProgress: |█████████████████████████-------------------------| 50.5% CompleteProgress: |█████████████████████████-------------------------| 50.5% CompleteProgress: |█████████████████████████-------------------------| 50.6% CompleteProgress: |█████████████████████████-------------------------| 50.6% CompleteProgress: |█████████████████████████-------------------------| 50.7% CompleteProgress: |█████████████████████████-------------------------| 50.8% CompleteProgress: |█████████████████████████-------------------------| 50.8% CompleteProgress: |█████████████████████████-------------------------| 50.9% CompleteProgress: |█████████████████████████-------------------------| 50.9% CompleteProgress: |█████████████████████████-------------------------| 51.0% CompleteProgress: |█████████████████████████-------------------------| 51.1% CompleteProgress: |█████████████████████████-------------------------| 51.1% CompleteProgress: |█████████████████████████-------------------------| 51.2% CompleteProgress: |█████████████████████████-------------------------| 51.2% CompleteProgress: |█████████████████████████-------------------------| 51.3% CompleteProgress: |█████████████████████████-------------------------| 51.3% CompleteProgress: |█████████████████████████-------------------------| 51.4% CompleteProgress: |█████████████████████████-------------------------| 51.5% CompleteProgress: |█████████████████████████-------------------------| 51.5% CompleteProgress: |█████████████████████████-------------------------| 51.6% CompleteProgress: |█████████████████████████-------------------------| 51.6% CompleteProgress: |█████████████████████████-------------------------| 51.7% CompleteProgress: |█████████████████████████-------------------------| 51.8% CompleteProgress: |█████████████████████████-------------------------| 51.8% CompleteProgress: |█████████████████████████-------------------------| 51.9% CompleteProgress: |█████████████████████████-------------------------| 51.9% CompleteProgress: |█████████████████████████-------------------------| 52.0% CompleteProgress: |██████████████████████████------------------------| 52.0% CompleteProgress: |██████████████████████████------------------------| 52.1% CompleteProgress: |██████████████████████████------------------------| 52.2% CompleteProgress: |██████████████████████████------------------------| 52.2% CompleteProgress: |██████████████████████████------------------------| 52.3% CompleteProgress: |██████████████████████████------------------------| 52.3% CompleteProgress: |██████████████████████████------------------------| 52.4% CompleteProgress: |██████████████████████████------------------------| 52.5% CompleteProgress: |██████████████████████████------------------------| 52.5% CompleteProgress: |██████████████████████████------------------------| 52.6% CompleteProgress: |██████████████████████████------------------------| 52.6% CompleteProgress: |██████████████████████████------------------------| 52.7% CompleteProgress: |██████████████████████████------------------------| 52.7% CompleteProgress: |██████████████████████████------------------------| 52.8% CompleteProgress: |██████████████████████████------------------------| 52.9% CompleteProgress: |██████████████████████████------------------------| 52.9% CompleteProgress: |██████████████████████████------------------------| 53.0% CompleteProgress: |██████████████████████████------------------------| 53.0% CompleteProgress: |██████████████████████████------------------------| 53.1% CompleteProgress: |██████████████████████████------------------------| 53.2% CompleteProgress: |██████████████████████████------------------------| 53.2% CompleteProgress: |██████████████████████████------------------------| 53.3% CompleteProgress: |██████████████████████████------------------------| 53.3% CompleteProgress: |██████████████████████████------------------------| 53.4% CompleteProgress: |██████████████████████████------------------------| 53.4% CompleteProgress: |██████████████████████████------------------------| 53.5% CompleteProgress: |██████████████████████████------------------------| 53.6% CompleteProgress: |██████████████████████████------------------------| 53.6% CompleteProgress: |██████████████████████████------------------------| 53.7% CompleteProgress: |██████████████████████████------------------------| 53.7% CompleteProgress: |██████████████████████████------------------------| 53.8% CompleteProgress: |██████████████████████████------------------------| 53.9% CompleteProgress: |██████████████████████████------------------------| 53.9% CompleteProgress: |██████████████████████████------------------------| 54.0% CompleteProgress: |███████████████████████████-----------------------| 54.0% CompleteProgress: |███████████████████████████-----------------------| 54.1% CompleteProgress: |███████████████████████████-----------------------| 54.1% CompleteProgress: |███████████████████████████-----------------------| 54.2% CompleteProgress: |███████████████████████████-----------------------| 54.3% CompleteProgress: |███████████████████████████-----------------------| 54.3% CompleteProgress: |███████████████████████████-----------------------| 54.4% CompleteProgress: |███████████████████████████-----------------------| 54.4% CompleteProgress: |███████████████████████████-----------------------| 54.5% CompleteProgress: |███████████████████████████-----------------------| 54.6% CompleteProgress: |███████████████████████████-----------------------| 54.6% CompleteProgress: |███████████████████████████-----------------------| 54.7% CompleteProgress: |███████████████████████████-----------------------| 54.7% CompleteProgress: |███████████████████████████-----------------------| 54.8% CompleteProgress: |███████████████████████████-----------------------| 54.8% CompleteProgress: |███████████████████████████-----------------------| 54.9% CompleteProgress: |███████████████████████████-----------------------| 55.0% CompleteProgress: |███████████████████████████-----------------------| 55.0% CompleteProgress: |███████████████████████████-----------------------| 55.1% CompleteProgress: |███████████████████████████-----------------------| 55.1% CompleteProgress: |███████████████████████████-----------------------| 55.2% CompleteProgress: |███████████████████████████-----------------------| 55.3% CompleteProgress: |███████████████████████████-----------------------| 55.3% CompleteProgress: |███████████████████████████-----------------------| 55.4% CompleteProgress: |███████████████████████████-----------------------| 55.4% CompleteProgress: |███████████████████████████-----------------------| 55.5% CompleteProgress: |███████████████████████████-----------------------| 55.5% CompleteProgress: |███████████████████████████-----------------------| 55.6% CompleteProgress: |███████████████████████████-----------------------| 55.7% CompleteProgress: |███████████████████████████-----------------------| 55.7% CompleteProgress: |███████████████████████████-----------------------| 55.8% CompleteProgress: |███████████████████████████-----------------------| 55.8% CompleteProgress: |███████████████████████████-----------------------| 55.9% CompleteProgress: |███████████████████████████-----------------------| 56.0% CompleteProgress: |████████████████████████████----------------------| 56.0% CompleteProgress: |████████████████████████████----------------------| 56.1% CompleteProgress: |████████████████████████████----------------------| 56.1% CompleteProgress: |████████████████████████████----------------------| 56.2% CompleteProgress: |████████████████████████████----------------------| 56.2% CompleteProgress: |████████████████████████████----------------------| 56.3% CompleteProgress: |████████████████████████████----------------------| 56.4% CompleteProgress: |████████████████████████████----------------------| 56.4% CompleteProgress: |████████████████████████████----------------------| 56.5% CompleteProgress: |████████████████████████████----------------------| 56.5% CompleteProgress: |████████████████████████████----------------------| 56.6% CompleteProgress: |████████████████████████████----------------------| 56.7% CompleteProgress: |████████████████████████████----------------------| 56.7% CompleteProgress: |████████████████████████████----------------------| 56.8% CompleteProgress: |████████████████████████████----------------------| 56.8% CompleteProgress: |████████████████████████████----------------------| 56.9% CompleteProgress: |████████████████████████████----------------------| 56.9% CompleteProgress: |████████████████████████████----------------------| 57.0% CompleteProgress: |████████████████████████████----------------------| 57.1% CompleteProgress: |████████████████████████████----------------------| 57.1% CompleteProgress: |████████████████████████████----------------------| 57.2% CompleteProgress: |████████████████████████████----------------------| 57.2% CompleteProgress: |████████████████████████████----------------------| 57.3% CompleteProgress: |████████████████████████████----------------------| 57.4% CompleteProgress: |████████████████████████████----------------------| 57.4% CompleteProgress: |████████████████████████████----------------------| 57.5% CompleteProgress: |████████████████████████████----------------------| 57.5% CompleteProgress: |████████████████████████████----------------------| 57.6% CompleteProgress: |████████████████████████████----------------------| 57.6% CompleteProgress: |████████████████████████████----------------------| 57.7% CompleteProgress: |████████████████████████████----------------------| 57.8% CompleteProgress: |████████████████████████████----------------------| 57.8% CompleteProgress: |████████████████████████████----------------------| 57.9% CompleteProgress: |████████████████████████████----------------------| 57.9% CompleteProgress: |████████████████████████████----------------------| 58.0% CompleteProgress: |█████████████████████████████---------------------| 58.1% CompleteProgress: |█████████████████████████████---------------------| 58.1% CompleteProgress: |█████████████████████████████---------------------| 58.2% CompleteProgress: |█████████████████████████████---------------------| 58.2% CompleteProgress: |█████████████████████████████---------------------| 58.3% CompleteProgress: |█████████████████████████████---------------------| 58.3% CompleteProgress: |█████████████████████████████---------------------| 58.4% CompleteProgress: |█████████████████████████████---------------------| 58.5% CompleteProgress: |█████████████████████████████---------------------| 58.5% CompleteProgress: |█████████████████████████████---------------------| 58.6% CompleteProgress: |█████████████████████████████---------------------| 58.6% CompleteProgress: |█████████████████████████████---------------------| 58.7% CompleteProgress: |█████████████████████████████---------------------| 58.8% CompleteProgress: |█████████████████████████████---------------------| 58.8% CompleteProgress: |█████████████████████████████---------------------| 58.9% CompleteProgress: |█████████████████████████████---------------------| 58.9% CompleteProgress: |█████████████████████████████---------------------| 59.0% CompleteProgress: |█████████████████████████████---------------------| 59.0% CompleteProgress: |█████████████████████████████---------------------| 59.1% CompleteProgress: |█████████████████████████████---------------------| 59.2% CompleteProgress: |█████████████████████████████---------------------| 59.2% CompleteProgress: |█████████████████████████████---------------------| 59.3% CompleteProgress: |█████████████████████████████---------------------| 59.3% CompleteProgress: |█████████████████████████████---------------------| 59.4% CompleteProgress: |█████████████████████████████---------------------| 59.5% CompleteProgress: |█████████████████████████████---------------------| 59.5% CompleteProgress: |█████████████████████████████---------------------| 59.6% CompleteProgress: |█████████████████████████████---------------------| 59.6% CompleteProgress: |█████████████████████████████---------------------| 59.7% CompleteProgress: |█████████████████████████████---------------------| 59.7% CompleteProgress: |█████████████████████████████---------------------| 59.8% CompleteProgress: |█████████████████████████████---------------------| 59.9% CompleteProgress: |█████████████████████████████---------------------| 59.9% CompleteProgress: |█████████████████████████████---------------------| 60.0% CompleteProgress: |██████████████████████████████--------------------| 60.0% CompleteProgress: |██████████████████████████████--------------------| 60.1% CompleteProgress: |██████████████████████████████--------------------| 60.2% CompleteProgress: |██████████████████████████████--------------------| 60.2% CompleteProgress: |██████████████████████████████--------------------| 60.3% CompleteProgress: |██████████████████████████████--------------------| 60.3% CompleteProgress: |██████████████████████████████--------------------| 60.4% CompleteProgress: |██████████████████████████████--------------------| 60.4% CompleteProgress: |██████████████████████████████--------------------| 60.5% CompleteProgress: |██████████████████████████████--------------------| 60.6% CompleteProgress: |██████████████████████████████--------------------| 60.6% CompleteProgress: |██████████████████████████████--------------------| 60.7% CompleteProgress: |██████████████████████████████--------------------| 60.7% CompleteProgress: |██████████████████████████████--------------------| 60.8% CompleteProgress: |██████████████████████████████--------------------| 60.9% CompleteProgress: |██████████████████████████████--------------------| 60.9% CompleteProgress: |██████████████████████████████--------------------| 61.0% CompleteProgress: |██████████████████████████████--------------------| 61.0% CompleteProgress: |██████████████████████████████--------------------| 61.1% CompleteProgress: |██████████████████████████████--------------------| 61.1% CompleteProgress: |██████████████████████████████--------------------| 61.2% CompleteProgress: |██████████████████████████████--------------------| 61.3% CompleteProgress: |██████████████████████████████--------------------| 61.3% CompleteProgress: |██████████████████████████████--------------------| 61.4% CompleteProgress: |██████████████████████████████--------------------| 61.4% CompleteProgress: |██████████████████████████████--------------------| 61.5% CompleteProgress: |██████████████████████████████--------------------| 61.6% CompleteProgress: |██████████████████████████████--------------------| 61.6% CompleteProgress: |██████████████████████████████--------------------| 61.7% CompleteProgress: |██████████████████████████████--------------------| 61.7% CompleteProgress: |██████████████████████████████--------------------| 61.8% CompleteProgress: |██████████████████████████████--------------------| 61.8% CompleteProgress: |██████████████████████████████--------------------| 61.9% CompleteProgress: |██████████████████████████████--------------------| 62.0% CompleteProgress: |███████████████████████████████-------------------| 62.0% CompleteProgress: |███████████████████████████████-------------------| 62.1% CompleteProgress: |███████████████████████████████-------------------| 62.1% CompleteProgress: |███████████████████████████████-------------------| 62.2% CompleteProgress: |███████████████████████████████-------------------| 62.3% CompleteProgress: |███████████████████████████████-------------------| 62.3% CompleteProgress: |███████████████████████████████-------------------| 62.4% CompleteProgress: |███████████████████████████████-------------------| 62.4% CompleteProgress: |███████████████████████████████-------------------| 62.5% CompleteProgress: |███████████████████████████████-------------------| 62.5% CompleteProgress: |███████████████████████████████-------------------| 62.6% CompleteProgress: |███████████████████████████████-------------------| 62.7% CompleteProgress: |███████████████████████████████-------------------| 62.7% CompleteProgress: |███████████████████████████████-------------------| 62.8% CompleteProgress: |███████████████████████████████-------------------| 62.8% CompleteProgress: |███████████████████████████████-------------------| 62.9% CompleteProgress: |███████████████████████████████-------------------| 63.0% CompleteProgress: |███████████████████████████████-------------------| 63.0% CompleteProgress: |███████████████████████████████-------------------| 63.1% CompleteProgress: |███████████████████████████████-------------------| 63.1% CompleteProgress: |███████████████████████████████-------------------| 63.2% CompleteProgress: |███████████████████████████████-------------------| 63.2% CompleteProgress: |███████████████████████████████-------------------| 63.3% CompleteProgress: |███████████████████████████████-------------------| 63.4% CompleteProgress: |███████████████████████████████-------------------| 63.4% CompleteProgress: |███████████████████████████████-------------------| 63.5% CompleteProgress: |███████████████████████████████-------------------| 63.5% CompleteProgress: |███████████████████████████████-------------------| 63.6% CompleteProgress: |███████████████████████████████-------------------| 63.7% CompleteProgress: |███████████████████████████████-------------------| 63.7% CompleteProgress: |███████████████████████████████-------------------| 63.8% CompleteProgress: |███████████████████████████████-------------------| 63.8% CompleteProgress: |███████████████████████████████-------------------| 63.9% CompleteProgress: |███████████████████████████████-------------------| 63.9% CompleteProgress: |████████████████████████████████------------------| 64.0% CompleteProgress: |████████████████████████████████------------------| 64.1% CompleteProgress: |████████████████████████████████------------------| 64.1% CompleteProgress: |████████████████████████████████------------------| 64.2% CompleteProgress: |████████████████████████████████------------------| 64.2% CompleteProgress: |████████████████████████████████------------------| 64.3% CompleteProgress: |████████████████████████████████------------------| 64.4% CompleteProgress: |████████████████████████████████------------------| 64.4% CompleteProgress: |████████████████████████████████------------------| 64.5% CompleteProgress: |████████████████████████████████------------------| 64.5% CompleteProgress: |████████████████████████████████------------------| 64.6% CompleteProgress: |████████████████████████████████------------------| 64.6% CompleteProgress: |████████████████████████████████------------------| 64.7% CompleteProgress: |████████████████████████████████------------------| 64.8% CompleteProgress: |████████████████████████████████------------------| 64.8% CompleteProgress: |████████████████████████████████------------------| 64.9% CompleteProgress: |████████████████████████████████------------------| 64.9% CompleteProgress: |████████████████████████████████------------------| 65.0% CompleteProgress: |████████████████████████████████------------------| 65.1% CompleteProgress: |████████████████████████████████------------------| 65.1% CompleteProgress: |████████████████████████████████------------------| 65.2% CompleteProgress: |████████████████████████████████------------------| 65.2% CompleteProgress: |████████████████████████████████------------------| 65.3% CompleteProgress: |████████████████████████████████------------------| 65.3% CompleteProgress: |████████████████████████████████------------------| 65.4% CompleteProgress: |████████████████████████████████------------------| 65.5% CompleteProgress: |████████████████████████████████------------------| 65.5% CompleteProgress: |████████████████████████████████------------------| 65.6% CompleteProgress: |████████████████████████████████------------------| 65.6% CompleteProgress: |████████████████████████████████------------------| 65.7% CompleteProgress: |████████████████████████████████------------------| 65.8% CompleteProgress: |████████████████████████████████------------------| 65.8% CompleteProgress: |████████████████████████████████------------------| 65.9% CompleteProgress: |████████████████████████████████------------------| 65.9% CompleteProgress: |████████████████████████████████------------------| 66.0% CompleteProgress: |█████████████████████████████████-----------------| 66.0% CompleteProgress: |█████████████████████████████████-----------------| 66.1% CompleteProgress: |█████████████████████████████████-----------------| 66.2% CompleteProgress: |█████████████████████████████████-----------------| 66.2% CompleteProgress: |█████████████████████████████████-----------------| 66.3% CompleteProgress: |█████████████████████████████████-----------------| 66.3% CompleteProgress: |█████████████████████████████████-----------------| 66.4% CompleteProgress: |█████████████████████████████████-----------------| 66.5% CompleteProgress: |█████████████████████████████████-----------------| 66.5% CompleteProgress: |█████████████████████████████████-----------------| 66.6% CompleteProgress: |█████████████████████████████████-----------------| 66.6% CompleteProgress: |█████████████████████████████████-----------------| 66.7% CompleteProgress: |█████████████████████████████████-----------------| 66.7% CompleteProgress: |█████████████████████████████████-----------------| 66.8% CompleteProgress: |█████████████████████████████████-----------------| 66.9% CompleteProgress: |█████████████████████████████████-----------------| 66.9% CompleteProgress: |█████████████████████████████████-----------------| 67.0% CompleteProgress: |█████████████████████████████████-----------------| 67.0% CompleteProgress: |█████████████████████████████████-----------------| 67.1% CompleteProgress: |█████████████████████████████████-----------------| 67.2% CompleteProgress: |█████████████████████████████████-----------------| 67.2% CompleteProgress: |█████████████████████████████████-----------------| 67.3% CompleteProgress: |█████████████████████████████████-----------------| 67.3% CompleteProgress: |█████████████████████████████████-----------------| 67.4% CompleteProgress: |█████████████████████████████████-----------------| 67.4% CompleteProgress: |█████████████████████████████████-----------------| 67.5% CompleteProgress: |█████████████████████████████████-----------------| 67.6% CompleteProgress: |█████████████████████████████████-----------------| 67.6% CompleteProgress: |█████████████████████████████████-----------------| 67.7% CompleteProgress: |█████████████████████████████████-----------------| 67.7% CompleteProgress: |█████████████████████████████████-----------------| 67.8% CompleteProgress: |█████████████████████████████████-----------------| 67.9% CompleteProgress: |█████████████████████████████████-----------------| 67.9% CompleteProgress: |█████████████████████████████████-----------------| 68.0% CompleteProgress: |██████████████████████████████████----------------| 68.0% CompleteProgress: |██████████████████████████████████----------------| 68.1% CompleteProgress: |██████████████████████████████████----------------| 68.1% CompleteProgress: |██████████████████████████████████----------------| 68.2% CompleteProgress: |██████████████████████████████████----------------| 68.3% CompleteProgress: |██████████████████████████████████----------------| 68.3% CompleteProgress: |██████████████████████████████████----------------| 68.4% CompleteProgress: |██████████████████████████████████----------------| 68.4% CompleteProgress: |██████████████████████████████████----------------| 68.5% CompleteProgress: |██████████████████████████████████----------------| 68.6% CompleteProgress: |██████████████████████████████████----------------| 68.6% CompleteProgress: |██████████████████████████████████----------------| 68.7% CompleteProgress: |██████████████████████████████████----------------| 68.7% CompleteProgress: |██████████████████████████████████----------------| 68.8% CompleteProgress: |██████████████████████████████████----------------| 68.8% CompleteProgress: |██████████████████████████████████----------------| 68.9% CompleteProgress: |██████████████████████████████████----------------| 69.0% CompleteProgress: |██████████████████████████████████----------------| 69.0% CompleteProgress: |██████████████████████████████████----------------| 69.1% CompleteProgress: |██████████████████████████████████----------------| 69.1% CompleteProgress: |██████████████████████████████████----------------| 69.2% CompleteProgress: |██████████████████████████████████----------------| 69.3% CompleteProgress: |██████████████████████████████████----------------| 69.3% CompleteProgress: |██████████████████████████████████----------------| 69.4% CompleteProgress: |██████████████████████████████████----------------| 69.4% CompleteProgress: |██████████████████████████████████----------------| 69.5% CompleteProgress: |██████████████████████████████████----------------| 69.5% CompleteProgress: |██████████████████████████████████----------------| 69.6% CompleteProgress: |██████████████████████████████████----------------| 69.7% CompleteProgress: |██████████████████████████████████----------------| 69.7% CompleteProgress: |██████████████████████████████████----------------| 69.8% CompleteProgress: |██████████████████████████████████----------------| 69.8% CompleteProgress: |██████████████████████████████████----------------| 69.9% CompleteProgress: |██████████████████████████████████----------------| 70.0% CompleteProgress: |███████████████████████████████████---------------| 70.0% CompleteProgress: |███████████████████████████████████---------------| 70.1% CompleteProgress: |███████████████████████████████████---------------| 70.1% CompleteProgress: |███████████████████████████████████---------------| 70.2% CompleteProgress: |███████████████████████████████████---------------| 70.2% CompleteProgress: |███████████████████████████████████---------------| 70.3% CompleteProgress: |███████████████████████████████████---------------| 70.4% CompleteProgress: |███████████████████████████████████---------------| 70.4% CompleteProgress: |███████████████████████████████████---------------| 70.5% CompleteProgress: |███████████████████████████████████---------------| 70.5% CompleteProgress: |███████████████████████████████████---------------| 70.6% CompleteProgress: |███████████████████████████████████---------------| 70.7% CompleteProgress: |███████████████████████████████████---------------| 70.7% CompleteProgress: |███████████████████████████████████---------------| 70.8% CompleteProgress: |███████████████████████████████████---------------| 70.8% CompleteProgress: |███████████████████████████████████---------------| 70.9% CompleteProgress: |███████████████████████████████████---------------| 70.9% CompleteProgress: |███████████████████████████████████---------------| 71.0% CompleteProgress: |███████████████████████████████████---------------| 71.1% CompleteProgress: |███████████████████████████████████---------------| 71.1% CompleteProgress: |███████████████████████████████████---------------| 71.2% CompleteProgress: |███████████████████████████████████---------------| 71.2% CompleteProgress: |███████████████████████████████████---------------| 71.3% CompleteProgress: |███████████████████████████████████---------------| 71.4% CompleteProgress: |███████████████████████████████████---------------| 71.4% CompleteProgress: |███████████████████████████████████---------------| 71.5% CompleteProgress: |███████████████████████████████████---------------| 71.5% CompleteProgress: |███████████████████████████████████---------------| 71.6% CompleteProgress: |███████████████████████████████████---------------| 71.6% CompleteProgress: |███████████████████████████████████---------------| 71.7% CompleteProgress: |███████████████████████████████████---------------| 71.8% CompleteProgress: |███████████████████████████████████---------------| 71.8% CompleteProgress: |███████████████████████████████████---------------| 71.9% CompleteProgress: |███████████████████████████████████---------------| 71.9% CompleteProgress: |███████████████████████████████████---------------| 72.0% CompleteProgress: |████████████████████████████████████--------------| 72.1% CompleteProgress: |████████████████████████████████████--------------| 72.1% CompleteProgress: |████████████████████████████████████--------------| 72.2% CompleteProgress: |████████████████████████████████████--------------| 72.2% CompleteProgress: |████████████████████████████████████--------------| 72.3% CompleteProgress: |████████████████████████████████████--------------| 72.3% CompleteProgress: |████████████████████████████████████--------------| 72.4% CompleteProgress: |████████████████████████████████████--------------| 72.5% CompleteProgress: |████████████████████████████████████--------------| 72.5% CompleteProgress: |████████████████████████████████████--------------| 72.6% CompleteProgress: |████████████████████████████████████--------------| 72.6% CompleteProgress: |████████████████████████████████████--------------| 72.7% CompleteProgress: |████████████████████████████████████--------------| 72.8% CompleteProgress: |████████████████████████████████████--------------| 72.8% CompleteProgress: |████████████████████████████████████--------------| 72.9% CompleteProgress: |████████████████████████████████████--------------| 72.9% CompleteProgress: |████████████████████████████████████--------------| 73.0% CompleteProgress: |████████████████████████████████████--------------| 73.0% CompleteProgress: |████████████████████████████████████--------------| 73.1% CompleteProgress: |████████████████████████████████████--------------| 73.2% CompleteProgress: |████████████████████████████████████--------------| 73.2% CompleteProgress: |████████████████████████████████████--------------| 73.3% CompleteProgress: |████████████████████████████████████--------------| 73.3% CompleteProgress: |████████████████████████████████████--------------| 73.4% CompleteProgress: |████████████████████████████████████--------------| 73.5% CompleteProgress: |████████████████████████████████████--------------| 73.5% CompleteProgress: |████████████████████████████████████--------------| 73.6% CompleteProgress: |████████████████████████████████████--------------| 73.6% CompleteProgress: |████████████████████████████████████--------------| 73.7% CompleteProgress: |████████████████████████████████████--------------| 73.7% CompleteProgress: |████████████████████████████████████--------------| 73.8% CompleteProgress: |████████████████████████████████████--------------| 73.9% CompleteProgress: |████████████████████████████████████--------------| 73.9% CompleteProgress: |████████████████████████████████████--------------| 74.0% CompleteProgress: |█████████████████████████████████████-------------| 74.0% CompleteProgress: |█████████████████████████████████████-------------| 74.1% CompleteProgress: |█████████████████████████████████████-------------| 74.2% CompleteProgress: |█████████████████████████████████████-------------| 74.2% CompleteProgress: |█████████████████████████████████████-------------| 74.3% CompleteProgress: |█████████████████████████████████████-------------| 74.3% CompleteProgress: |█████████████████████████████████████-------------| 74.4% CompleteProgress: |█████████████████████████████████████-------------| 74.4% CompleteProgress: |█████████████████████████████████████-------------| 74.5% CompleteProgress: |█████████████████████████████████████-------------| 74.6% CompleteProgress: |█████████████████████████████████████-------------| 74.6% CompleteProgress: |█████████████████████████████████████-------------| 74.7% CompleteProgress: |█████████████████████████████████████-------------| 74.7% CompleteProgress: |█████████████████████████████████████-------------| 74.8% CompleteProgress: |█████████████████████████████████████-------------| 74.9% CompleteProgress: |█████████████████████████████████████-------------| 74.9% CompleteProgress: |█████████████████████████████████████-------------| 75.0% CompleteProgress: |█████████████████████████████████████-------------| 75.0% CompleteProgress: |█████████████████████████████████████-------------| 75.1% CompleteProgress: |█████████████████████████████████████-------------| 75.1% CompleteProgress: |█████████████████████████████████████-------------| 75.2% CompleteProgress: |█████████████████████████████████████-------------| 75.3% CompleteProgress: |█████████████████████████████████████-------------| 75.3% CompleteProgress: |█████████████████████████████████████-------------| 75.4% CompleteProgress: |█████████████████████████████████████-------------| 75.4% CompleteProgress: |█████████████████████████████████████-------------| 75.5% CompleteProgress: |█████████████████████████████████████-------------| 75.6% CompleteProgress: |█████████████████████████████████████-------------| 75.6% CompleteProgress: |█████████████████████████████████████-------------| 75.7% CompleteProgress: |█████████████████████████████████████-------------| 75.7% CompleteProgress: |█████████████████████████████████████-------------| 75.8% CompleteProgress: |█████████████████████████████████████-------------| 75.8% CompleteProgress: |█████████████████████████████████████-------------| 75.9% CompleteProgress: |█████████████████████████████████████-------------| 76.0% CompleteProgress: |██████████████████████████████████████------------| 76.0% CompleteProgress: |██████████████████████████████████████------------| 76.1% CompleteProgress: |██████████████████████████████████████------------| 76.1% CompleteProgress: |██████████████████████████████████████------------| 76.2% CompleteProgress: |██████████████████████████████████████------------| 76.3% CompleteProgress: |██████████████████████████████████████------------| 76.3% CompleteProgress: |██████████████████████████████████████------------| 76.4% CompleteProgress: |██████████████████████████████████████------------| 76.4% CompleteProgress: |██████████████████████████████████████------------| 76.5% CompleteProgress: |██████████████████████████████████████------------| 76.5% CompleteProgress: |██████████████████████████████████████------------| 76.6% CompleteProgress: |██████████████████████████████████████------------| 76.7% CompleteProgress: |██████████████████████████████████████------------| 76.7% CompleteProgress: |██████████████████████████████████████------------| 76.8% CompleteProgress: |██████████████████████████████████████------------| 76.8% CompleteProgress: |██████████████████████████████████████------------| 76.9% CompleteProgress: |██████████████████████████████████████------------| 77.0% CompleteProgress: |██████████████████████████████████████------------| 77.0% CompleteProgress: |██████████████████████████████████████------------| 77.1% CompleteProgress: |██████████████████████████████████████------------| 77.1% CompleteProgress: |██████████████████████████████████████------------| 77.2% CompleteProgress: |██████████████████████████████████████------------| 77.2% CompleteProgress: |██████████████████████████████████████------------| 77.3% CompleteProgress: |██████████████████████████████████████------------| 77.4% CompleteProgress: |██████████████████████████████████████------------| 77.4% CompleteProgress: |██████████████████████████████████████------------| 77.5% CompleteProgress: |██████████████████████████████████████------------| 77.5% CompleteProgress: |██████████████████████████████████████------------| 77.6% CompleteProgress: |██████████████████████████████████████------------| 77.7% CompleteProgress: |██████████████████████████████████████------------| 77.7% CompleteProgress: |██████████████████████████████████████------------| 77.8% CompleteProgress: |██████████████████████████████████████------------| 77.8% CompleteProgress: |██████████████████████████████████████------------| 77.9% CompleteProgress: |██████████████████████████████████████------------| 77.9% CompleteProgress: |███████████████████████████████████████-----------| 78.0% CompleteProgress: |███████████████████████████████████████-----------| 78.1% CompleteProgress: |███████████████████████████████████████-----------| 78.1% CompleteProgress: |███████████████████████████████████████-----------| 78.2% CompleteProgress: |███████████████████████████████████████-----------| 78.2% CompleteProgress: |███████████████████████████████████████-----------| 78.3% CompleteProgress: |███████████████████████████████████████-----------| 78.4% CompleteProgress: |███████████████████████████████████████-----------| 78.4% CompleteProgress: |███████████████████████████████████████-----------| 78.5% CompleteProgress: |███████████████████████████████████████-----------| 78.5% CompleteProgress: |███████████████████████████████████████-----------| 78.6% CompleteProgress: |███████████████████████████████████████-----------| 78.6% CompleteProgress: |███████████████████████████████████████-----------| 78.7% CompleteProgress: |███████████████████████████████████████-----------| 78.8% CompleteProgress: |███████████████████████████████████████-----------| 78.8% CompleteProgress: |███████████████████████████████████████-----------| 78.9% CompleteProgress: |███████████████████████████████████████-----------| 78.9% CompleteProgress: |███████████████████████████████████████-----------| 79.0% CompleteProgress: |███████████████████████████████████████-----------| 79.1% CompleteProgress: |███████████████████████████████████████-----------| 79.1% CompleteProgress: |███████████████████████████████████████-----------| 79.2% CompleteProgress: |███████████████████████████████████████-----------| 79.2% CompleteProgress: |███████████████████████████████████████-----------| 79.3% CompleteProgress: |███████████████████████████████████████-----------| 79.3% CompleteProgress: |███████████████████████████████████████-----------| 79.4% CompleteProgress: |███████████████████████████████████████-----------| 79.5% CompleteProgress: |███████████████████████████████████████-----------| 79.5% CompleteProgress: |███████████████████████████████████████-----------| 79.6% CompleteProgress: |███████████████████████████████████████-----------| 79.6% CompleteProgress: |███████████████████████████████████████-----------| 79.7% CompleteProgress: |███████████████████████████████████████-----------| 79.8% CompleteProgress: |███████████████████████████████████████-----------| 79.8% CompleteProgress: |███████████████████████████████████████-----------| 79.9% CompleteProgress: |███████████████████████████████████████-----------| 79.9% CompleteProgress: |███████████████████████████████████████-----------| 80.0% CompleteProgress: |████████████████████████████████████████----------| 80.0% CompleteProgress: |████████████████████████████████████████----------| 80.1% CompleteProgress: |████████████████████████████████████████----------| 80.2% CompleteProgress: |████████████████████████████████████████----------| 80.2% CompleteProgress: |████████████████████████████████████████----------| 80.3% CompleteProgress: |████████████████████████████████████████----------| 80.3% CompleteProgress: |████████████████████████████████████████----------| 80.4% CompleteProgress: |████████████████████████████████████████----------| 80.5% CompleteProgress: |████████████████████████████████████████----------| 80.5% CompleteProgress: |████████████████████████████████████████----------| 80.6% CompleteProgress: |████████████████████████████████████████----------| 80.6% CompleteProgress: |████████████████████████████████████████----------| 80.7% CompleteProgress: |████████████████████████████████████████----------| 80.7% CompleteProgress: |████████████████████████████████████████----------| 80.8% CompleteProgress: |████████████████████████████████████████----------| 80.9% CompleteProgress: |████████████████████████████████████████----------| 80.9% CompleteProgress: |████████████████████████████████████████----------| 81.0% CompleteProgress: |████████████████████████████████████████----------| 81.0% CompleteProgress: |████████████████████████████████████████----------| 81.1% CompleteProgress: |████████████████████████████████████████----------| 81.2% CompleteProgress: |████████████████████████████████████████----------| 81.2% CompleteProgress: |████████████████████████████████████████----------| 81.3% CompleteProgress: |████████████████████████████████████████----------| 81.3% CompleteProgress: |████████████████████████████████████████----------| 81.4% CompleteProgress: |████████████████████████████████████████----------| 81.4% CompleteProgress: |████████████████████████████████████████----------| 81.5% CompleteProgress: |████████████████████████████████████████----------| 81.6% CompleteProgress: |████████████████████████████████████████----------| 81.6% CompleteProgress: |████████████████████████████████████████----------| 81.7% CompleteProgress: |████████████████████████████████████████----------| 81.7% CompleteProgress: |████████████████████████████████████████----------| 81.8% CompleteProgress: |████████████████████████████████████████----------| 81.9% CompleteProgress: |████████████████████████████████████████----------| 81.9% CompleteProgress: |████████████████████████████████████████----------| 82.0% CompleteProgress: |█████████████████████████████████████████---------| 82.0% CompleteProgress: |█████████████████████████████████████████---------| 82.1% CompleteProgress: |█████████████████████████████████████████---------| 82.1% CompleteProgress: |█████████████████████████████████████████---------| 82.2% CompleteProgress: |█████████████████████████████████████████---------| 82.3% CompleteProgress: |█████████████████████████████████████████---------| 82.3% CompleteProgress: |█████████████████████████████████████████---------| 82.4% CompleteProgress: |█████████████████████████████████████████---------| 82.4% CompleteProgress: |█████████████████████████████████████████---------| 82.5% CompleteProgress: |█████████████████████████████████████████---------| 82.6% CompleteProgress: |█████████████████████████████████████████---------| 82.6% CompleteProgress: |█████████████████████████████████████████---------| 82.7% CompleteProgress: |█████████████████████████████████████████---------| 82.7% CompleteProgress: |█████████████████████████████████████████---------| 82.8% CompleteProgress: |█████████████████████████████████████████---------| 82.8% CompleteProgress: |█████████████████████████████████████████---------| 82.9% CompleteProgress: |█████████████████████████████████████████---------| 83.0% CompleteProgress: |█████████████████████████████████████████---------| 83.0% CompleteProgress: |█████████████████████████████████████████---------| 83.1% CompleteProgress: |█████████████████████████████████████████---------| 83.1% CompleteProgress: |█████████████████████████████████████████---------| 83.2% CompleteProgress: |█████████████████████████████████████████---------| 83.3% CompleteProgress: |█████████████████████████████████████████---------| 83.3% CompleteProgress: |█████████████████████████████████████████---------| 83.4% CompleteProgress: |█████████████████████████████████████████---------| 83.4% CompleteProgress: |█████████████████████████████████████████---------| 83.5% CompleteProgress: |█████████████████████████████████████████---------| 83.5% CompleteProgress: |█████████████████████████████████████████---------| 83.6% CompleteProgress: |█████████████████████████████████████████---------| 83.7% CompleteProgress: |█████████████████████████████████████████---------| 83.7% CompleteProgress: |█████████████████████████████████████████---------| 83.8% CompleteProgress: |█████████████████████████████████████████---------| 83.8% CompleteProgress: |█████████████████████████████████████████---------| 83.9% CompleteProgress: |█████████████████████████████████████████---------| 84.0% CompleteProgress: |██████████████████████████████████████████--------| 84.0% CompleteProgress: |██████████████████████████████████████████--------| 84.1% CompleteProgress: |██████████████████████████████████████████--------| 84.1% CompleteProgress: |██████████████████████████████████████████--------| 84.2% CompleteProgress: |██████████████████████████████████████████--------| 84.2% CompleteProgress: |██████████████████████████████████████████--------| 84.3% CompleteProgress: |██████████████████████████████████████████--------| 84.4% CompleteProgress: |██████████████████████████████████████████--------| 84.4% CompleteProgress: |██████████████████████████████████████████--------| 84.5% CompleteProgress: |██████████████████████████████████████████--------| 84.5% CompleteProgress: |██████████████████████████████████████████--------| 84.6% CompleteProgress: |██████████████████████████████████████████--------| 84.7% CompleteProgress: |██████████████████████████████████████████--------| 84.7% CompleteProgress: |██████████████████████████████████████████--------| 84.8% CompleteProgress: |██████████████████████████████████████████--------| 84.8% CompleteProgress: |██████████████████████████████████████████--------| 84.9% CompleteProgress: |██████████████████████████████████████████--------| 84.9% CompleteProgress: |██████████████████████████████████████████--------| 85.0% CompleteProgress: |██████████████████████████████████████████--------| 85.1% CompleteProgress: |██████████████████████████████████████████--------| 85.1% CompleteProgress: |██████████████████████████████████████████--------| 85.2% CompleteProgress: |██████████████████████████████████████████--------| 85.2% CompleteProgress: |██████████████████████████████████████████--------| 85.3% CompleteProgress: |██████████████████████████████████████████--------| 85.4% CompleteProgress: |██████████████████████████████████████████--------| 85.4% CompleteProgress: |██████████████████████████████████████████--------| 85.5% CompleteProgress: |██████████████████████████████████████████--------| 85.5% CompleteProgress: |██████████████████████████████████████████--------| 85.6% CompleteProgress: |██████████████████████████████████████████--------| 85.6% CompleteProgress: |██████████████████████████████████████████--------| 85.7% CompleteProgress: |██████████████████████████████████████████--------| 85.8% CompleteProgress: |██████████████████████████████████████████--------| 85.8% CompleteProgress: |██████████████████████████████████████████--------| 85.9% CompleteProgress: |██████████████████████████████████████████--------| 85.9% CompleteProgress: |██████████████████████████████████████████--------| 86.0% CompleteProgress: |███████████████████████████████████████████-------| 86.1% CompleteProgress: |███████████████████████████████████████████-------| 86.1% CompleteProgress: |███████████████████████████████████████████-------| 86.2% CompleteProgress: |███████████████████████████████████████████-------| 86.2% CompleteProgress: |███████████████████████████████████████████-------| 86.3% CompleteProgress: |███████████████████████████████████████████-------| 86.3% CompleteProgress: |███████████████████████████████████████████-------| 86.4% CompleteProgress: |███████████████████████████████████████████-------| 86.5% CompleteProgress: |███████████████████████████████████████████-------| 86.5% CompleteProgress: |███████████████████████████████████████████-------| 86.6% CompleteProgress: |███████████████████████████████████████████-------| 86.6% CompleteProgress: |███████████████████████████████████████████-------| 86.7% CompleteProgress: |███████████████████████████████████████████-------| 86.8% CompleteProgress: |███████████████████████████████████████████-------| 86.8% CompleteProgress: |███████████████████████████████████████████-------| 86.9% CompleteProgress: |███████████████████████████████████████████-------| 86.9% CompleteProgress: |███████████████████████████████████████████-------| 87.0% CompleteProgress: |███████████████████████████████████████████-------| 87.0% CompleteProgress: |███████████████████████████████████████████-------| 87.1% CompleteProgress: |███████████████████████████████████████████-------| 87.2% CompleteProgress: |███████████████████████████████████████████-------| 87.2% CompleteProgress: |███████████████████████████████████████████-------| 87.3% CompleteProgress: |███████████████████████████████████████████-------| 87.3% CompleteProgress: |███████████████████████████████████████████-------| 87.4% CompleteProgress: |███████████████████████████████████████████-------| 87.5% CompleteProgress: |███████████████████████████████████████████-------| 87.5% CompleteProgress: |███████████████████████████████████████████-------| 87.6% CompleteProgress: |███████████████████████████████████████████-------| 87.6% CompleteProgress: |███████████████████████████████████████████-------| 87.7% CompleteProgress: |███████████████████████████████████████████-------| 87.7% CompleteProgress: |███████████████████████████████████████████-------| 87.8% CompleteProgress: |███████████████████████████████████████████-------| 87.9% CompleteProgress: |███████████████████████████████████████████-------| 87.9% CompleteProgress: |███████████████████████████████████████████-------| 88.0% CompleteProgress: |████████████████████████████████████████████------| 88.0% CompleteProgress: |████████████████████████████████████████████------| 88.1% CompleteProgress: |████████████████████████████████████████████------| 88.2% CompleteProgress: |████████████████████████████████████████████------| 88.2% CompleteProgress: |████████████████████████████████████████████------| 88.3% CompleteProgress: |████████████████████████████████████████████------| 88.3% CompleteProgress: |████████████████████████████████████████████------| 88.4% CompleteProgress: |████████████████████████████████████████████------| 88.4% CompleteProgress: |████████████████████████████████████████████------| 88.5% CompleteProgress: |████████████████████████████████████████████------| 88.6% CompleteProgress: |████████████████████████████████████████████------| 88.6% CompleteProgress: |████████████████████████████████████████████------| 88.7% CompleteProgress: |████████████████████████████████████████████------| 88.7% CompleteProgress: |████████████████████████████████████████████------| 88.8% CompleteProgress: |████████████████████████████████████████████------| 88.9% CompleteProgress: |████████████████████████████████████████████------| 88.9% CompleteProgress: |████████████████████████████████████████████------| 89.0% CompleteProgress: |████████████████████████████████████████████------| 89.0% CompleteProgress: |████████████████████████████████████████████------| 89.1% CompleteProgress: |████████████████████████████████████████████------| 89.1% CompleteProgress: |████████████████████████████████████████████------| 89.2% CompleteProgress: |████████████████████████████████████████████------| 89.3% CompleteProgress: |████████████████████████████████████████████------| 89.3% CompleteProgress: |████████████████████████████████████████████------| 89.4% CompleteProgress: |████████████████████████████████████████████------| 89.4% CompleteProgress: |████████████████████████████████████████████------| 89.5% CompleteProgress: |████████████████████████████████████████████------| 89.6% CompleteProgress: |████████████████████████████████████████████------| 89.6% CompleteProgress: |████████████████████████████████████████████------| 89.7% CompleteProgress: |████████████████████████████████████████████------| 89.7% CompleteProgress: |████████████████████████████████████████████------| 89.8% CompleteProgress: |████████████████████████████████████████████------| 89.8% CompleteProgress: |████████████████████████████████████████████------| 89.9% CompleteProgress: |████████████████████████████████████████████------| 90.0% CompleteProgress: |█████████████████████████████████████████████-----| 90.0% CompleteProgress: |█████████████████████████████████████████████-----| 90.1% CompleteProgress: |█████████████████████████████████████████████-----| 90.1% CompleteProgress: |█████████████████████████████████████████████-----| 90.2% CompleteProgress: |█████████████████████████████████████████████-----| 90.3% CompleteProgress: |█████████████████████████████████████████████-----| 90.3% CompleteProgress: |█████████████████████████████████████████████-----| 90.4% CompleteProgress: |█████████████████████████████████████████████-----| 90.4% CompleteProgress: |█████████████████████████████████████████████-----| 90.5% CompleteProgress: |█████████████████████████████████████████████-----| 90.5% CompleteProgress: |█████████████████████████████████████████████-----| 90.6% CompleteProgress: |█████████████████████████████████████████████-----| 90.7% CompleteProgress: |█████████████████████████████████████████████-----| 90.7% CompleteProgress: |█████████████████████████████████████████████-----| 90.8% CompleteProgress: |█████████████████████████████████████████████-----| 90.8% CompleteProgress: |█████████████████████████████████████████████-----| 90.9% CompleteProgress: |█████████████████████████████████████████████-----| 91.0% CompleteProgress: |█████████████████████████████████████████████-----| 91.0% CompleteProgress: |█████████████████████████████████████████████-----| 91.1% CompleteProgress: |█████████████████████████████████████████████-----| 91.1% CompleteProgress: |█████████████████████████████████████████████-----| 91.2% CompleteProgress: |█████████████████████████████████████████████-----| 91.2% CompleteProgress: |█████████████████████████████████████████████-----| 91.3% CompleteProgress: |█████████████████████████████████████████████-----| 91.4% CompleteProgress: |█████████████████████████████████████████████-----| 91.4% CompleteProgress: |█████████████████████████████████████████████-----| 91.5% CompleteProgress: |█████████████████████████████████████████████-----| 91.5% CompleteProgress: |█████████████████████████████████████████████-----| 91.6% CompleteProgress: |█████████████████████████████████████████████-----| 91.7% CompleteProgress: |█████████████████████████████████████████████-----| 91.7% CompleteProgress: |█████████████████████████████████████████████-----| 91.8% CompleteProgress: |█████████████████████████████████████████████-----| 91.8% CompleteProgress: |█████████████████████████████████████████████-----| 91.9% CompleteProgress: |█████████████████████████████████████████████-----| 91.9% CompleteProgress: |██████████████████████████████████████████████----| 92.0% CompleteProgress: |██████████████████████████████████████████████----| 92.1% CompleteProgress: |██████████████████████████████████████████████----| 92.1% CompleteProgress: |██████████████████████████████████████████████----| 92.2% CompleteProgress: |██████████████████████████████████████████████----| 92.2% CompleteProgress: |██████████████████████████████████████████████----| 92.3% CompleteProgress: |██████████████████████████████████████████████----| 92.4% CompleteProgress: |██████████████████████████████████████████████----| 92.4% CompleteProgress: |██████████████████████████████████████████████----| 92.5% CompleteProgress: |██████████████████████████████████████████████----| 92.5% CompleteProgress: |██████████████████████████████████████████████----| 92.6% CompleteProgress: |██████████████████████████████████████████████----| 92.6% CompleteProgress: |██████████████████████████████████████████████----| 92.7% CompleteProgress: |██████████████████████████████████████████████----| 92.8% CompleteProgress: |██████████████████████████████████████████████----| 92.8% CompleteProgress: |██████████████████████████████████████████████----| 92.9% CompleteProgress: |██████████████████████████████████████████████----| 92.9% CompleteProgress: |██████████████████████████████████████████████----| 93.0% CompleteProgress: |██████████████████████████████████████████████----| 93.1% CompleteProgress: |██████████████████████████████████████████████----| 93.1% CompleteProgress: |██████████████████████████████████████████████----| 93.2% CompleteProgress: |██████████████████████████████████████████████----| 93.2% CompleteProgress: |██████████████████████████████████████████████----| 93.3% CompleteProgress: |██████████████████████████████████████████████----| 93.3% CompleteProgress: |██████████████████████████████████████████████----| 93.4% CompleteProgress: |██████████████████████████████████████████████----| 93.5% CompleteProgress: |██████████████████████████████████████████████----| 93.5% CompleteProgress: |██████████████████████████████████████████████----| 93.6% CompleteProgress: |██████████████████████████████████████████████----| 93.6% CompleteProgress: |██████████████████████████████████████████████----| 93.7% CompleteProgress: |██████████████████████████████████████████████----| 93.8% CompleteProgress: |██████████████████████████████████████████████----| 93.8% CompleteProgress: |██████████████████████████████████████████████----| 93.9% CompleteProgress: |██████████████████████████████████████████████----| 93.9% CompleteProgress: |██████████████████████████████████████████████----| 94.0% CompleteProgress: |███████████████████████████████████████████████---| 94.0% CompleteProgress: |███████████████████████████████████████████████---| 94.1% CompleteProgress: |███████████████████████████████████████████████---| 94.2% CompleteProgress: |███████████████████████████████████████████████---| 94.2% CompleteProgress: |███████████████████████████████████████████████---| 94.3% CompleteProgress: |███████████████████████████████████████████████---| 94.3% CompleteProgress: |███████████████████████████████████████████████---| 94.4% CompleteProgress: |███████████████████████████████████████████████---| 94.5% CompleteProgress: |███████████████████████████████████████████████---| 94.5% CompleteProgress: |███████████████████████████████████████████████---| 94.6% CompleteProgress: |███████████████████████████████████████████████---| 94.6% CompleteProgress: |███████████████████████████████████████████████---| 94.7% CompleteProgress: |███████████████████████████████████████████████---| 94.8% CompleteProgress: |███████████████████████████████████████████████---| 94.8% CompleteProgress: |███████████████████████████████████████████████---| 94.9% CompleteProgress: |███████████████████████████████████████████████---| 94.9% CompleteProgress: |███████████████████████████████████████████████---| 95.0% CompleteProgress: |███████████████████████████████████████████████---| 95.0% CompleteProgress: |███████████████████████████████████████████████---| 95.1% CompleteProgress: |███████████████████████████████████████████████---| 95.2% CompleteProgress: |███████████████████████████████████████████████---| 95.2% CompleteProgress: |███████████████████████████████████████████████---| 95.3% CompleteProgress: |███████████████████████████████████████████████---| 95.3% CompleteProgress: |███████████████████████████████████████████████---| 95.4% CompleteProgress: |███████████████████████████████████████████████---| 95.5% CompleteProgress: |███████████████████████████████████████████████---| 95.5% CompleteProgress: |███████████████████████████████████████████████---| 95.6% CompleteProgress: |███████████████████████████████████████████████---| 95.6% CompleteProgress: |███████████████████████████████████████████████---| 95.7% CompleteProgress: |███████████████████████████████████████████████---| 95.7% CompleteProgress: |███████████████████████████████████████████████---| 95.8% CompleteProgress: |███████████████████████████████████████████████---| 95.9% CompleteProgress: |███████████████████████████████████████████████---| 95.9% CompleteProgress: |███████████████████████████████████████████████---| 96.0% CompleteProgress: |████████████████████████████████████████████████--| 96.0% CompleteProgress: |████████████████████████████████████████████████--| 96.1% CompleteProgress: |████████████████████████████████████████████████--| 96.2% CompleteProgress: |████████████████████████████████████████████████--| 96.2% CompleteProgress: |████████████████████████████████████████████████--| 96.3% CompleteProgress: |████████████████████████████████████████████████--| 96.3% CompleteProgress: |████████████████████████████████████████████████--| 96.4% CompleteProgress: |████████████████████████████████████████████████--| 96.4% CompleteProgress: |████████████████████████████████████████████████--| 96.5% CompleteProgress: |████████████████████████████████████████████████--| 96.6% CompleteProgress: |████████████████████████████████████████████████--| 96.6% CompleteProgress: |████████████████████████████████████████████████--| 96.7% CompleteProgress: |████████████████████████████████████████████████--| 96.7% CompleteProgress: |████████████████████████████████████████████████--| 96.8% CompleteProgress: |████████████████████████████████████████████████--| 96.9% CompleteProgress: |████████████████████████████████████████████████--| 96.9% CompleteProgress: |████████████████████████████████████████████████--| 97.0% CompleteProgress: |████████████████████████████████████████████████--| 97.0% CompleteProgress: |████████████████████████████████████████████████--| 97.1% CompleteProgress: |████████████████████████████████████████████████--| 97.1% CompleteProgress: |████████████████████████████████████████████████--| 97.2% CompleteProgress: |████████████████████████████████████████████████--| 97.3% CompleteProgress: |████████████████████████████████████████████████--| 97.3% CompleteProgress: |████████████████████████████████████████████████--| 97.4% CompleteProgress: |████████████████████████████████████████████████--| 97.4% CompleteProgress: |████████████████████████████████████████████████--| 97.5% CompleteProgress: |████████████████████████████████████████████████--| 97.6% CompleteProgress: |████████████████████████████████████████████████--| 97.6% CompleteProgress: |████████████████████████████████████████████████--| 97.7% CompleteProgress: |████████████████████████████████████████████████--| 97.7% CompleteProgress: |████████████████████████████████████████████████--| 97.8% CompleteProgress: |████████████████████████████████████████████████--| 97.8% CompleteProgress: |████████████████████████████████████████████████--| 97.9% CompleteProgress: |████████████████████████████████████████████████--| 98.0% CompleteProgress: |█████████████████████████████████████████████████-| 98.0% CompleteProgress: |█████████████████████████████████████████████████-| 98.1% CompleteProgress: |█████████████████████████████████████████████████-| 98.1% CompleteProgress: |█████████████████████████████████████████████████-| 98.2% CompleteProgress: |█████████████████████████████████████████████████-| 98.3% CompleteProgress: |█████████████████████████████████████████████████-| 98.3% CompleteProgress: |█████████████████████████████████████████████████-| 98.4% CompleteProgress: |█████████████████████████████████████████████████-| 98.4% CompleteProgress: |█████████████████████████████████████████████████-| 98.5% CompleteProgress: |█████████████████████████████████████████████████-| 98.5% CompleteProgress: |█████████████████████████████████████████████████-| 98.6% CompleteProgress: |█████████████████████████████████████████████████-| 98.7% CompleteProgress: |█████████████████████████████████████████████████-| 98.7% CompleteProgress: |█████████████████████████████████████████████████-| 98.8% CompleteProgress: |█████████████████████████████████████████████████-| 98.8% CompleteProgress: |█████████████████████████████████████████████████-| 98.9% CompleteProgress: |█████████████████████████████████████████████████-| 99.0% CompleteProgress: |█████████████████████████████████████████████████-| 99.0% CompleteProgress: |█████████████████████████████████████████████████-| 99.1% CompleteProgress: |█████████████████████████████████████████████████-| 99.1% CompleteProgress: |█████████████████████████████████████████████████-| 99.2% CompleteProgress: |█████████████████████████████████████████████████-| 99.2% CompleteProgress: |█████████████████████████████████████████████████-| 99.3% CompleteProgress: |█████████████████████████████████████████████████-| 99.4% CompleteProgress: |█████████████████████████████████████████████████-| 99.4% CompleteProgress: |█████████████████████████████████████████████████-| 99.5% CompleteProgress: |█████████████████████████████████████████████████-| 99.5% CompleteProgress: |█████████████████████████████████████████████████-| 99.6% CompleteProgress: |█████████████████████████████████████████████████-| 99.7% CompleteProgress: |█████████████████████████████████████████████████-| 99.7% CompleteProgress: |█████████████████████████████████████████████████-| 99.8% CompleteProgress: |█████████████████████████████████████████████████-| 99.8% CompleteProgress: |█████████████████████████████████████████████████-| 99.9% CompleteProgress: |█████████████████████████████████████████████████-| 99.9% CompleteProgress: |██████████████████████████████████████████████████| 100.0% Complete
+    
+Progress: |--------------------------------------------------| 0.0% Complete
+Progress: |--------------------------------------------------| 0.1% Complete
+Progress: |--------------------------------------------------| 0.1% Complete
+Progress: |--------------------------------------------------| 0.2% Complete
+Progress: |--------------------------------------------------| 0.2% Complete
+Progress: |--------------------------------------------------| 0.3% Complete
+Progress: |--------------------------------------------------| 0.4% Complete
+Progress: |--------------------------------------------------| 0.4% Complete
+Progress: |--------------------------------------------------| 0.5% Complete
+Progress: |--------------------------------------------------| 0.5% Complete
+Progress: |--------------------------------------------------| 0.6% Complete
+Progress: |--------------------------------------------------| 0.6% Complete
+Progress: |--------------------------------------------------| 0.7% Complete
+Progress: |--------------------------------------------------| 0.8% Complete
+Progress: |--------------------------------------------------| 0.8% Complete
+Progress: |--------------------------------------------------| 0.9% Complete
+Progress: |--------------------------------------------------| 0.9% Complete
+Progress: |--------------------------------------------------| 1.0% Complete
+Progress: |--------------------------------------------------| 1.1% Complete
+Progress: |--------------------------------------------------| 1.1% Complete
+Progress: |--------------------------------------------------| 1.2% Complete
+Progress: |--------------------------------------------------| 1.2% Complete
+Progress: |--------------------------------------------------| 1.3% Complete
+Progress: |--------------------------------------------------| 1.3% Complete
+Progress: |--------------------------------------------------| 1.4% Complete
+Progress: |--------------------------------------------------| 1.5% Complete
+Progress: |--------------------------------------------------| 1.5% Complete
+Progress: |--------------------------------------------------| 1.6% Complete
+Progress: |--------------------------------------------------| 1.6% Complete
+Progress: |--------------------------------------------------| 1.7% Complete
+Progress: |--------------------------------------------------| 1.8% Complete
+Progress: |--------------------------------------------------| 1.8% Complete
+Progress: |--------------------------------------------------| 1.9% Complete
+Progress: |--------------------------------------------------| 1.9% Complete
+Progress: |--------------------------------------------------| 2.0% Complete
+Progress: |█-------------------------------------------------| 2.0% Complete
+Progress: |█-------------------------------------------------| 2.1% Complete
+Progress: |█-------------------------------------------------| 2.2% Complete
+Progress: |█-------------------------------------------------| 2.2% Complete
+Progress: |█-------------------------------------------------| 2.3% Complete
+Progress: |█-------------------------------------------------| 2.3% Complete
+Progress: |█-------------------------------------------------| 2.4% Complete
+Progress: |█-------------------------------------------------| 2.5% Complete
+Progress: |█-------------------------------------------------| 2.5% Complete
+Progress: |█-------------------------------------------------| 2.6% Complete
+Progress: |█-------------------------------------------------| 2.6% Complete
+Progress: |█-------------------------------------------------| 2.7% Complete
+Progress: |█-------------------------------------------------| 2.7% Complete
+Progress: |█-------------------------------------------------| 2.8% Complete
+Progress: |█-------------------------------------------------| 2.9% Complete
+Progress: |█-------------------------------------------------| 2.9% Complete
+Progress: |█-------------------------------------------------| 3.0% Complete
+Progress: |█-------------------------------------------------| 3.0% Complete
+Progress: |█-------------------------------------------------| 3.1% Complete
+Progress: |█-------------------------------------------------| 3.2% Complete
+Progress: |█-------------------------------------------------| 3.2% Complete
+Progress: |█-------------------------------------------------| 3.3% Complete
+Progress: |█-------------------------------------------------| 3.3% Complete
+Progress: |█-------------------------------------------------| 3.4% Complete
+Progress: |█-------------------------------------------------| 3.4% Complete
+Progress: |█-------------------------------------------------| 3.5% Complete
+Progress: |█-------------------------------------------------| 3.6% Complete
+Progress: |█-------------------------------------------------| 3.6% Complete
+Progress: |█-------------------------------------------------| 3.7% Complete
+Progress: |█-------------------------------------------------| 3.7% Complete
+Progress: |█-------------------------------------------------| 3.8% Complete
+Progress: |█-------------------------------------------------| 3.9% Complete
+Progress: |█-------------------------------------------------| 3.9% Complete
+Progress: |█-------------------------------------------------| 4.0% Complete
+Progress: |██------------------------------------------------| 4.0% Complete
+Progress: |██------------------------------------------------| 4.1% Complete
+Progress: |██------------------------------------------------| 4.1% Complete
+Progress: |██------------------------------------------------| 4.2% Complete
+Progress: |██------------------------------------------------| 4.3% Complete
+Progress: |██------------------------------------------------| 4.3% Complete
+Progress: |██------------------------------------------------| 4.4% Complete
+Progress: |██------------------------------------------------| 4.4% Complete
+Progress: |██------------------------------------------------| 4.5% Complete
+Progress: |██------------------------------------------------| 4.6% Complete
+Progress: |██------------------------------------------------| 4.6% Complete
+Progress: |██------------------------------------------------| 4.7% Complete
+Progress: |██------------------------------------------------| 4.7% Complete
+Progress: |██------------------------------------------------| 4.8% Complete
+Progress: |██------------------------------------------------| 4.8% Complete
+Progress: |██------------------------------------------------| 4.9% Complete
+Progress: |██------------------------------------------------| 5.0% Complete
+Progress: |██------------------------------------------------| 5.0% Complete
+Progress: |██------------------------------------------------| 5.1% Complete
+Progress: |██------------------------------------------------| 5.1% Complete
+Progress: |██------------------------------------------------| 5.2% Complete
+Progress: |██------------------------------------------------| 5.3% Complete
+Progress: |██------------------------------------------------| 5.3% Complete
+Progress: |██------------------------------------------------| 5.4% Complete
+Progress: |██------------------------------------------------| 5.4% Complete
+Progress: |██------------------------------------------------| 5.5% Complete
+Progress: |██------------------------------------------------| 5.5% Complete
+Progress: |██------------------------------------------------| 5.6% Complete
+Progress: |██------------------------------------------------| 5.7% Complete
+Progress: |██------------------------------------------------| 5.7% Complete
+Progress: |██------------------------------------------------| 5.8% Complete
+Progress: |██------------------------------------------------| 5.8% Complete
+Progress: |██------------------------------------------------| 5.9% Complete
+Progress: |██------------------------------------------------| 6.0% Complete
+Progress: |███-----------------------------------------------| 6.0% Complete
+Progress: |███-----------------------------------------------| 6.1% Complete
+Progress: |███-----------------------------------------------| 6.1% Complete
+Progress: |███-----------------------------------------------| 6.2% Complete
+Progress: |███-----------------------------------------------| 6.2% Complete
+Progress: |███-----------------------------------------------| 6.3% Complete
+Progress: |███-----------------------------------------------| 6.4% Complete
+Progress: |███-----------------------------------------------| 6.4% Complete
+Progress: |███-----------------------------------------------| 6.5% Complete
+Progress: |███-----------------------------------------------| 6.5% Complete
+Progress: |███-----------------------------------------------| 6.6% Complete
+Progress: |███-----------------------------------------------| 6.7% Complete
+Progress: |███-----------------------------------------------| 6.7% Complete
+Progress: |███-----------------------------------------------| 6.8% Complete
+Progress: |███-----------------------------------------------| 6.8% Complete
+Progress: |███-----------------------------------------------| 6.9% Complete
+Progress: |███-----------------------------------------------| 6.9% Complete
+Progress: |███-----------------------------------------------| 7.0% Complete
+Progress: |███-----------------------------------------------| 7.1% Complete
+Progress: |███-----------------------------------------------| 7.1% Complete
+Progress: |███-----------------------------------------------| 7.2% Complete
+Progress: |███-----------------------------------------------| 7.2% Complete
+Progress: |███-----------------------------------------------| 7.3% Complete
+Progress: |███-----------------------------------------------| 7.4% Complete
+Progress: |███-----------------------------------------------| 7.4% Complete
+Progress: |███-----------------------------------------------| 7.5% Complete
+Progress: |███-----------------------------------------------| 7.5% Complete
+Progress: |███-----------------------------------------------| 7.6% Complete
+Progress: |███-----------------------------------------------| 7.6% Complete
+Progress: |███-----------------------------------------------| 7.7% Complete
+Progress: |███-----------------------------------------------| 7.8% Complete
+Progress: |███-----------------------------------------------| 7.8% Complete
+Progress: |███-----------------------------------------------| 7.9% Complete
+Progress: |███-----------------------------------------------| 7.9% Complete
+Progress: |███-----------------------------------------------| 8.0% Complete
+Progress: |████----------------------------------------------| 8.1% Complete
+Progress: |████----------------------------------------------| 8.1% Complete
+Progress: |████----------------------------------------------| 8.2% Complete
+Progress: |████----------------------------------------------| 8.2% Complete
+Progress: |████----------------------------------------------| 8.3% Complete
+Progress: |████----------------------------------------------| 8.3% Complete
+Progress: |████----------------------------------------------| 8.4% Complete
+Progress: |████----------------------------------------------| 8.5% Complete
+Progress: |████----------------------------------------------| 8.5% Complete
+Progress: |████----------------------------------------------| 8.6% Complete
+Progress: |████----------------------------------------------| 8.6% Complete
+Progress: |████----------------------------------------------| 8.7% Complete
+Progress: |████----------------------------------------------| 8.8% Complete
+Progress: |████----------------------------------------------| 8.8% Complete
+Progress: |████----------------------------------------------| 8.9% Complete
+Progress: |████----------------------------------------------| 8.9% Complete
+Progress: |████----------------------------------------------| 9.0% Complete
+Progress: |████----------------------------------------------| 9.0% Complete
+Progress: |████----------------------------------------------| 9.1% Complete
+Progress: |████----------------------------------------------| 9.2% Complete
+Progress: |████----------------------------------------------| 9.2% Complete
+Progress: |████----------------------------------------------| 9.3% Complete
+Progress: |████----------------------------------------------| 9.3% Complete
+Progress: |████----------------------------------------------| 9.4% Complete
+Progress: |████----------------------------------------------| 9.5% Complete
+Progress: |████----------------------------------------------| 9.5% Complete
+Progress: |████----------------------------------------------| 9.6% Complete
+Progress: |████----------------------------------------------| 9.6% Complete
+Progress: |████----------------------------------------------| 9.7% Complete
+Progress: |████----------------------------------------------| 9.7% Complete
+Progress: |████----------------------------------------------| 9.8% Complete
+Progress: |████----------------------------------------------| 9.9% Complete
+Progress: |████----------------------------------------------| 9.9% Complete
+Progress: |████----------------------------------------------| 10.0% Complete
+Progress: |█████---------------------------------------------| 10.0% Complete
+Progress: |█████---------------------------------------------| 10.1% Complete
+Progress: |█████---------------------------------------------| 10.2% Complete
+Progress: |█████---------------------------------------------| 10.2% Complete
+Progress: |█████---------------------------------------------| 10.3% Complete
+Progress: |█████---------------------------------------------| 10.3% Complete
+Progress: |█████---------------------------------------------| 10.4% Complete
+Progress: |█████---------------------------------------------| 10.4% Complete
+Progress: |█████---------------------------------------------| 10.5% Complete
+Progress: |█████---------------------------------------------| 10.6% Complete
+Progress: |█████---------------------------------------------| 10.6% Complete
+Progress: |█████---------------------------------------------| 10.7% Complete
+Progress: |█████---------------------------------------------| 10.7% Complete
+Progress: |█████---------------------------------------------| 10.8% Complete
+Progress: |█████---------------------------------------------| 10.9% Complete
+Progress: |█████---------------------------------------------| 10.9% Complete
+Progress: |█████---------------------------------------------| 11.0% Complete
+Progress: |█████---------------------------------------------| 11.0% Complete
+Progress: |█████---------------------------------------------| 11.1% Complete
+Progress: |█████---------------------------------------------| 11.1% Complete
+Progress: |█████---------------------------------------------| 11.2% Complete
+Progress: |█████---------------------------------------------| 11.3% Complete
+Progress: |█████---------------------------------------------| 11.3% Complete
+Progress: |█████---------------------------------------------| 11.4% Complete
+Progress: |█████---------------------------------------------| 11.4% Complete
+Progress: |█████---------------------------------------------| 11.5% Complete
+Progress: |█████---------------------------------------------| 11.6% Complete
+Progress: |█████---------------------------------------------| 11.6% Complete
+Progress: |█████---------------------------------------------| 11.7% Complete
+Progress: |█████---------------------------------------------| 11.7% Complete
+Progress: |█████---------------------------------------------| 11.8% Complete
+Progress: |█████---------------------------------------------| 11.8% Complete
+Progress: |█████---------------------------------------------| 11.9% Complete
+Progress: |█████---------------------------------------------| 12.0% Complete
+Progress: |██████--------------------------------------------| 12.0% Complete
+Progress: |██████--------------------------------------------| 12.1% Complete
+Progress: |██████--------------------------------------------| 12.1% Complete
+Progress: |██████--------------------------------------------| 12.2% Complete
+Progress: |██████--------------------------------------------| 12.3% Complete
+Progress: |██████--------------------------------------------| 12.3% Complete
+Progress: |██████--------------------------------------------| 12.4% Complete
+Progress: |██████--------------------------------------------| 12.4% Complete
+Progress: |██████--------------------------------------------| 12.5% Complete
+Progress: |██████--------------------------------------------| 12.5% Complete
+Progress: |██████--------------------------------------------| 12.6% Complete
+Progress: |██████--------------------------------------------| 12.7% Complete
+Progress: |██████--------------------------------------------| 12.7% Complete
+Progress: |██████--------------------------------------------| 12.8% Complete
+Progress: |██████--------------------------------------------| 12.8% Complete
+Progress: |██████--------------------------------------------| 12.9% Complete
+Progress: |██████--------------------------------------------| 13.0% Complete
+Progress: |██████--------------------------------------------| 13.0% Complete
+Progress: |██████--------------------------------------------| 13.1% Complete
+Progress: |██████--------------------------------------------| 13.1% Complete
+Progress: |██████--------------------------------------------| 13.2% Complete
+Progress: |██████--------------------------------------------| 13.2% Complete
+Progress: |██████--------------------------------------------| 13.3% Complete
+Progress: |██████--------------------------------------------| 13.4% Complete
+Progress: |██████--------------------------------------------| 13.4% Complete
+Progress: |██████--------------------------------------------| 13.5% Complete
+Progress: |██████--------------------------------------------| 13.5% Complete
+Progress: |██████--------------------------------------------| 13.6% Complete
+Progress: |██████--------------------------------------------| 13.7% Complete
+Progress: |██████--------------------------------------------| 13.7% Complete
+Progress: |██████--------------------------------------------| 13.8% Complete
+Progress: |██████--------------------------------------------| 13.8% Complete
+Progress: |██████--------------------------------------------| 13.9% Complete
+Progress: |██████--------------------------------------------| 13.9% Complete
+Progress: |███████-------------------------------------------| 14.0% Complete
+Progress: |███████-------------------------------------------| 14.1% Complete
+Progress: |███████-------------------------------------------| 14.1% Complete
+Progress: |███████-------------------------------------------| 14.2% Complete
+Progress: |███████-------------------------------------------| 14.2% Complete
+Progress: |███████-------------------------------------------| 14.3% Complete
+Progress: |███████-------------------------------------------| 14.4% Complete
+Progress: |███████-------------------------------------------| 14.4% Complete
+Progress: |███████-------------------------------------------| 14.5% Complete
+Progress: |███████-------------------------------------------| 14.5% Complete
+Progress: |███████-------------------------------------------| 14.6% Complete
+Progress: |███████-------------------------------------------| 14.6% Complete
+Progress: |███████-------------------------------------------| 14.7% Complete
+Progress: |███████-------------------------------------------| 14.8% Complete
+Progress: |███████-------------------------------------------| 14.8% Complete
+Progress: |███████-------------------------------------------| 14.9% Complete
+Progress: |███████-------------------------------------------| 14.9% Complete
+Progress: |███████-------------------------------------------| 15.0% Complete
+Progress: |███████-------------------------------------------| 15.1% Complete
+Progress: |███████-------------------------------------------| 15.1% Complete
+Progress: |███████-------------------------------------------| 15.2% Complete
+Progress: |███████-------------------------------------------| 15.2% Complete
+Progress: |███████-------------------------------------------| 15.3% Complete
+Progress: |███████-------------------------------------------| 15.3% Complete
+Progress: |███████-------------------------------------------| 15.4% Complete
+Progress: |███████-------------------------------------------| 15.5% Complete
+Progress: |███████-------------------------------------------| 15.5% Complete
+Progress: |███████-------------------------------------------| 15.6% Complete
+Progress: |███████-------------------------------------------| 15.6% Complete
+Progress: |███████-------------------------------------------| 15.7% Complete
+Progress: |███████-------------------------------------------| 15.8% Complete
+Progress: |███████-------------------------------------------| 15.8% Complete
+Progress: |███████-------------------------------------------| 15.9% Complete
+Progress: |███████-------------------------------------------| 15.9% Complete
+Progress: |███████-------------------------------------------| 16.0% Complete
+Progress: |████████------------------------------------------| 16.0% Complete
+Progress: |████████------------------------------------------| 16.1% Complete
+Progress: |████████------------------------------------------| 16.2% Complete
+Progress: |████████------------------------------------------| 16.2% Complete
+Progress: |████████------------------------------------------| 16.3% Complete
+Progress: |████████------------------------------------------| 16.3% Complete
+Progress: |████████------------------------------------------| 16.4% Complete
+Progress: |████████------------------------------------------| 16.5% Complete
+Progress: |████████------------------------------------------| 16.5% Complete
+Progress: |████████------------------------------------------| 16.6% Complete
+Progress: |████████------------------------------------------| 16.6% Complete
+Progress: |████████------------------------------------------| 16.7% Complete
+Progress: |████████------------------------------------------| 16.7% Complete
+Progress: |████████------------------------------------------| 16.8% Complete
+Progress: |████████------------------------------------------| 16.9% Complete
+Progress: |████████------------------------------------------| 16.9% Complete
+Progress: |████████------------------------------------------| 17.0% Complete
+Progress: |████████------------------------------------------| 17.0% Complete
+Progress: |████████------------------------------------------| 17.1% Complete
+Progress: |████████------------------------------------------| 17.2% Complete
+Progress: |████████------------------------------------------| 17.2% Complete
+Progress: |████████------------------------------------------| 17.3% Complete
+Progress: |████████------------------------------------------| 17.3% Complete
+Progress: |████████------------------------------------------| 17.4% Complete
+Progress: |████████------------------------------------------| 17.4% Complete
+Progress: |████████------------------------------------------| 17.5% Complete
+Progress: |████████------------------------------------------| 17.6% Complete
+Progress: |████████------------------------------------------| 17.6% Complete
+Progress: |████████------------------------------------------| 17.7% Complete
+Progress: |████████------------------------------------------| 17.7% Complete
+Progress: |████████------------------------------------------| 17.8% Complete
+Progress: |████████------------------------------------------| 17.9% Complete
+Progress: |████████------------------------------------------| 17.9% Complete
+Progress: |████████------------------------------------------| 18.0% Complete
+Progress: |█████████-----------------------------------------| 18.0% Complete
+Progress: |█████████-----------------------------------------| 18.1% Complete
+Progress: |█████████-----------------------------------------| 18.1% Complete
+Progress: |█████████-----------------------------------------| 18.2% Complete
+Progress: |█████████-----------------------------------------| 18.3% Complete
+Progress: |█████████-----------------------------------------| 18.3% Complete
+Progress: |█████████-----------------------------------------| 18.4% Complete
+Progress: |█████████-----------------------------------------| 18.4% Complete
+Progress: |█████████-----------------------------------------| 18.5% Complete
+Progress: |█████████-----------------------------------------| 18.6% Complete
+Progress: |█████████-----------------------------------------| 18.6% Complete
+Progress: |█████████-----------------------------------------| 18.7% Complete
+Progress: |█████████-----------------------------------------| 18.7% Complete
+Progress: |█████████-----------------------------------------| 18.8% Complete
+Progress: |█████████-----------------------------------------| 18.8% Complete
+Progress: |█████████-----------------------------------------| 18.9% Complete
+Progress: |█████████-----------------------------------------| 19.0% Complete
+Progress: |█████████-----------------------------------------| 19.0% Complete
+Progress: |█████████-----------------------------------------| 19.1% Complete
+Progress: |█████████-----------------------------------------| 19.1% Complete
+Progress: |█████████-----------------------------------------| 19.2% Complete
+Progress: |█████████-----------------------------------------| 19.3% Complete
+Progress: |█████████-----------------------------------------| 19.3% Complete
+Progress: |█████████-----------------------------------------| 19.4% Complete
+Progress: |█████████-----------------------------------------| 19.4% Complete
+Progress: |█████████-----------------------------------------| 19.5% Complete
+Progress: |█████████-----------------------------------------| 19.5% Complete
+Progress: |█████████-----------------------------------------| 19.6% Complete
+Progress: |█████████-----------------------------------------| 19.7% Complete
+Progress: |█████████-----------------------------------------| 19.7% Complete
+Progress: |█████████-----------------------------------------| 19.8% Complete
+Progress: |█████████-----------------------------------------| 19.8% Complete
+Progress: |█████████-----------------------------------------| 19.9% Complete
+Progress: |█████████-----------------------------------------| 20.0% Complete
+Progress: |██████████----------------------------------------| 20.0% Complete
+Progress: |██████████----------------------------------------| 20.1% Complete
+Progress: |██████████----------------------------------------| 20.1% Complete
+Progress: |██████████----------------------------------------| 20.2% Complete
+Progress: |██████████----------------------------------------| 20.2% Complete
+Progress: |██████████----------------------------------------| 20.3% Complete
+Progress: |██████████----------------------------------------| 20.4% Complete
+Progress: |██████████----------------------------------------| 20.4% Complete
+Progress: |██████████----------------------------------------| 20.5% Complete
+Progress: |██████████----------------------------------------| 20.5% Complete
+Progress: |██████████----------------------------------------| 20.6% Complete
+Progress: |██████████----------------------------------------| 20.7% Complete
+Progress: |██████████----------------------------------------| 20.7% Complete
+Progress: |██████████----------------------------------------| 20.8% Complete
+Progress: |██████████----------------------------------------| 20.8% Complete
+Progress: |██████████----------------------------------------| 20.9% Complete
+Progress: |██████████----------------------------------------| 20.9% Complete
+Progress: |██████████----------------------------------------| 21.0% Complete
+Progress: |██████████----------------------------------------| 21.1% Complete
+Progress: |██████████----------------------------------------| 21.1% Complete
+Progress: |██████████----------------------------------------| 21.2% Complete
+Progress: |██████████----------------------------------------| 21.2% Complete
+Progress: |██████████----------------------------------------| 21.3% Complete
+Progress: |██████████----------------------------------------| 21.4% Complete
+Progress: |██████████----------------------------------------| 21.4% Complete
+Progress: |██████████----------------------------------------| 21.5% Complete
+Progress: |██████████----------------------------------------| 21.5% Complete
+Progress: |██████████----------------------------------------| 21.6% Complete
+Progress: |██████████----------------------------------------| 21.6% Complete
+Progress: |██████████----------------------------------------| 21.7% Complete
+Progress: |██████████----------------------------------------| 21.8% Complete
+Progress: |██████████----------------------------------------| 21.8% Complete
+Progress: |██████████----------------------------------------| 21.9% Complete
+Progress: |██████████----------------------------------------| 21.9% Complete
+Progress: |██████████----------------------------------------| 22.0% Complete
+Progress: |███████████---------------------------------------| 22.1% Complete
+Progress: |███████████---------------------------------------| 22.1% Complete
+Progress: |███████████---------------------------------------| 22.2% Complete
+Progress: |███████████---------------------------------------| 22.2% Complete
+Progress: |███████████---------------------------------------| 22.3% Complete
+Progress: |███████████---------------------------------------| 22.3% Complete
+Progress: |███████████---------------------------------------| 22.4% Complete
+Progress: |███████████---------------------------------------| 22.5% Complete
+Progress: |███████████---------------------------------------| 22.5% Complete
+Progress: |███████████---------------------------------------| 22.6% Complete
+Progress: |███████████---------------------------------------| 22.6% Complete
+Progress: |███████████---------------------------------------| 22.7% Complete
+Progress: |███████████---------------------------------------| 22.8% Complete
+Progress: |███████████---------------------------------------| 22.8% Complete
+Progress: |███████████---------------------------------------| 22.9% Complete
+Progress: |███████████---------------------------------------| 22.9% Complete
+Progress: |███████████---------------------------------------| 23.0% Complete
+Progress: |███████████---------------------------------------| 23.0% Complete
+Progress: |███████████---------------------------------------| 23.1% Complete
+Progress: |███████████---------------------------------------| 23.2% Complete
+Progress: |███████████---------------------------------------| 23.2% Complete
+Progress: |███████████---------------------------------------| 23.3% Complete
+Progress: |███████████---------------------------------------| 23.3% Complete
+Progress: |███████████---------------------------------------| 23.4% Complete
+Progress: |███████████---------------------------------------| 23.5% Complete
+Progress: |███████████---------------------------------------| 23.5% Complete
+Progress: |███████████---------------------------------------| 23.6% Complete
+Progress: |███████████---------------------------------------| 23.6% Complete
+Progress: |███████████---------------------------------------| 23.7% Complete
+Progress: |███████████---------------------------------------| 23.7% Complete
+Progress: |███████████---------------------------------------| 23.8% Complete
+Progress: |███████████---------------------------------------| 23.9% Complete
+Progress: |███████████---------------------------------------| 23.9% Complete
+Progress: |███████████---------------------------------------| 24.0% Complete
+Progress: |████████████--------------------------------------| 24.0% Complete
+Progress: |████████████--------------------------------------| 24.1% Complete
+Progress: |████████████--------------------------------------| 24.2% Complete
+Progress: |████████████--------------------------------------| 24.2% Complete
+Progress: |████████████--------------------------------------| 24.3% Complete
+Progress: |████████████--------------------------------------| 24.3% Complete
+Progress: |████████████--------------------------------------| 24.4% Complete
+Progress: |████████████--------------------------------------| 24.4% Complete
+Progress: |████████████--------------------------------------| 24.5% Complete
+Progress: |████████████--------------------------------------| 24.6% Complete
+Progress: |████████████--------------------------------------| 24.6% Complete
+Progress: |████████████--------------------------------------| 24.7% Complete
+Progress: |████████████--------------------------------------| 24.7% Complete
+Progress: |████████████--------------------------------------| 24.8% Complete
+Progress: |████████████--------------------------------------| 24.9% Complete
+Progress: |████████████--------------------------------------| 24.9% Complete
+Progress: |████████████--------------------------------------| 25.0% Complete
+Progress: |████████████--------------------------------------| 25.0% Complete
+Progress: |████████████--------------------------------------| 25.1% Complete
+Progress: |████████████--------------------------------------| 25.1% Complete
+Progress: |████████████--------------------------------------| 25.2% Complete
+Progress: |████████████--------------------------------------| 25.3% Complete
+Progress: |████████████--------------------------------------| 25.3% Complete
+Progress: |████████████--------------------------------------| 25.4% Complete
+Progress: |████████████--------------------------------------| 25.4% Complete
+Progress: |████████████--------------------------------------| 25.5% Complete
+Progress: |████████████--------------------------------------| 25.6% Complete
+Progress: |████████████--------------------------------------| 25.6% Complete
+Progress: |████████████--------------------------------------| 25.7% Complete
+Progress: |████████████--------------------------------------| 25.7% Complete
+Progress: |████████████--------------------------------------| 25.8% Complete
+Progress: |████████████--------------------------------------| 25.8% Complete
+Progress: |████████████--------------------------------------| 25.9% Complete
+Progress: |████████████--------------------------------------| 26.0% Complete
+Progress: |█████████████-------------------------------------| 26.0% Complete
+Progress: |█████████████-------------------------------------| 26.1% Complete
+Progress: |█████████████-------------------------------------| 26.1% Complete
+Progress: |█████████████-------------------------------------| 26.2% Complete
+Progress: |█████████████-------------------------------------| 26.3% Complete
+Progress: |█████████████-------------------------------------| 26.3% Complete
+Progress: |█████████████-------------------------------------| 26.4% Complete
+Progress: |█████████████-------------------------------------| 26.4% Complete
+Progress: |█████████████-------------------------------------| 26.5% Complete
+Progress: |█████████████-------------------------------------| 26.5% Complete
+Progress: |█████████████-------------------------------------| 26.6% Complete
+Progress: |█████████████-------------------------------------| 26.7% Complete
+Progress: |█████████████-------------------------------------| 26.7% Complete
+Progress: |█████████████-------------------------------------| 26.8% Complete
+Progress: |█████████████-------------------------------------| 26.8% Complete
+Progress: |█████████████-------------------------------------| 26.9% Complete
+Progress: |█████████████-------------------------------------| 27.0% Complete
+Progress: |█████████████-------------------------------------| 27.0% Complete
+Progress: |█████████████-------------------------------------| 27.1% Complete
+Progress: |█████████████-------------------------------------| 27.1% Complete
+Progress: |█████████████-------------------------------------| 27.2% Complete
+Progress: |█████████████-------------------------------------| 27.2% Complete
+Progress: |█████████████-------------------------------------| 27.3% Complete
+Progress: |█████████████-------------------------------------| 27.4% Complete
+Progress: |█████████████-------------------------------------| 27.4% Complete
+Progress: |█████████████-------------------------------------| 27.5% Complete
+Progress: |█████████████-------------------------------------| 27.5% Complete
+Progress: |█████████████-------------------------------------| 27.6% Complete
+Progress: |█████████████-------------------------------------| 27.7% Complete
+Progress: |█████████████-------------------------------------| 27.7% Complete
+Progress: |█████████████-------------------------------------| 27.8% Complete
+Progress: |█████████████-------------------------------------| 27.8% Complete
+Progress: |█████████████-------------------------------------| 27.9% Complete
+Progress: |█████████████-------------------------------------| 27.9% Complete
+Progress: |██████████████------------------------------------| 28.0% Complete
+Progress: |██████████████------------------------------------| 28.1% Complete
+Progress: |██████████████------------------------------------| 28.1% Complete
+Progress: |██████████████------------------------------------| 28.2% Complete
+Progress: |██████████████------------------------------------| 28.2% Complete
+Progress: |██████████████------------------------------------| 28.3% Complete
+Progress: |██████████████------------------------------------| 28.4% Complete
+Progress: |██████████████------------------------------------| 28.4% Complete
+Progress: |██████████████------------------------------------| 28.5% Complete
+Progress: |██████████████------------------------------------| 28.5% Complete
+Progress: |██████████████------------------------------------| 28.6% Complete
+Progress: |██████████████------------------------------------| 28.6% Complete
+Progress: |██████████████------------------------------------| 28.7% Complete
+Progress: |██████████████------------------------------------| 28.8% Complete
+Progress: |██████████████------------------------------------| 28.8% Complete
+Progress: |██████████████------------------------------------| 28.9% Complete
+Progress: |██████████████------------------------------------| 28.9% Complete
+Progress: |██████████████------------------------------------| 29.0% Complete
+Progress: |██████████████------------------------------------| 29.1% Complete
+Progress: |██████████████------------------------------------| 29.1% Complete
+Progress: |██████████████------------------------------------| 29.2% Complete
+Progress: |██████████████------------------------------------| 29.2% Complete
+Progress: |██████████████------------------------------------| 29.3% Complete
+Progress: |██████████████------------------------------------| 29.3% Complete
+Progress: |██████████████------------------------------------| 29.4% Complete
+Progress: |██████████████------------------------------------| 29.5% Complete
+Progress: |██████████████------------------------------------| 29.5% Complete
+Progress: |██████████████------------------------------------| 29.6% Complete
+Progress: |██████████████------------------------------------| 29.6% Complete
+Progress: |██████████████------------------------------------| 29.7% Complete
+Progress: |██████████████------------------------------------| 29.8% Complete
+Progress: |██████████████------------------------------------| 29.8% Complete
+Progress: |██████████████------------------------------------| 29.9% Complete
+Progress: |██████████████------------------------------------| 29.9% Complete
+Progress: |██████████████------------------------------------| 30.0% Complete
+Progress: |███████████████-----------------------------------| 30.0% Complete
+Progress: |███████████████-----------------------------------| 30.1% Complete
+Progress: |███████████████-----------------------------------| 30.2% Complete
+Progress: |███████████████-----------------------------------| 30.2% Complete
+Progress: |███████████████-----------------------------------| 30.3% Complete
+Progress: |███████████████-----------------------------------| 30.3% Complete
+Progress: |███████████████-----------------------------------| 30.4% Complete
+Progress: |███████████████-----------------------------------| 30.5% Complete
+Progress: |███████████████-----------------------------------| 30.5% Complete
+Progress: |███████████████-----------------------------------| 30.6% Complete
+Progress: |███████████████-----------------------------------| 30.6% Complete
+Progress: |███████████████-----------------------------------| 30.7% Complete
+Progress: |███████████████-----------------------------------| 30.7% Complete
+Progress: |███████████████-----------------------------------| 30.8% Complete
+Progress: |███████████████-----------------------------------| 30.9% Complete
+Progress: |███████████████-----------------------------------| 30.9% Complete
+Progress: |███████████████-----------------------------------| 31.0% Complete
+Progress: |███████████████-----------------------------------| 31.0% Complete
+Progress: |███████████████-----------------------------------| 31.1% Complete
+Progress: |███████████████-----------------------------------| 31.2% Complete
+Progress: |███████████████-----------------------------------| 31.2% Complete
+Progress: |███████████████-----------------------------------| 31.3% Complete
+Progress: |███████████████-----------------------------------| 31.3% Complete
+Progress: |███████████████-----------------------------------| 31.4% Complete
+Progress: |███████████████-----------------------------------| 31.4% Complete
+Progress: |███████████████-----------------------------------| 31.5% Complete
+Progress: |███████████████-----------------------------------| 31.6% Complete
+Progress: |███████████████-----------------------------------| 31.6% Complete
+Progress: |███████████████-----------------------------------| 31.7% Complete
+Progress: |███████████████-----------------------------------| 31.7% Complete
+Progress: |███████████████-----------------------------------| 31.8% Complete
+Progress: |███████████████-----------------------------------| 31.9% Complete
+Progress: |███████████████-----------------------------------| 31.9% Complete
+Progress: |███████████████-----------------------------------| 32.0% Complete
+Progress: |████████████████----------------------------------| 32.0% Complete
+Progress: |████████████████----------------------------------| 32.1% Complete
+Progress: |████████████████----------------------------------| 32.1% Complete
+Progress: |████████████████----------------------------------| 32.2% Complete
+Progress: |████████████████----------------------------------| 32.3% Complete
+Progress: |████████████████----------------------------------| 32.3% Complete
+Progress: |████████████████----------------------------------| 32.4% Complete
+Progress: |████████████████----------------------------------| 32.4% Complete
+Progress: |████████████████----------------------------------| 32.5% Complete
+Progress: |████████████████----------------------------------| 32.6% Complete
+Progress: |████████████████----------------------------------| 32.6% Complete
+Progress: |████████████████----------------------------------| 32.7% Complete
+Progress: |████████████████----------------------------------| 32.7% Complete
+Progress: |████████████████----------------------------------| 32.8% Complete
+Progress: |████████████████----------------------------------| 32.8% Complete
+Progress: |████████████████----------------------------------| 32.9% Complete
+Progress: |████████████████----------------------------------| 33.0% Complete
+Progress: |████████████████----------------------------------| 33.0% Complete
+Progress: |████████████████----------------------------------| 33.1% Complete
+Progress: |████████████████----------------------------------| 33.1% Complete
+Progress: |████████████████----------------------------------| 33.2% Complete
+Progress: |████████████████----------------------------------| 33.3% Complete
+Progress: |████████████████----------------------------------| 33.3% Complete
+Progress: |████████████████----------------------------------| 33.4% Complete
+Progress: |████████████████----------------------------------| 33.4% Complete
+Progress: |████████████████----------------------------------| 33.5% Complete
+Progress: |████████████████----------------------------------| 33.5% Complete
+Progress: |████████████████----------------------------------| 33.6% Complete
+Progress: |████████████████----------------------------------| 33.7% Complete
+Progress: |████████████████----------------------------------| 33.7% Complete
+Progress: |████████████████----------------------------------| 33.8% Complete
+Progress: |████████████████----------------------------------| 33.8% Complete
+Progress: |████████████████----------------------------------| 33.9% Complete
+Progress: |████████████████----------------------------------| 34.0% Complete
+Progress: |█████████████████---------------------------------| 34.0% Complete
+Progress: |█████████████████---------------------------------| 34.1% Complete
+Progress: |█████████████████---------------------------------| 34.1% Complete
+Progress: |█████████████████---------------------------------| 34.2% Complete
+Progress: |█████████████████---------------------------------| 34.2% Complete
+Progress: |█████████████████---------------------------------| 34.3% Complete
+Progress: |█████████████████---------------------------------| 34.4% Complete
+Progress: |█████████████████---------------------------------| 34.4% Complete
+Progress: |█████████████████---------------------------------| 34.5% Complete
+Progress: |█████████████████---------------------------------| 34.5% Complete
+Progress: |█████████████████---------------------------------| 34.6% Complete
+Progress: |█████████████████---------------------------------| 34.7% Complete
+Progress: |█████████████████---------------------------------| 34.7% Complete
+Progress: |█████████████████---------------------------------| 34.8% Complete
+Progress: |█████████████████---------------------------------| 34.8% Complete
+Progress: |█████████████████---------------------------------| 34.9% Complete
+Progress: |█████████████████---------------------------------| 34.9% Complete
+Progress: |█████████████████---------------------------------| 35.0% Complete
+Progress: |█████████████████---------------------------------| 35.1% Complete
+Progress: |█████████████████---------------------------------| 35.1% Complete
+Progress: |█████████████████---------------------------------| 35.2% Complete
+Progress: |█████████████████---------------------------------| 35.2% Complete
+Progress: |█████████████████---------------------------------| 35.3% Complete
+Progress: |█████████████████---------------------------------| 35.4% Complete
+Progress: |█████████████████---------------------------------| 35.4% Complete
+Progress: |█████████████████---------------------------------| 35.5% Complete
+Progress: |█████████████████---------------------------------| 35.5% Complete
+Progress: |█████████████████---------------------------------| 35.6% Complete
+Progress: |█████████████████---------------------------------| 35.6% Complete
+Progress: |█████████████████---------------------------------| 35.7% Complete
+Progress: |█████████████████---------------------------------| 35.8% Complete
+Progress: |█████████████████---------------------------------| 35.8% Complete
+Progress: |█████████████████---------------------------------| 35.9% Complete
+Progress: |█████████████████---------------------------------| 35.9% Complete
+Progress: |█████████████████---------------------------------| 36.0% Complete
+Progress: |██████████████████--------------------------------| 36.1% Complete
+Progress: |██████████████████--------------------------------| 36.1% Complete
+Progress: |██████████████████--------------------------------| 36.2% Complete
+Progress: |██████████████████--------------------------------| 36.2% Complete
+Progress: |██████████████████--------------------------------| 36.3% Complete
+Progress: |██████████████████--------------------------------| 36.3% Complete
+Progress: |██████████████████--------------------------------| 36.4% Complete
+Progress: |██████████████████--------------------------------| 36.5% Complete
+Progress: |██████████████████--------------------------------| 36.5% Complete
+Progress: |██████████████████--------------------------------| 36.6% Complete
+Progress: |██████████████████--------------------------------| 36.6% Complete
+Progress: |██████████████████--------------------------------| 36.7% Complete
+Progress: |██████████████████--------------------------------| 36.8% Complete
+Progress: |██████████████████--------------------------------| 36.8% Complete
+Progress: |██████████████████--------------------------------| 36.9% Complete
+Progress: |██████████████████--------------------------------| 36.9% Complete
+Progress: |██████████████████--------------------------------| 37.0% Complete
+Progress: |██████████████████--------------------------------| 37.0% Complete
+Progress: |██████████████████--------------------------------| 37.1% Complete
+Progress: |██████████████████--------------------------------| 37.2% Complete
+Progress: |██████████████████--------------------------------| 37.2% Complete
+Progress: |██████████████████--------------------------------| 37.3% Complete
+Progress: |██████████████████--------------------------------| 37.3% Complete
+Progress: |██████████████████--------------------------------| 37.4% Complete
+Progress: |██████████████████--------------------------------| 37.5% Complete
+Progress: |██████████████████--------------------------------| 37.5% Complete
+Progress: |██████████████████--------------------------------| 37.6% Complete
+Progress: |██████████████████--------------------------------| 37.6% Complete
+Progress: |██████████████████--------------------------------| 37.7% Complete
+Progress: |██████████████████--------------------------------| 37.7% Complete
+Progress: |██████████████████--------------------------------| 37.8% Complete
+Progress: |██████████████████--------------------------------| 37.9% Complete
+Progress: |██████████████████--------------------------------| 37.9% Complete
+Progress: |██████████████████--------------------------------| 38.0% Complete
+Progress: |███████████████████-------------------------------| 38.0% Complete
+Progress: |███████████████████-------------------------------| 38.1% Complete
+Progress: |███████████████████-------------------------------| 38.2% Complete
+Progress: |███████████████████-------------------------------| 38.2% Complete
+Progress: |███████████████████-------------------------------| 38.3% Complete
+Progress: |███████████████████-------------------------------| 38.3% Complete
+Progress: |███████████████████-------------------------------| 38.4% Complete
+Progress: |███████████████████-------------------------------| 38.4% Complete
+Progress: |███████████████████-------------------------------| 38.5% Complete
+Progress: |███████████████████-------------------------------| 38.6% Complete
+Progress: |███████████████████-------------------------------| 38.6% Complete
+Progress: |███████████████████-------------------------------| 38.7% Complete
+Progress: |███████████████████-------------------------------| 38.7% Complete
+Progress: |███████████████████-------------------------------| 38.8% Complete
+Progress: |███████████████████-------------------------------| 38.9% Complete
+Progress: |███████████████████-------------------------------| 38.9% Complete
+Progress: |███████████████████-------------------------------| 39.0% Complete
+Progress: |███████████████████-------------------------------| 39.0% Complete
+Progress: |███████████████████-------------------------------| 39.1% Complete
+Progress: |███████████████████-------------------------------| 39.1% Complete
+Progress: |███████████████████-------------------------------| 39.2% Complete
+Progress: |███████████████████-------------------------------| 39.3% Complete
+Progress: |███████████████████-------------------------------| 39.3% Complete
+Progress: |███████████████████-------------------------------| 39.4% Complete
+Progress: |███████████████████-------------------------------| 39.4% Complete
+Progress: |███████████████████-------------------------------| 39.5% Complete
+Progress: |███████████████████-------------------------------| 39.6% Complete
+Progress: |███████████████████-------------------------------| 39.6% Complete
+Progress: |███████████████████-------------------------------| 39.7% Complete
+Progress: |███████████████████-------------------------------| 39.7% Complete
+Progress: |███████████████████-------------------------------| 39.8% Complete
+Progress: |███████████████████-------------------------------| 39.8% Complete
+Progress: |███████████████████-------------------------------| 39.9% Complete
+Progress: |███████████████████-------------------------------| 40.0% Complete
+Progress: |████████████████████------------------------------| 40.0% Complete
+Progress: |████████████████████------------------------------| 40.1% Complete
+Progress: |████████████████████------------------------------| 40.1% Complete
+Progress: |████████████████████------------------------------| 40.2% Complete
+Progress: |████████████████████------------------------------| 40.3% Complete
+Progress: |████████████████████------------------------------| 40.3% Complete
+Progress: |████████████████████------------------------------| 40.4% Complete
+Progress: |████████████████████------------------------------| 40.4% Complete
+Progress: |████████████████████------------------------------| 40.5% Complete
+Progress: |████████████████████------------------------------| 40.5% Complete
+Progress: |████████████████████------------------------------| 40.6% Complete
+Progress: |████████████████████------------------------------| 40.7% Complete
+Progress: |████████████████████------------------------------| 40.7% Complete
+Progress: |████████████████████------------------------------| 40.8% Complete
+Progress: |████████████████████------------------------------| 40.8% Complete
+Progress: |████████████████████------------------------------| 40.9% Complete
+Progress: |████████████████████------------------------------| 41.0% Complete
+Progress: |████████████████████------------------------------| 41.0% Complete
+Progress: |████████████████████------------------------------| 41.1% Complete
+Progress: |████████████████████------------------------------| 41.1% Complete
+Progress: |████████████████████------------------------------| 41.2% Complete
+Progress: |████████████████████------------------------------| 41.2% Complete
+Progress: |████████████████████------------------------------| 41.3% Complete
+Progress: |████████████████████------------------------------| 41.4% Complete
+Progress: |████████████████████------------------------------| 41.4% Complete
+Progress: |████████████████████------------------------------| 41.5% Complete
+Progress: |████████████████████------------------------------| 41.5% Complete
+Progress: |████████████████████------------------------------| 41.6% Complete
+Progress: |████████████████████------------------------------| 41.7% Complete
+Progress: |████████████████████------------------------------| 41.7% Complete
+Progress: |████████████████████------------------------------| 41.8% Complete
+Progress: |████████████████████------------------------------| 41.8% Complete
+Progress: |████████████████████------------------------------| 41.9% Complete
+Progress: |████████████████████------------------------------| 41.9% Complete
+Progress: |█████████████████████-----------------------------| 42.0% Complete
+Progress: |█████████████████████-----------------------------| 42.1% Complete
+Progress: |█████████████████████-----------------------------| 42.1% Complete
+Progress: |█████████████████████-----------------------------| 42.2% Complete
+Progress: |█████████████████████-----------------------------| 42.2% Complete
+Progress: |█████████████████████-----------------------------| 42.3% Complete
+Progress: |█████████████████████-----------------------------| 42.4% Complete
+Progress: |█████████████████████-----------------------------| 42.4% Complete
+Progress: |█████████████████████-----------------------------| 42.5% Complete
+Progress: |█████████████████████-----------------------------| 42.5% Complete
+Progress: |█████████████████████-----------------------------| 42.6% Complete
+Progress: |█████████████████████-----------------------------| 42.6% Complete
+Progress: |█████████████████████-----------------------------| 42.7% Complete
+Progress: |█████████████████████-----------------------------| 42.8% Complete
+Progress: |█████████████████████-----------------------------| 42.8% Complete
+Progress: |█████████████████████-----------------------------| 42.9% Complete
+Progress: |█████████████████████-----------------------------| 42.9% Complete
+Progress: |█████████████████████-----------------------------| 43.0% Complete
+Progress: |█████████████████████-----------------------------| 43.1% Complete
+Progress: |█████████████████████-----------------------------| 43.1% Complete
+Progress: |█████████████████████-----------------------------| 43.2% Complete
+Progress: |█████████████████████-----------------------------| 43.2% Complete
+Progress: |█████████████████████-----------------------------| 43.3% Complete
+Progress: |█████████████████████-----------------------------| 43.3% Complete
+Progress: |█████████████████████-----------------------------| 43.4% Complete
+Progress: |█████████████████████-----------------------------| 43.5% Complete
+Progress: |█████████████████████-----------------------------| 43.5% Complete
+Progress: |█████████████████████-----------------------------| 43.6% Complete
+Progress: |█████████████████████-----------------------------| 43.6% Complete
+Progress: |█████████████████████-----------------------------| 43.7% Complete
+Progress: |█████████████████████-----------------------------| 43.8% Complete
+Progress: |█████████████████████-----------------------------| 43.8% Complete
+Progress: |█████████████████████-----------------------------| 43.9% Complete
+Progress: |█████████████████████-----------------------------| 43.9% Complete
+Progress: |█████████████████████-----------------------------| 44.0% Complete
+Progress: |██████████████████████----------------------------| 44.0% Complete
+Progress: |██████████████████████----------------------------| 44.1% Complete
+Progress: |██████████████████████----------------------------| 44.2% Complete
+Progress: |██████████████████████----------------------------| 44.2% Complete
+Progress: |██████████████████████----------------------------| 44.3% Complete
+Progress: |██████████████████████----------------------------| 44.3% Complete
+Progress: |██████████████████████----------------------------| 44.4% Complete
+Progress: |██████████████████████----------------------------| 44.5% Complete
+Progress: |██████████████████████----------------------------| 44.5% Complete
+Progress: |██████████████████████----------------------------| 44.6% Complete
+Progress: |██████████████████████----------------------------| 44.6% Complete
+Progress: |██████████████████████----------------------------| 44.7% Complete
+Progress: |██████████████████████----------------------------| 44.7% Complete
+Progress: |██████████████████████----------------------------| 44.8% Complete
+Progress: |██████████████████████----------------------------| 44.9% Complete
+Progress: |██████████████████████----------------------------| 44.9% Complete
+Progress: |██████████████████████----------------------------| 45.0% Complete
+Progress: |██████████████████████----------------------------| 45.0% Complete
+Progress: |██████████████████████----------------------------| 45.1% Complete
+Progress: |██████████████████████----------------------------| 45.2% Complete
+Progress: |██████████████████████----------------------------| 45.2% Complete
+Progress: |██████████████████████----------------------------| 45.3% Complete
+Progress: |██████████████████████----------------------------| 45.3% Complete
+Progress: |██████████████████████----------------------------| 45.4% Complete
+Progress: |██████████████████████----------------------------| 45.4% Complete
+Progress: |██████████████████████----------------------------| 45.5% Complete
+Progress: |██████████████████████----------------------------| 45.6% Complete
+Progress: |██████████████████████----------------------------| 45.6% Complete
+Progress: |██████████████████████----------------------------| 45.7% Complete
+Progress: |██████████████████████----------------------------| 45.7% Complete
+Progress: |██████████████████████----------------------------| 45.8% Complete
+Progress: |██████████████████████----------------------------| 45.9% Complete
+Progress: |██████████████████████----------------------------| 45.9% Complete
+Progress: |██████████████████████----------------------------| 46.0% Complete
+Progress: |███████████████████████---------------------------| 46.0% Complete
+Progress: |███████████████████████---------------------------| 46.1% Complete
+Progress: |███████████████████████---------------------------| 46.1% Complete
+Progress: |███████████████████████---------------------------| 46.2% Complete
+Progress: |███████████████████████---------------------------| 46.3% Complete
+Progress: |███████████████████████---------------------------| 46.3% Complete
+Progress: |███████████████████████---------------------------| 46.4% Complete
+Progress: |███████████████████████---------------------------| 46.4% Complete
+Progress: |███████████████████████---------------------------| 46.5% Complete
+Progress: |███████████████████████---------------------------| 46.6% Complete
+Progress: |███████████████████████---------------------------| 46.6% Complete
+Progress: |███████████████████████---------------------------| 46.7% Complete
+Progress: |███████████████████████---------------------------| 46.7% Complete
+Progress: |███████████████████████---------------------------| 46.8% Complete
+Progress: |███████████████████████---------------------------| 46.8% Complete
+Progress: |███████████████████████---------------------------| 46.9% Complete
+Progress: |███████████████████████---------------------------| 47.0% Complete
+Progress: |███████████████████████---------------------------| 47.0% Complete
+Progress: |███████████████████████---------------------------| 47.1% Complete
+Progress: |███████████████████████---------------------------| 47.1% Complete
+Progress: |███████████████████████---------------------------| 47.2% Complete
+Progress: |███████████████████████---------------------------| 47.3% Complete
+Progress: |███████████████████████---------------------------| 47.3% Complete
+Progress: |███████████████████████---------------------------| 47.4% Complete
+Progress: |███████████████████████---------------------------| 47.4% Complete
+Progress: |███████████████████████---------------------------| 47.5% Complete
+Progress: |███████████████████████---------------------------| 47.6% Complete
+Progress: |███████████████████████---------------------------| 47.6% Complete
+Progress: |███████████████████████---------------------------| 47.7% Complete
+Progress: |███████████████████████---------------------------| 47.7% Complete
+Progress: |███████████████████████---------------------------| 47.8% Complete
+Progress: |███████████████████████---------------------------| 47.8% Complete
+Progress: |███████████████████████---------------------------| 47.9% Complete
+Progress: |███████████████████████---------------------------| 48.0% Complete
+Progress: |████████████████████████--------------------------| 48.0% Complete
+Progress: |████████████████████████--------------------------| 48.1% Complete
+Progress: |████████████████████████--------------------------| 48.1% Complete
+Progress: |████████████████████████--------------------------| 48.2% Complete
+Progress: |████████████████████████--------------------------| 48.3% Complete
+Progress: |████████████████████████--------------------------| 48.3% Complete
+Progress: |████████████████████████--------------------------| 48.4% Complete
+Progress: |████████████████████████--------------------------| 48.4% Complete
+Progress: |████████████████████████--------------------------| 48.5% Complete
+Progress: |████████████████████████--------------------------| 48.5% Complete
+Progress: |████████████████████████--------------------------| 48.6% Complete
+Progress: |████████████████████████--------------------------| 48.7% Complete
+Progress: |████████████████████████--------------------------| 48.7% Complete
+Progress: |████████████████████████--------------------------| 48.8% Complete
+Progress: |████████████████████████--------------------------| 48.8% Complete
+Progress: |████████████████████████--------------------------| 48.9% Complete
+Progress: |████████████████████████--------------------------| 49.0% Complete
+Progress: |████████████████████████--------------------------| 49.0% Complete
+Progress: |████████████████████████--------------------------| 49.1% Complete
+Progress: |████████████████████████--------------------------| 49.1% Complete
+Progress: |████████████████████████--------------------------| 49.2% Complete
+Progress: |████████████████████████--------------------------| 49.2% Complete
+Progress: |████████████████████████--------------------------| 49.3% Complete
+Progress: |████████████████████████--------------------------| 49.4% Complete
+Progress: |████████████████████████--------------------------| 49.4% Complete
+Progress: |████████████████████████--------------------------| 49.5% Complete
+Progress: |████████████████████████--------------------------| 49.5% Complete
+Progress: |████████████████████████--------------------------| 49.6% Complete
+Progress: |████████████████████████--------------------------| 49.7% Complete
+Progress: |████████████████████████--------------------------| 49.7% Complete
+Progress: |████████████████████████--------------------------| 49.8% Complete
+Progress: |████████████████████████--------------------------| 49.8% Complete
+Progress: |████████████████████████--------------------------| 49.9% Complete
+Progress: |████████████████████████--------------------------| 49.9% Complete
+Progress: |█████████████████████████-------------------------| 50.0% Complete
+Progress: |█████████████████████████-------------------------| 50.1% Complete
+Progress: |█████████████████████████-------------------------| 50.1% Complete
+Progress: |█████████████████████████-------------------------| 50.2% Complete
+Progress: |█████████████████████████-------------------------| 50.2% Complete
+Progress: |█████████████████████████-------------------------| 50.3% Complete
+Progress: |█████████████████████████-------------------------| 50.4% Complete
+Progress: |█████████████████████████-------------------------| 50.4% Complete
+Progress: |█████████████████████████-------------------------| 50.5% Complete
+Progress: |█████████████████████████-------------------------| 50.5% Complete
+Progress: |█████████████████████████-------------------------| 50.6% Complete
+Progress: |█████████████████████████-------------------------| 50.6% Complete
+Progress: |█████████████████████████-------------------------| 50.7% Complete
+Progress: |█████████████████████████-------------------------| 50.8% Complete
+Progress: |█████████████████████████-------------------------| 50.8% Complete
+Progress: |█████████████████████████-------------------------| 50.9% Complete
+Progress: |█████████████████████████-------------------------| 50.9% Complete
+Progress: |█████████████████████████-------------------------| 51.0% Complete
+Progress: |█████████████████████████-------------------------| 51.1% Complete
+Progress: |█████████████████████████-------------------------| 51.1% Complete
+Progress: |█████████████████████████-------------------------| 51.2% Complete
+Progress: |█████████████████████████-------------------------| 51.2% Complete
+Progress: |█████████████████████████-------------------------| 51.3% Complete
+Progress: |█████████████████████████-------------------------| 51.3% Complete
+Progress: |█████████████████████████-------------------------| 51.4% Complete
+Progress: |█████████████████████████-------------------------| 51.5% Complete
+Progress: |█████████████████████████-------------------------| 51.5% Complete
+Progress: |█████████████████████████-------------------------| 51.6% Complete
+Progress: |█████████████████████████-------------------------| 51.6% Complete
+Progress: |█████████████████████████-------------------------| 51.7% Complete
+Progress: |█████████████████████████-------------------------| 51.8% Complete
+Progress: |█████████████████████████-------------------------| 51.8% Complete
+Progress: |█████████████████████████-------------------------| 51.9% Complete
+Progress: |█████████████████████████-------------------------| 51.9% Complete
+Progress: |█████████████████████████-------------------------| 52.0% Complete
+Progress: |██████████████████████████------------------------| 52.0% Complete
+Progress: |██████████████████████████------------------------| 52.1% Complete
+Progress: |██████████████████████████------------------------| 52.2% Complete
+Progress: |██████████████████████████------------------------| 52.2% Complete
+Progress: |██████████████████████████------------------------| 52.3% Complete
+Progress: |██████████████████████████------------------------| 52.3% Complete
+Progress: |██████████████████████████------------------------| 52.4% Complete
+Progress: |██████████████████████████------------------------| 52.5% Complete
+Progress: |██████████████████████████------------------------| 52.5% Complete
+Progress: |██████████████████████████------------------------| 52.6% Complete
+Progress: |██████████████████████████------------------------| 52.6% Complete
+Progress: |██████████████████████████------------------------| 52.7% Complete
+Progress: |██████████████████████████------------------------| 52.7% Complete
+Progress: |██████████████████████████------------------------| 52.8% Complete
+Progress: |██████████████████████████------------------------| 52.9% Complete
+Progress: |██████████████████████████------------------------| 52.9% Complete
+Progress: |██████████████████████████------------------------| 53.0% Complete
+Progress: |██████████████████████████------------------------| 53.0% Complete
+Progress: |██████████████████████████------------------------| 53.1% Complete
+Progress: |██████████████████████████------------------------| 53.2% Complete
+Progress: |██████████████████████████------------------------| 53.2% Complete
+Progress: |██████████████████████████------------------------| 53.3% Complete
+Progress: |██████████████████████████------------------------| 53.3% Complete
+Progress: |██████████████████████████------------------------| 53.4% Complete
+Progress: |██████████████████████████------------------------| 53.4% Complete
+Progress: |██████████████████████████------------------------| 53.5% Complete
+Progress: |██████████████████████████------------------------| 53.6% Complete
+Progress: |██████████████████████████------------------------| 53.6% Complete
+Progress: |██████████████████████████------------------------| 53.7% Complete
+Progress: |██████████████████████████------------------------| 53.7% Complete
+Progress: |██████████████████████████------------------------| 53.8% Complete
+Progress: |██████████████████████████------------------------| 53.9% Complete
+Progress: |██████████████████████████------------------------| 53.9% Complete
+Progress: |██████████████████████████------------------------| 54.0% Complete
+Progress: |███████████████████████████-----------------------| 54.0% Complete
+Progress: |███████████████████████████-----------------------| 54.1% Complete
+Progress: |███████████████████████████-----------------------| 54.1% Complete
+Progress: |███████████████████████████-----------------------| 54.2% Complete
+Progress: |███████████████████████████-----------------------| 54.3% Complete
+Progress: |███████████████████████████-----------------------| 54.3% Complete
+Progress: |███████████████████████████-----------------------| 54.4% Complete
+Progress: |███████████████████████████-----------------------| 54.4% Complete
+Progress: |███████████████████████████-----------------------| 54.5% Complete
+Progress: |███████████████████████████-----------------------| 54.6% Complete
+Progress: |███████████████████████████-----------------------| 54.6% Complete
+Progress: |███████████████████████████-----------------------| 54.7% Complete
+Progress: |███████████████████████████-----------------------| 54.7% Complete
+Progress: |███████████████████████████-----------------------| 54.8% Complete
+Progress: |███████████████████████████-----------------------| 54.8% Complete
+Progress: |███████████████████████████-----------------------| 54.9% Complete
+Progress: |███████████████████████████-----------------------| 55.0% Complete
+Progress: |███████████████████████████-----------------------| 55.0% Complete
+Progress: |███████████████████████████-----------------------| 55.1% Complete
+Progress: |███████████████████████████-----------------------| 55.1% Complete
+Progress: |███████████████████████████-----------------------| 55.2% Complete
+Progress: |███████████████████████████-----------------------| 55.3% Complete
+Progress: |███████████████████████████-----------------------| 55.3% Complete
+Progress: |███████████████████████████-----------------------| 55.4% Complete
+Progress: |███████████████████████████-----------------------| 55.4% Complete
+Progress: |███████████████████████████-----------------------| 55.5% Complete
+Progress: |███████████████████████████-----------------------| 55.5% Complete
+Progress: |███████████████████████████-----------------------| 55.6% Complete
+Progress: |███████████████████████████-----------------------| 55.7% Complete
+Progress: |███████████████████████████-----------------------| 55.7% Complete
+Progress: |███████████████████████████-----------------------| 55.8% Complete
+Progress: |███████████████████████████-----------------------| 55.8% Complete
+Progress: |███████████████████████████-----------------------| 55.9% Complete
+Progress: |███████████████████████████-----------------------| 56.0% Complete
+Progress: |████████████████████████████----------------------| 56.0% Complete
+Progress: |████████████████████████████----------------------| 56.1% Complete
+Progress: |████████████████████████████----------------------| 56.1% Complete
+Progress: |████████████████████████████----------------------| 56.2% Complete
+Progress: |████████████████████████████----------------------| 56.2% Complete
+Progress: |████████████████████████████----------------------| 56.3% Complete
+Progress: |████████████████████████████----------------------| 56.4% Complete
+Progress: |████████████████████████████----------------------| 56.4% Complete
+Progress: |████████████████████████████----------------------| 56.5% Complete
+Progress: |████████████████████████████----------------------| 56.5% Complete
+Progress: |████████████████████████████----------------------| 56.6% Complete
+Progress: |████████████████████████████----------------------| 56.7% Complete
+Progress: |████████████████████████████----------------------| 56.7% Complete
+Progress: |████████████████████████████----------------------| 56.8% Complete
+Progress: |████████████████████████████----------------------| 56.8% Complete
+Progress: |████████████████████████████----------------------| 56.9% Complete
+Progress: |████████████████████████████----------------------| 56.9% Complete
+Progress: |████████████████████████████----------------------| 57.0% Complete
+Progress: |████████████████████████████----------------------| 57.1% Complete
+Progress: |████████████████████████████----------------------| 57.1% Complete
+Progress: |████████████████████████████----------------------| 57.2% Complete
+Progress: |████████████████████████████----------------------| 57.2% Complete
+Progress: |████████████████████████████----------------------| 57.3% Complete
+Progress: |████████████████████████████----------------------| 57.4% Complete
+Progress: |████████████████████████████----------------------| 57.4% Complete
+Progress: |████████████████████████████----------------------| 57.5% Complete
+Progress: |████████████████████████████----------------------| 57.5% Complete
+Progress: |████████████████████████████----------------------| 57.6% Complete
+Progress: |████████████████████████████----------------------| 57.6% Complete
+Progress: |████████████████████████████----------------------| 57.7% Complete
+Progress: |████████████████████████████----------------------| 57.8% Complete
+Progress: |████████████████████████████----------------------| 57.8% Complete
+Progress: |████████████████████████████----------------------| 57.9% Complete
+Progress: |████████████████████████████----------------------| 57.9% Complete
+Progress: |████████████████████████████----------------------| 58.0% Complete
+Progress: |█████████████████████████████---------------------| 58.1% Complete
+Progress: |█████████████████████████████---------------------| 58.1% Complete
+Progress: |█████████████████████████████---------------------| 58.2% Complete
+Progress: |█████████████████████████████---------------------| 58.2% Complete
+Progress: |█████████████████████████████---------------------| 58.3% Complete
+Progress: |█████████████████████████████---------------------| 58.3% Complete
+Progress: |█████████████████████████████---------------------| 58.4% Complete
+Progress: |█████████████████████████████---------------------| 58.5% Complete
+Progress: |█████████████████████████████---------------------| 58.5% Complete
+Progress: |█████████████████████████████---------------------| 58.6% Complete
+Progress: |█████████████████████████████---------------------| 58.6% Complete
+Progress: |█████████████████████████████---------------------| 58.7% Complete
+Progress: |█████████████████████████████---------------------| 58.8% Complete
+Progress: |█████████████████████████████---------------------| 58.8% Complete
+Progress: |█████████████████████████████---------------------| 58.9% Complete
+Progress: |█████████████████████████████---------------------| 58.9% Complete
+Progress: |█████████████████████████████---------------------| 59.0% Complete
+Progress: |█████████████████████████████---------------------| 59.0% Complete
+Progress: |█████████████████████████████---------------------| 59.1% Complete
+Progress: |█████████████████████████████---------------------| 59.2% Complete
+Progress: |█████████████████████████████---------------------| 59.2% Complete
+Progress: |█████████████████████████████---------------------| 59.3% Complete
+Progress: |█████████████████████████████---------------------| 59.3% Complete
+Progress: |█████████████████████████████---------------------| 59.4% Complete
+Progress: |█████████████████████████████---------------------| 59.5% Complete
+Progress: |█████████████████████████████---------------------| 59.5% Complete
+Progress: |█████████████████████████████---------------------| 59.6% Complete
+Progress: |█████████████████████████████---------------------| 59.6% Complete
+Progress: |█████████████████████████████---------------------| 59.7% Complete
+Progress: |█████████████████████████████---------------------| 59.7% Complete
+Progress: |█████████████████████████████---------------------| 59.8% Complete
+Progress: |█████████████████████████████---------------------| 59.9% Complete
+Progress: |█████████████████████████████---------------------| 59.9% Complete
+Progress: |█████████████████████████████---------------------| 60.0% Complete
+Progress: |██████████████████████████████--------------------| 60.0% Complete
+Progress: |██████████████████████████████--------------------| 60.1% Complete
+Progress: |██████████████████████████████--------------------| 60.2% Complete
+Progress: |██████████████████████████████--------------------| 60.2% Complete
+Progress: |██████████████████████████████--------------------| 60.3% Complete
+Progress: |██████████████████████████████--------------------| 60.3% Complete
+Progress: |██████████████████████████████--------------------| 60.4% Complete
+Progress: |██████████████████████████████--------------------| 60.4% Complete
+Progress: |██████████████████████████████--------------------| 60.5% Complete
+Progress: |██████████████████████████████--------------------| 60.6% Complete
+Progress: |██████████████████████████████--------------------| 60.6% Complete
+Progress: |██████████████████████████████--------------------| 60.7% Complete
+Progress: |██████████████████████████████--------------------| 60.7% Complete
+Progress: |██████████████████████████████--------------------| 60.8% Complete
+Progress: |██████████████████████████████--------------------| 60.9% Complete
+Progress: |██████████████████████████████--------------------| 60.9% Complete
+Progress: |██████████████████████████████--------------------| 61.0% Complete
+Progress: |██████████████████████████████--------------------| 61.0% Complete
+Progress: |██████████████████████████████--------------------| 61.1% Complete
+Progress: |██████████████████████████████--------------------| 61.1% Complete
+Progress: |██████████████████████████████--------------------| 61.2% Complete
+Progress: |██████████████████████████████--------------------| 61.3% Complete
+Progress: |██████████████████████████████--------------------| 61.3% Complete
+Progress: |██████████████████████████████--------------------| 61.4% Complete
+Progress: |██████████████████████████████--------------------| 61.4% Complete
+Progress: |██████████████████████████████--------------------| 61.5% Complete
+Progress: |██████████████████████████████--------------------| 61.6% Complete
+Progress: |██████████████████████████████--------------------| 61.6% Complete
+Progress: |██████████████████████████████--------------------| 61.7% Complete
+Progress: |██████████████████████████████--------------------| 61.7% Complete
+Progress: |██████████████████████████████--------------------| 61.8% Complete
+Progress: |██████████████████████████████--------------------| 61.8% Complete
+Progress: |██████████████████████████████--------------------| 61.9% Complete
+Progress: |██████████████████████████████--------------------| 62.0% Complete
+Progress: |███████████████████████████████-------------------| 62.0% Complete
+Progress: |███████████████████████████████-------------------| 62.1% Complete
+Progress: |███████████████████████████████-------------------| 62.1% Complete
+Progress: |███████████████████████████████-------------------| 62.2% Complete
+Progress: |███████████████████████████████-------------------| 62.3% Complete
+Progress: |███████████████████████████████-------------------| 62.3% Complete
+Progress: |███████████████████████████████-------------------| 62.4% Complete
+Progress: |███████████████████████████████-------------------| 62.4% Complete
+Progress: |███████████████████████████████-------------------| 62.5% Complete
+Progress: |███████████████████████████████-------------------| 62.5% Complete
+Progress: |███████████████████████████████-------------------| 62.6% Complete
+Progress: |███████████████████████████████-------------------| 62.7% Complete
+Progress: |███████████████████████████████-------------------| 62.7% Complete
+Progress: |███████████████████████████████-------------------| 62.8% Complete
+Progress: |███████████████████████████████-------------------| 62.8% Complete
+Progress: |███████████████████████████████-------------------| 62.9% Complete
+Progress: |███████████████████████████████-------------------| 63.0% Complete
+Progress: |███████████████████████████████-------------------| 63.0% Complete
+Progress: |███████████████████████████████-------------------| 63.1% Complete
+Progress: |███████████████████████████████-------------------| 63.1% Complete
+Progress: |███████████████████████████████-------------------| 63.2% Complete
+Progress: |███████████████████████████████-------------------| 63.2% Complete
+Progress: |███████████████████████████████-------------------| 63.3% Complete
+Progress: |███████████████████████████████-------------------| 63.4% Complete
+Progress: |███████████████████████████████-------------------| 63.4% Complete
+Progress: |███████████████████████████████-------------------| 63.5% Complete
+Progress: |███████████████████████████████-------------------| 63.5% Complete
+Progress: |███████████████████████████████-------------------| 63.6% Complete
+Progress: |███████████████████████████████-------------------| 63.7% Complete
+Progress: |███████████████████████████████-------------------| 63.7% Complete
+Progress: |███████████████████████████████-------------------| 63.8% Complete
+Progress: |███████████████████████████████-------------------| 63.8% Complete
+Progress: |███████████████████████████████-------------------| 63.9% Complete
+Progress: |███████████████████████████████-------------------| 63.9% Complete
+Progress: |████████████████████████████████------------------| 64.0% Complete
+Progress: |████████████████████████████████------------------| 64.1% Complete
+Progress: |████████████████████████████████------------------| 64.1% Complete
+Progress: |████████████████████████████████------------------| 64.2% Complete
+Progress: |████████████████████████████████------------------| 64.2% Complete
+Progress: |████████████████████████████████------------------| 64.3% Complete
+Progress: |████████████████████████████████------------------| 64.4% Complete
+Progress: |████████████████████████████████------------------| 64.4% Complete
+Progress: |████████████████████████████████------------------| 64.5% Complete
+Progress: |████████████████████████████████------------------| 64.5% Complete
+Progress: |████████████████████████████████------------------| 64.6% Complete
+Progress: |████████████████████████████████------------------| 64.6% Complete
+Progress: |████████████████████████████████------------------| 64.7% Complete
+Progress: |████████████████████████████████------------------| 64.8% Complete
+Progress: |████████████████████████████████------------------| 64.8% Complete
+Progress: |████████████████████████████████------------------| 64.9% Complete
+Progress: |████████████████████████████████------------------| 64.9% Complete
+Progress: |████████████████████████████████------------------| 65.0% Complete
+Progress: |████████████████████████████████------------------| 65.1% Complete
+Progress: |████████████████████████████████------------------| 65.1% Complete
+Progress: |████████████████████████████████------------------| 65.2% Complete
+Progress: |████████████████████████████████------------------| 65.2% Complete
+Progress: |████████████████████████████████------------------| 65.3% Complete
+Progress: |████████████████████████████████------------------| 65.3% Complete
+Progress: |████████████████████████████████------------------| 65.4% Complete
+Progress: |████████████████████████████████------------------| 65.5% Complete
+Progress: |████████████████████████████████------------------| 65.5% Complete
+Progress: |████████████████████████████████------------------| 65.6% Complete
+Progress: |████████████████████████████████------------------| 65.6% Complete
+Progress: |████████████████████████████████------------------| 65.7% Complete
+Progress: |████████████████████████████████------------------| 65.8% Complete
+Progress: |████████████████████████████████------------------| 65.8% Complete
+Progress: |████████████████████████████████------------------| 65.9% Complete
+Progress: |████████████████████████████████------------------| 65.9% Complete
+Progress: |████████████████████████████████------------------| 66.0% Complete
+Progress: |█████████████████████████████████-----------------| 66.0% Complete
+Progress: |█████████████████████████████████-----------------| 66.1% Complete
+Progress: |█████████████████████████████████-----------------| 66.2% Complete
+Progress: |█████████████████████████████████-----------------| 66.2% Complete
+Progress: |█████████████████████████████████-----------------| 66.3% Complete
+Progress: |█████████████████████████████████-----------------| 66.3% Complete
+Progress: |█████████████████████████████████-----------------| 66.4% Complete
+Progress: |█████████████████████████████████-----------------| 66.5% Complete
+Progress: |█████████████████████████████████-----------------| 66.5% Complete
+Progress: |█████████████████████████████████-----------------| 66.6% Complete
+Progress: |█████████████████████████████████-----------------| 66.6% Complete
+Progress: |█████████████████████████████████-----------------| 66.7% Complete
+Progress: |█████████████████████████████████-----------------| 66.7% Complete
+Progress: |█████████████████████████████████-----------------| 66.8% Complete
+Progress: |█████████████████████████████████-----------------| 66.9% Complete
+Progress: |█████████████████████████████████-----------------| 66.9% Complete
+Progress: |█████████████████████████████████-----------------| 67.0% Complete
+Progress: |█████████████████████████████████-----------------| 67.0% Complete
+Progress: |█████████████████████████████████-----------------| 67.1% Complete
+Progress: |█████████████████████████████████-----------------| 67.2% Complete
+Progress: |█████████████████████████████████-----------------| 67.2% Complete
+Progress: |█████████████████████████████████-----------------| 67.3% Complete
+Progress: |█████████████████████████████████-----------------| 67.3% Complete
+Progress: |█████████████████████████████████-----------------| 67.4% Complete
+Progress: |█████████████████████████████████-----------------| 67.4% Complete
+Progress: |█████████████████████████████████-----------------| 67.5% Complete
+Progress: |█████████████████████████████████-----------------| 67.6% Complete
+Progress: |█████████████████████████████████-----------------| 67.6% Complete
+Progress: |█████████████████████████████████-----------------| 67.7% Complete
+Progress: |█████████████████████████████████-----------------| 67.7% Complete
+Progress: |█████████████████████████████████-----------------| 67.8% Complete
+Progress: |█████████████████████████████████-----------------| 67.9% Complete
+Progress: |█████████████████████████████████-----------------| 67.9% Complete
+Progress: |█████████████████████████████████-----------------| 68.0% Complete
+Progress: |██████████████████████████████████----------------| 68.0% Complete
+Progress: |██████████████████████████████████----------------| 68.1% Complete
+Progress: |██████████████████████████████████----------------| 68.1% Complete
+Progress: |██████████████████████████████████----------------| 68.2% Complete
+Progress: |██████████████████████████████████----------------| 68.3% Complete
+Progress: |██████████████████████████████████----------------| 68.3% Complete
+Progress: |██████████████████████████████████----------------| 68.4% Complete
+Progress: |██████████████████████████████████----------------| 68.4% Complete
+Progress: |██████████████████████████████████----------------| 68.5% Complete
+Progress: |██████████████████████████████████----------------| 68.6% Complete
+Progress: |██████████████████████████████████----------------| 68.6% Complete
+Progress: |██████████████████████████████████----------------| 68.7% Complete
+Progress: |██████████████████████████████████----------------| 68.7% Complete
+Progress: |██████████████████████████████████----------------| 68.8% Complete
+Progress: |██████████████████████████████████----------------| 68.8% Complete
+Progress: |██████████████████████████████████----------------| 68.9% Complete
+Progress: |██████████████████████████████████----------------| 69.0% Complete
+Progress: |██████████████████████████████████----------------| 69.0% Complete
+Progress: |██████████████████████████████████----------------| 69.1% Complete
+Progress: |██████████████████████████████████----------------| 69.1% Complete
+Progress: |██████████████████████████████████----------------| 69.2% Complete
+Progress: |██████████████████████████████████----------------| 69.3% Complete
+Progress: |██████████████████████████████████----------------| 69.3% Complete
+Progress: |██████████████████████████████████----------------| 69.4% Complete
+Progress: |██████████████████████████████████----------------| 69.4% Complete
+Progress: |██████████████████████████████████----------------| 69.5% Complete
+Progress: |██████████████████████████████████----------------| 69.5% Complete
+Progress: |██████████████████████████████████----------------| 69.6% Complete
+Progress: |██████████████████████████████████----------------| 69.7% Complete
+Progress: |██████████████████████████████████----------------| 69.7% Complete
+Progress: |██████████████████████████████████----------------| 69.8% Complete
+Progress: |██████████████████████████████████----------------| 69.8% Complete
+Progress: |██████████████████████████████████----------------| 69.9% Complete
+Progress: |██████████████████████████████████----------------| 70.0% Complete
+Progress: |███████████████████████████████████---------------| 70.0% Complete
+Progress: |███████████████████████████████████---------------| 70.1% Complete
+Progress: |███████████████████████████████████---------------| 70.1% Complete
+Progress: |███████████████████████████████████---------------| 70.2% Complete
+Progress: |███████████████████████████████████---------------| 70.2% Complete
+Progress: |███████████████████████████████████---------------| 70.3% Complete
+Progress: |███████████████████████████████████---------------| 70.4% Complete
+Progress: |███████████████████████████████████---------------| 70.4% Complete
+Progress: |███████████████████████████████████---------------| 70.5% Complete
+Progress: |███████████████████████████████████---------------| 70.5% Complete
+Progress: |███████████████████████████████████---------------| 70.6% Complete
+Progress: |███████████████████████████████████---------------| 70.7% Complete
+Progress: |███████████████████████████████████---------------| 70.7% Complete
+Progress: |███████████████████████████████████---------------| 70.8% Complete
+Progress: |███████████████████████████████████---------------| 70.8% Complete
+Progress: |███████████████████████████████████---------------| 70.9% Complete
+Progress: |███████████████████████████████████---------------| 70.9% Complete
+Progress: |███████████████████████████████████---------------| 71.0% Complete
+Progress: |███████████████████████████████████---------------| 71.1% Complete
+Progress: |███████████████████████████████████---------------| 71.1% Complete
+Progress: |███████████████████████████████████---------------| 71.2% Complete
+Progress: |███████████████████████████████████---------------| 71.2% Complete
+Progress: |███████████████████████████████████---------------| 71.3% Complete
+Progress: |███████████████████████████████████---------------| 71.4% Complete
+Progress: |███████████████████████████████████---------------| 71.4% Complete
+Progress: |███████████████████████████████████---------------| 71.5% Complete
+Progress: |███████████████████████████████████---------------| 71.5% Complete
+Progress: |███████████████████████████████████---------------| 71.6% Complete
+Progress: |███████████████████████████████████---------------| 71.6% Complete
+Progress: |███████████████████████████████████---------------| 71.7% Complete
+Progress: |███████████████████████████████████---------------| 71.8% Complete
+Progress: |███████████████████████████████████---------------| 71.8% Complete
+Progress: |███████████████████████████████████---------------| 71.9% Complete
+Progress: |███████████████████████████████████---------------| 71.9% Complete
+Progress: |███████████████████████████████████---------------| 72.0% Complete
+Progress: |████████████████████████████████████--------------| 72.1% Complete
+Progress: |████████████████████████████████████--------------| 72.1% Complete
+Progress: |████████████████████████████████████--------------| 72.2% Complete
+Progress: |████████████████████████████████████--------------| 72.2% Complete
+Progress: |████████████████████████████████████--------------| 72.3% Complete
+Progress: |████████████████████████████████████--------------| 72.3% Complete
+Progress: |████████████████████████████████████--------------| 72.4% Complete
+Progress: |████████████████████████████████████--------------| 72.5% Complete
+Progress: |████████████████████████████████████--------------| 72.5% Complete
+Progress: |████████████████████████████████████--------------| 72.6% Complete
+Progress: |████████████████████████████████████--------------| 72.6% Complete
+Progress: |████████████████████████████████████--------------| 72.7% Complete
+Progress: |████████████████████████████████████--------------| 72.8% Complete
+Progress: |████████████████████████████████████--------------| 72.8% Complete
+Progress: |████████████████████████████████████--------------| 72.9% Complete
+Progress: |████████████████████████████████████--------------| 72.9% Complete
+Progress: |████████████████████████████████████--------------| 73.0% Complete
+Progress: |████████████████████████████████████--------------| 73.0% Complete
+Progress: |████████████████████████████████████--------------| 73.1% Complete
+Progress: |████████████████████████████████████--------------| 73.2% Complete
+Progress: |████████████████████████████████████--------------| 73.2% Complete
+Progress: |████████████████████████████████████--------------| 73.3% Complete
+Progress: |████████████████████████████████████--------------| 73.3% Complete
+Progress: |████████████████████████████████████--------------| 73.4% Complete
+Progress: |████████████████████████████████████--------------| 73.5% Complete
+Progress: |████████████████████████████████████--------------| 73.5% Complete
+Progress: |████████████████████████████████████--------------| 73.6% Complete
+Progress: |████████████████████████████████████--------------| 73.6% Complete
+Progress: |████████████████████████████████████--------------| 73.7% Complete
+Progress: |████████████████████████████████████--------------| 73.7% Complete
+Progress: |████████████████████████████████████--------------| 73.8% Complete
+Progress: |████████████████████████████████████--------------| 73.9% Complete
+Progress: |████████████████████████████████████--------------| 73.9% Complete
+Progress: |████████████████████████████████████--------------| 74.0% Complete
+Progress: |█████████████████████████████████████-------------| 74.0% Complete
+Progress: |█████████████████████████████████████-------------| 74.1% Complete
+Progress: |█████████████████████████████████████-------------| 74.2% Complete
+Progress: |█████████████████████████████████████-------------| 74.2% Complete
+Progress: |█████████████████████████████████████-------------| 74.3% Complete
+Progress: |█████████████████████████████████████-------------| 74.3% Complete
+Progress: |█████████████████████████████████████-------------| 74.4% Complete
+Progress: |█████████████████████████████████████-------------| 74.4% Complete
+Progress: |█████████████████████████████████████-------------| 74.5% Complete
+Progress: |█████████████████████████████████████-------------| 74.6% Complete
+Progress: |█████████████████████████████████████-------------| 74.6% Complete
+Progress: |█████████████████████████████████████-------------| 74.7% Complete
+Progress: |█████████████████████████████████████-------------| 74.7% Complete
+Progress: |█████████████████████████████████████-------------| 74.8% Complete
+Progress: |█████████████████████████████████████-------------| 74.9% Complete
+Progress: |█████████████████████████████████████-------------| 74.9% Complete
+Progress: |█████████████████████████████████████-------------| 75.0% Complete
+Progress: |█████████████████████████████████████-------------| 75.0% Complete
+Progress: |█████████████████████████████████████-------------| 75.1% Complete
+Progress: |█████████████████████████████████████-------------| 75.1% Complete
+Progress: |█████████████████████████████████████-------------| 75.2% Complete
+Progress: |█████████████████████████████████████-------------| 75.3% Complete
+Progress: |█████████████████████████████████████-------------| 75.3% Complete
+Progress: |█████████████████████████████████████-------------| 75.4% Complete
+Progress: |█████████████████████████████████████-------------| 75.4% Complete
+Progress: |█████████████████████████████████████-------------| 75.5% Complete
+Progress: |█████████████████████████████████████-------------| 75.6% Complete
+Progress: |█████████████████████████████████████-------------| 75.6% Complete
+Progress: |█████████████████████████████████████-------------| 75.7% Complete
+Progress: |█████████████████████████████████████-------------| 75.7% Complete
+Progress: |█████████████████████████████████████-------------| 75.8% Complete
+Progress: |█████████████████████████████████████-------------| 75.8% Complete
+Progress: |█████████████████████████████████████-------------| 75.9% Complete
+Progress: |█████████████████████████████████████-------------| 76.0% Complete
+Progress: |██████████████████████████████████████------------| 76.0% Complete
+Progress: |██████████████████████████████████████------------| 76.1% Complete
+Progress: |██████████████████████████████████████------------| 76.1% Complete
+Progress: |██████████████████████████████████████------------| 76.2% Complete
+Progress: |██████████████████████████████████████------------| 76.3% Complete
+Progress: |██████████████████████████████████████------------| 76.3% Complete
+Progress: |██████████████████████████████████████------------| 76.4% Complete
+Progress: |██████████████████████████████████████------------| 76.4% Complete
+Progress: |██████████████████████████████████████------------| 76.5% Complete
+Progress: |██████████████████████████████████████------------| 76.5% Complete
+Progress: |██████████████████████████████████████------------| 76.6% Complete
+Progress: |██████████████████████████████████████------------| 76.7% Complete
+Progress: |██████████████████████████████████████------------| 76.7% Complete
+Progress: |██████████████████████████████████████------------| 76.8% Complete
+Progress: |██████████████████████████████████████------------| 76.8% Complete
+Progress: |██████████████████████████████████████------------| 76.9% Complete
+Progress: |██████████████████████████████████████------------| 77.0% Complete
+Progress: |██████████████████████████████████████------------| 77.0% Complete
+Progress: |██████████████████████████████████████------------| 77.1% Complete
+Progress: |██████████████████████████████████████------------| 77.1% Complete
+Progress: |██████████████████████████████████████------------| 77.2% Complete
+Progress: |██████████████████████████████████████------------| 77.2% Complete
+Progress: |██████████████████████████████████████------------| 77.3% Complete
+Progress: |██████████████████████████████████████------------| 77.4% Complete
+Progress: |██████████████████████████████████████------------| 77.4% Complete
+Progress: |██████████████████████████████████████------------| 77.5% Complete
+Progress: |██████████████████████████████████████------------| 77.5% Complete
+Progress: |██████████████████████████████████████------------| 77.6% Complete
+Progress: |██████████████████████████████████████------------| 77.7% Complete
+Progress: |██████████████████████████████████████------------| 77.7% Complete
+Progress: |██████████████████████████████████████------------| 77.8% Complete
+Progress: |██████████████████████████████████████------------| 77.8% Complete
+Progress: |██████████████████████████████████████------------| 77.9% Complete
+Progress: |██████████████████████████████████████------------| 77.9% Complete
+Progress: |███████████████████████████████████████-----------| 78.0% Complete
+Progress: |███████████████████████████████████████-----------| 78.1% Complete
+Progress: |███████████████████████████████████████-----------| 78.1% Complete
+Progress: |███████████████████████████████████████-----------| 78.2% Complete
+Progress: |███████████████████████████████████████-----------| 78.2% Complete
+Progress: |███████████████████████████████████████-----------| 78.3% Complete
+Progress: |███████████████████████████████████████-----------| 78.4% Complete
+Progress: |███████████████████████████████████████-----------| 78.4% Complete
+Progress: |███████████████████████████████████████-----------| 78.5% Complete
+Progress: |███████████████████████████████████████-----------| 78.5% Complete
+Progress: |███████████████████████████████████████-----------| 78.6% Complete
+Progress: |███████████████████████████████████████-----------| 78.6% Complete
+Progress: |███████████████████████████████████████-----------| 78.7% Complete
+Progress: |███████████████████████████████████████-----------| 78.8% Complete
+Progress: |███████████████████████████████████████-----------| 78.8% Complete
+Progress: |███████████████████████████████████████-----------| 78.9% Complete
+Progress: |███████████████████████████████████████-----------| 78.9% Complete
+Progress: |███████████████████████████████████████-----------| 79.0% Complete
+Progress: |███████████████████████████████████████-----------| 79.1% Complete
+Progress: |███████████████████████████████████████-----------| 79.1% Complete
+Progress: |███████████████████████████████████████-----------| 79.2% Complete
+Progress: |███████████████████████████████████████-----------| 79.2% Complete
+Progress: |███████████████████████████████████████-----------| 79.3% Complete
+Progress: |███████████████████████████████████████-----------| 79.3% Complete
+Progress: |███████████████████████████████████████-----------| 79.4% Complete
+Progress: |███████████████████████████████████████-----------| 79.5% Complete
+Progress: |███████████████████████████████████████-----------| 79.5% Complete
+Progress: |███████████████████████████████████████-----------| 79.6% Complete
+Progress: |███████████████████████████████████████-----------| 79.6% Complete
+Progress: |███████████████████████████████████████-----------| 79.7% Complete
+Progress: |███████████████████████████████████████-----------| 79.8% Complete
+Progress: |███████████████████████████████████████-----------| 79.8% Complete
+Progress: |███████████████████████████████████████-----------| 79.9% Complete
+Progress: |███████████████████████████████████████-----------| 79.9% Complete
+Progress: |███████████████████████████████████████-----------| 80.0% Complete
+Progress: |████████████████████████████████████████----------| 80.0% Complete
+Progress: |████████████████████████████████████████----------| 80.1% Complete
+Progress: |████████████████████████████████████████----------| 80.2% Complete
+Progress: |████████████████████████████████████████----------| 80.2% Complete
+Progress: |████████████████████████████████████████----------| 80.3% Complete
+Progress: |████████████████████████████████████████----------| 80.3% Complete
+Progress: |████████████████████████████████████████----------| 80.4% Complete
+Progress: |████████████████████████████████████████----------| 80.5% Complete
+Progress: |████████████████████████████████████████----------| 80.5% Complete
+Progress: |████████████████████████████████████████----------| 80.6% Complete
+Progress: |████████████████████████████████████████----------| 80.6% Complete
+Progress: |████████████████████████████████████████----------| 80.7% Complete
+Progress: |████████████████████████████████████████----------| 80.7% Complete
+Progress: |████████████████████████████████████████----------| 80.8% Complete
+Progress: |████████████████████████████████████████----------| 80.9% Complete
+Progress: |████████████████████████████████████████----------| 80.9% Complete
+Progress: |████████████████████████████████████████----------| 81.0% Complete
+Progress: |████████████████████████████████████████----------| 81.0% Complete
+Progress: |████████████████████████████████████████----------| 81.1% Complete
+Progress: |████████████████████████████████████████----------| 81.2% Complete
+Progress: |████████████████████████████████████████----------| 81.2% Complete
+Progress: |████████████████████████████████████████----------| 81.3% Complete
+Progress: |████████████████████████████████████████----------| 81.3% Complete
+Progress: |████████████████████████████████████████----------| 81.4% Complete
+Progress: |████████████████████████████████████████----------| 81.4% Complete
+Progress: |████████████████████████████████████████----------| 81.5% Complete
+Progress: |████████████████████████████████████████----------| 81.6% Complete
+Progress: |████████████████████████████████████████----------| 81.6% Complete
+Progress: |████████████████████████████████████████----------| 81.7% Complete
+Progress: |████████████████████████████████████████----------| 81.7% Complete
+Progress: |████████████████████████████████████████----------| 81.8% Complete
+Progress: |████████████████████████████████████████----------| 81.9% Complete
+Progress: |████████████████████████████████████████----------| 81.9% Complete
+Progress: |████████████████████████████████████████----------| 82.0% Complete
+Progress: |█████████████████████████████████████████---------| 82.0% Complete
+Progress: |█████████████████████████████████████████---------| 82.1% Complete
+Progress: |█████████████████████████████████████████---------| 82.1% Complete
+Progress: |█████████████████████████████████████████---------| 82.2% Complete
+Progress: |█████████████████████████████████████████---------| 82.3% Complete
+Progress: |█████████████████████████████████████████---------| 82.3% Complete
+Progress: |█████████████████████████████████████████---------| 82.4% Complete
+Progress: |█████████████████████████████████████████---------| 82.4% Complete
+Progress: |█████████████████████████████████████████---------| 82.5% Complete
+Progress: |█████████████████████████████████████████---------| 82.6% Complete
+Progress: |█████████████████████████████████████████---------| 82.6% Complete
+Progress: |█████████████████████████████████████████---------| 82.7% Complete
+Progress: |█████████████████████████████████████████---------| 82.7% Complete
+Progress: |█████████████████████████████████████████---------| 82.8% Complete
+Progress: |█████████████████████████████████████████---------| 82.8% Complete
+Progress: |█████████████████████████████████████████---------| 82.9% Complete
+Progress: |█████████████████████████████████████████---------| 83.0% Complete
+Progress: |█████████████████████████████████████████---------| 83.0% Complete
+Progress: |█████████████████████████████████████████---------| 83.1% Complete
+Progress: |█████████████████████████████████████████---------| 83.1% Complete
+Progress: |█████████████████████████████████████████---------| 83.2% Complete
+Progress: |█████████████████████████████████████████---------| 83.3% Complete
+Progress: |█████████████████████████████████████████---------| 83.3% Complete
+Progress: |█████████████████████████████████████████---------| 83.4% Complete
+Progress: |█████████████████████████████████████████---------| 83.4% Complete
+Progress: |█████████████████████████████████████████---------| 83.5% Complete
+Progress: |█████████████████████████████████████████---------| 83.5% Complete
+Progress: |█████████████████████████████████████████---------| 83.6% Complete
+Progress: |█████████████████████████████████████████---------| 83.7% Complete
+Progress: |█████████████████████████████████████████---------| 83.7% Complete
+Progress: |█████████████████████████████████████████---------| 83.8% Complete
+Progress: |█████████████████████████████████████████---------| 83.8% Complete
+Progress: |█████████████████████████████████████████---------| 83.9% Complete
+Progress: |█████████████████████████████████████████---------| 84.0% Complete
+Progress: |██████████████████████████████████████████--------| 84.0% Complete
+Progress: |██████████████████████████████████████████--------| 84.1% Complete
+Progress: |██████████████████████████████████████████--------| 84.1% Complete
+Progress: |██████████████████████████████████████████--------| 84.2% Complete
+Progress: |██████████████████████████████████████████--------| 84.2% Complete
+Progress: |██████████████████████████████████████████--------| 84.3% Complete
+Progress: |██████████████████████████████████████████--------| 84.4% Complete
+Progress: |██████████████████████████████████████████--------| 84.4% Complete
+Progress: |██████████████████████████████████████████--------| 84.5% Complete
+Progress: |██████████████████████████████████████████--------| 84.5% Complete
+Progress: |██████████████████████████████████████████--------| 84.6% Complete
+Progress: |██████████████████████████████████████████--------| 84.7% Complete
+Progress: |██████████████████████████████████████████--------| 84.7% Complete
+Progress: |██████████████████████████████████████████--------| 84.8% Complete
+Progress: |██████████████████████████████████████████--------| 84.8% Complete
+Progress: |██████████████████████████████████████████--------| 84.9% Complete
+Progress: |██████████████████████████████████████████--------| 84.9% Complete
+Progress: |██████████████████████████████████████████--------| 85.0% Complete
+Progress: |██████████████████████████████████████████--------| 85.1% Complete
+Progress: |██████████████████████████████████████████--------| 85.1% Complete
+Progress: |██████████████████████████████████████████--------| 85.2% Complete
+Progress: |██████████████████████████████████████████--------| 85.2% Complete
+Progress: |██████████████████████████████████████████--------| 85.3% Complete
+Progress: |██████████████████████████████████████████--------| 85.4% Complete
+Progress: |██████████████████████████████████████████--------| 85.4% Complete
+Progress: |██████████████████████████████████████████--------| 85.5% Complete
+Progress: |██████████████████████████████████████████--------| 85.5% Complete
+Progress: |██████████████████████████████████████████--------| 85.6% Complete
+Progress: |██████████████████████████████████████████--------| 85.6% Complete
+Progress: |██████████████████████████████████████████--------| 85.7% Complete
+Progress: |██████████████████████████████████████████--------| 85.8% Complete
+Progress: |██████████████████████████████████████████--------| 85.8% Complete
+Progress: |██████████████████████████████████████████--------| 85.9% Complete
+Progress: |██████████████████████████████████████████--------| 85.9% Complete
+Progress: |██████████████████████████████████████████--------| 86.0% Complete
+Progress: |███████████████████████████████████████████-------| 86.1% Complete
+Progress: |███████████████████████████████████████████-------| 86.1% Complete
+Progress: |███████████████████████████████████████████-------| 86.2% Complete
+Progress: |███████████████████████████████████████████-------| 86.2% Complete
+Progress: |███████████████████████████████████████████-------| 86.3% Complete
+Progress: |███████████████████████████████████████████-------| 86.3% Complete
+Progress: |███████████████████████████████████████████-------| 86.4% Complete
+Progress: |███████████████████████████████████████████-------| 86.5% Complete
+Progress: |███████████████████████████████████████████-------| 86.5% Complete
+Progress: |███████████████████████████████████████████-------| 86.6% Complete
+Progress: |███████████████████████████████████████████-------| 86.6% Complete
+Progress: |███████████████████████████████████████████-------| 86.7% Complete
+Progress: |███████████████████████████████████████████-------| 86.8% Complete
+Progress: |███████████████████████████████████████████-------| 86.8% Complete
+Progress: |███████████████████████████████████████████-------| 86.9% Complete
+Progress: |███████████████████████████████████████████-------| 86.9% Complete
+Progress: |███████████████████████████████████████████-------| 87.0% Complete
+Progress: |███████████████████████████████████████████-------| 87.0% Complete
+Progress: |███████████████████████████████████████████-------| 87.1% Complete
+Progress: |███████████████████████████████████████████-------| 87.2% Complete
+Progress: |███████████████████████████████████████████-------| 87.2% Complete
+Progress: |███████████████████████████████████████████-------| 87.3% Complete
+Progress: |███████████████████████████████████████████-------| 87.3% Complete
+Progress: |███████████████████████████████████████████-------| 87.4% Complete
+Progress: |███████████████████████████████████████████-------| 87.5% Complete
+Progress: |███████████████████████████████████████████-------| 87.5% Complete
+Progress: |███████████████████████████████████████████-------| 87.6% Complete
+Progress: |███████████████████████████████████████████-------| 87.6% Complete
+Progress: |███████████████████████████████████████████-------| 87.7% Complete
+Progress: |███████████████████████████████████████████-------| 87.7% Complete
+Progress: |███████████████████████████████████████████-------| 87.8% Complete
+Progress: |███████████████████████████████████████████-------| 87.9% Complete
+Progress: |███████████████████████████████████████████-------| 87.9% Complete
+Progress: |███████████████████████████████████████████-------| 88.0% Complete
+Progress: |████████████████████████████████████████████------| 88.0% Complete
+Progress: |████████████████████████████████████████████------| 88.1% Complete
+Progress: |████████████████████████████████████████████------| 88.2% Complete
+Progress: |████████████████████████████████████████████------| 88.2% Complete
+Progress: |████████████████████████████████████████████------| 88.3% Complete
+Progress: |████████████████████████████████████████████------| 88.3% Complete
+Progress: |████████████████████████████████████████████------| 88.4% Complete
+Progress: |████████████████████████████████████████████------| 88.4% Complete
+Progress: |████████████████████████████████████████████------| 88.5% Complete
+Progress: |████████████████████████████████████████████------| 88.6% Complete
+Progress: |████████████████████████████████████████████------| 88.6% Complete
+Progress: |████████████████████████████████████████████------| 88.7% Complete
+Progress: |████████████████████████████████████████████------| 88.7% Complete
+Progress: |████████████████████████████████████████████------| 88.8% Complete
+Progress: |████████████████████████████████████████████------| 88.9% Complete
+Progress: |████████████████████████████████████████████------| 88.9% Complete
+Progress: |████████████████████████████████████████████------| 89.0% Complete
+Progress: |████████████████████████████████████████████------| 89.0% Complete
+Progress: |████████████████████████████████████████████------| 89.1% Complete
+Progress: |████████████████████████████████████████████------| 89.1% Complete
+Progress: |████████████████████████████████████████████------| 89.2% Complete
+Progress: |████████████████████████████████████████████------| 89.3% Complete
+Progress: |████████████████████████████████████████████------| 89.3% Complete
+Progress: |████████████████████████████████████████████------| 89.4% Complete
+Progress: |████████████████████████████████████████████------| 89.4% Complete
+Progress: |████████████████████████████████████████████------| 89.5% Complete
+Progress: |████████████████████████████████████████████------| 89.6% Complete
+Progress: |████████████████████████████████████████████------| 89.6% Complete
+Progress: |████████████████████████████████████████████------| 89.7% Complete
+Progress: |████████████████████████████████████████████------| 89.7% Complete
+Progress: |████████████████████████████████████████████------| 89.8% Complete
+Progress: |████████████████████████████████████████████------| 89.8% Complete
+Progress: |████████████████████████████████████████████------| 89.9% Complete
+Progress: |████████████████████████████████████████████------| 90.0% Complete
+Progress: |█████████████████████████████████████████████-----| 90.0% Complete
+Progress: |█████████████████████████████████████████████-----| 90.1% Complete
+Progress: |█████████████████████████████████████████████-----| 90.1% Complete
+Progress: |█████████████████████████████████████████████-----| 90.2% Complete
+Progress: |█████████████████████████████████████████████-----| 90.3% Complete
+Progress: |█████████████████████████████████████████████-----| 90.3% Complete
+Progress: |█████████████████████████████████████████████-----| 90.4% Complete
+Progress: |█████████████████████████████████████████████-----| 90.4% Complete
+Progress: |█████████████████████████████████████████████-----| 90.5% Complete
+Progress: |█████████████████████████████████████████████-----| 90.5% Complete
+Progress: |█████████████████████████████████████████████-----| 90.6% Complete
+Progress: |█████████████████████████████████████████████-----| 90.7% Complete
+Progress: |█████████████████████████████████████████████-----| 90.7% Complete
+Progress: |█████████████████████████████████████████████-----| 90.8% Complete
+Progress: |█████████████████████████████████████████████-----| 90.8% Complete
+Progress: |█████████████████████████████████████████████-----| 90.9% Complete
+Progress: |█████████████████████████████████████████████-----| 91.0% Complete
+Progress: |█████████████████████████████████████████████-----| 91.0% Complete
+Progress: |█████████████████████████████████████████████-----| 91.1% Complete
+Progress: |█████████████████████████████████████████████-----| 91.1% Complete
+Progress: |█████████████████████████████████████████████-----| 91.2% Complete
+Progress: |█████████████████████████████████████████████-----| 91.2% Complete
+Progress: |█████████████████████████████████████████████-----| 91.3% Complete
+Progress: |█████████████████████████████████████████████-----| 91.4% Complete
+Progress: |█████████████████████████████████████████████-----| 91.4% Complete
+Progress: |█████████████████████████████████████████████-----| 91.5% Complete
+Progress: |█████████████████████████████████████████████-----| 91.5% Complete
+Progress: |█████████████████████████████████████████████-----| 91.6% Complete
+Progress: |█████████████████████████████████████████████-----| 91.7% Complete
+Progress: |█████████████████████████████████████████████-----| 91.7% Complete
+Progress: |█████████████████████████████████████████████-----| 91.8% Complete
+Progress: |█████████████████████████████████████████████-----| 91.8% Complete
+Progress: |█████████████████████████████████████████████-----| 91.9% Complete
+Progress: |█████████████████████████████████████████████-----| 91.9% Complete
+Progress: |██████████████████████████████████████████████----| 92.0% Complete
+Progress: |██████████████████████████████████████████████----| 92.1% Complete
+Progress: |██████████████████████████████████████████████----| 92.1% Complete
+Progress: |██████████████████████████████████████████████----| 92.2% Complete
+Progress: |██████████████████████████████████████████████----| 92.2% Complete
+Progress: |██████████████████████████████████████████████----| 92.3% Complete
+Progress: |██████████████████████████████████████████████----| 92.4% Complete
+Progress: |██████████████████████████████████████████████----| 92.4% Complete
+Progress: |██████████████████████████████████████████████----| 92.5% Complete
+Progress: |██████████████████████████████████████████████----| 92.5% Complete
+Progress: |██████████████████████████████████████████████----| 92.6% Complete
+Progress: |██████████████████████████████████████████████----| 92.6% Complete
+Progress: |██████████████████████████████████████████████----| 92.7% Complete
+Progress: |██████████████████████████████████████████████----| 92.8% Complete
+Progress: |██████████████████████████████████████████████----| 92.8% Complete
+Progress: |██████████████████████████████████████████████----| 92.9% Complete
+Progress: |██████████████████████████████████████████████----| 92.9% Complete
+Progress: |██████████████████████████████████████████████----| 93.0% Complete
+Progress: |██████████████████████████████████████████████----| 93.1% Complete
+Progress: |██████████████████████████████████████████████----| 93.1% Complete
+Progress: |██████████████████████████████████████████████----| 93.2% Complete
+Progress: |██████████████████████████████████████████████----| 93.2% Complete
+Progress: |██████████████████████████████████████████████----| 93.3% Complete
+Progress: |██████████████████████████████████████████████----| 93.3% Complete
+Progress: |██████████████████████████████████████████████----| 93.4% Complete
+Progress: |██████████████████████████████████████████████----| 93.5% Complete
+Progress: |██████████████████████████████████████████████----| 93.5% Complete
+Progress: |██████████████████████████████████████████████----| 93.6% Complete
+Progress: |██████████████████████████████████████████████----| 93.6% Complete
+Progress: |██████████████████████████████████████████████----| 93.7% Complete
+Progress: |██████████████████████████████████████████████----| 93.8% Complete
+Progress: |██████████████████████████████████████████████----| 93.8% Complete
+Progress: |██████████████████████████████████████████████----| 93.9% Complete
+Progress: |██████████████████████████████████████████████----| 93.9% Complete
+Progress: |██████████████████████████████████████████████----| 94.0% Complete
+Progress: |███████████████████████████████████████████████---| 94.0% Complete
+Progress: |███████████████████████████████████████████████---| 94.1% Complete
+Progress: |███████████████████████████████████████████████---| 94.2% Complete
+Progress: |███████████████████████████████████████████████---| 94.2% Complete
+Progress: |███████████████████████████████████████████████---| 94.3% Complete
+Progress: |███████████████████████████████████████████████---| 94.3% Complete
+Progress: |███████████████████████████████████████████████---| 94.4% Complete
+Progress: |███████████████████████████████████████████████---| 94.5% Complete
+Progress: |███████████████████████████████████████████████---| 94.5% Complete
+Progress: |███████████████████████████████████████████████---| 94.6% Complete
+Progress: |███████████████████████████████████████████████---| 94.6% Complete
+Progress: |███████████████████████████████████████████████---| 94.7% Complete
+Progress: |███████████████████████████████████████████████---| 94.8% Complete
+Progress: |███████████████████████████████████████████████---| 94.8% Complete
+Progress: |███████████████████████████████████████████████---| 94.9% Complete
+Progress: |███████████████████████████████████████████████---| 94.9% Complete
+Progress: |███████████████████████████████████████████████---| 95.0% Complete
+Progress: |███████████████████████████████████████████████---| 95.0% Complete
+Progress: |███████████████████████████████████████████████---| 95.1% Complete
+Progress: |███████████████████████████████████████████████---| 95.2% Complete
+Progress: |███████████████████████████████████████████████---| 95.2% Complete
+Progress: |███████████████████████████████████████████████---| 95.3% Complete
+Progress: |███████████████████████████████████████████████---| 95.3% Complete
+Progress: |███████████████████████████████████████████████---| 95.4% Complete
+Progress: |███████████████████████████████████████████████---| 95.5% Complete
+Progress: |███████████████████████████████████████████████---| 95.5% Complete
+Progress: |███████████████████████████████████████████████---| 95.6% Complete
+Progress: |███████████████████████████████████████████████---| 95.6% Complete
+Progress: |███████████████████████████████████████████████---| 95.7% Complete
+Progress: |███████████████████████████████████████████████---| 95.7% Complete
+Progress: |███████████████████████████████████████████████---| 95.8% Complete
+Progress: |███████████████████████████████████████████████---| 95.9% Complete
+Progress: |███████████████████████████████████████████████---| 95.9% Complete
+Progress: |███████████████████████████████████████████████---| 96.0% Complete
+Progress: |████████████████████████████████████████████████--| 96.0% Complete
+Progress: |████████████████████████████████████████████████--| 96.1% Complete
+Progress: |████████████████████████████████████████████████--| 96.2% Complete
+Progress: |████████████████████████████████████████████████--| 96.2% Complete
+Progress: |████████████████████████████████████████████████--| 96.3% Complete
+Progress: |████████████████████████████████████████████████--| 96.3% Complete
+Progress: |████████████████████████████████████████████████--| 96.4% Complete
+Progress: |████████████████████████████████████████████████--| 96.4% Complete
+Progress: |████████████████████████████████████████████████--| 96.5% Complete
+Progress: |████████████████████████████████████████████████--| 96.6% Complete
+Progress: |████████████████████████████████████████████████--| 96.6% Complete
+Progress: |████████████████████████████████████████████████--| 96.7% Complete
+Progress: |████████████████████████████████████████████████--| 96.7% Complete
+Progress: |████████████████████████████████████████████████--| 96.8% Complete
+Progress: |████████████████████████████████████████████████--| 96.9% Complete
+Progress: |████████████████████████████████████████████████--| 96.9% Complete
+Progress: |████████████████████████████████████████████████--| 97.0% Complete
+Progress: |████████████████████████████████████████████████--| 97.0% Complete
+Progress: |████████████████████████████████████████████████--| 97.1% Complete
+Progress: |████████████████████████████████████████████████--| 97.1% Complete
+Progress: |████████████████████████████████████████████████--| 97.2% Complete
+Progress: |████████████████████████████████████████████████--| 97.3% Complete
+Progress: |████████████████████████████████████████████████--| 97.3% Complete
+Progress: |████████████████████████████████████████████████--| 97.4% Complete
+Progress: |████████████████████████████████████████████████--| 97.4% Complete
+Progress: |████████████████████████████████████████████████--| 97.5% Complete
+Progress: |████████████████████████████████████████████████--| 97.6% Complete
+Progress: |████████████████████████████████████████████████--| 97.6% Complete
+Progress: |████████████████████████████████████████████████--| 97.7% Complete
+Progress: |████████████████████████████████████████████████--| 97.7% Complete
+Progress: |████████████████████████████████████████████████--| 97.8% Complete
+Progress: |████████████████████████████████████████████████--| 97.8% Complete
+Progress: |████████████████████████████████████████████████--| 97.9% Complete
+Progress: |████████████████████████████████████████████████--| 98.0% Complete
+Progress: |█████████████████████████████████████████████████-| 98.0% Complete
+Progress: |█████████████████████████████████████████████████-| 98.1% Complete
+Progress: |█████████████████████████████████████████████████-| 98.1% Complete
+Progress: |█████████████████████████████████████████████████-| 98.2% Complete
+Progress: |█████████████████████████████████████████████████-| 98.3% Complete
+Progress: |█████████████████████████████████████████████████-| 98.3% Complete
+Progress: |█████████████████████████████████████████████████-| 98.4% Complete
+Progress: |█████████████████████████████████████████████████-| 98.4% Complete
+Progress: |█████████████████████████████████████████████████-| 98.5% Complete
+Progress: |█████████████████████████████████████████████████-| 98.5% Complete
+Progress: |█████████████████████████████████████████████████-| 98.6% Complete
+Progress: |█████████████████████████████████████████████████-| 98.7% Complete
+Progress: |█████████████████████████████████████████████████-| 98.7% Complete
+Progress: |█████████████████████████████████████████████████-| 98.8% Complete
+Progress: |█████████████████████████████████████████████████-| 98.8% Complete
+Progress: |█████████████████████████████████████████████████-| 98.9% Complete
+Progress: |█████████████████████████████████████████████████-| 99.0% Complete
+Progress: |█████████████████████████████████████████████████-| 99.0% Complete
+Progress: |█████████████████████████████████████████████████-| 99.1% Complete
+Progress: |█████████████████████████████████████████████████-| 99.1% Complete
+Progress: |█████████████████████████████████████████████████-| 99.2% Complete
+Progress: |█████████████████████████████████████████████████-| 99.2% Complete
+Progress: |█████████████████████████████████████████████████-| 99.3% Complete
+Progress: |█████████████████████████████████████████████████-| 99.4% Complete
+Progress: |█████████████████████████████████████████████████-| 99.4% Complete
+Progress: |█████████████████████████████████████████████████-| 99.5% Complete
+Progress: |█████████████████████████████████████████████████-| 99.5% Complete
+Progress: |█████████████████████████████████████████████████-| 99.6% Complete
+Progress: |█████████████████████████████████████████████████-| 99.7% Complete
+Progress: |█████████████████████████████████████████████████-| 99.7% Complete
+Progress: |█████████████████████████████████████████████████-| 99.8% Complete
+Progress: |█████████████████████████████████████████████████-| 99.8% Complete
+Progress: |█████████████████████████████████████████████████-| 99.9% Complete
+Progress: |█████████████████████████████████████████████████-| 99.9% Complete
+Progress: |██████████████████████████████████████████████████| 100.0% Complete
     Procesando imagen: Cars0.jpg
     
 
